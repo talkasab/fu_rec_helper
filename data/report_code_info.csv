@@ -1,0 +1,193 @@
+code,InsertedRecommendable,Category,Modality,Region
+SpecialHandling,Recommendation for Additional Imaging - Special Handling/Complex,special,,
+MRBrainCranialNerves,MR Brain Cranial Nerves,neuro,MR,head
+CTChestILD,CT Chest ILD,thoracic,CT,chest
+Venogram,CTA Lower Extremity Venogram Bilateral,special,,
+XRPelvisHipRight,XR Pelvis Hip Right,msk,XR,pelvis
+WithContrast,MR Pelvis Bone I+,special,,
+USBreastAxillaRight,US Breast Axilla Right,breast,US,breast
+XRPelvisHipLeft,XR Pelvis Hip Left,msk,XR,pelvis
+WithContrast,MR Hand Right I+,special,,
+WithContrast,CT Knee Left I+,special,,
+CTToeRightIPlus,CT Toe Right I+,msk,CT,leg
+Venogram,CTA Abdomen Venogram,special,,
+USRenalContrastEnhanced,US Renal Contrast Enhanced,abdominal,US,abdomen
+Arthrogram,CT Knee Arthrogram Right,special,,
+MRAbdominalWall,MR Abdominal Wall,abdominal,MR,abdomen
+WithContrast,MR Femur Left I+,special,,
+WithContrast,MR Forearm Left I+,special,,
+WithContrast,CT Humerus Right I+,special,,
+USAscites,US Ascites,abdominal,US,abdomen
+MRLiverEovist,MR Liver Eovist,abdominal,MR,abdomen
+MRChestThymus,MR Chest Thymus,thoracic,MR,chest
+CTToeRight,CT Toe Right,msk,CT,leg
+WithContrast,CT Elbow Left I+,special,,
+Arthrogram,CT Shoulder Arthrogram Left,special,,
+FLDefecography,FL Defecography,abdominal,FL,abdomen
+WithContrast,MR Tibia Fibula Left I+,special,,
+WithContrast,CT Shoulder Right I+,special,,
+WithContrast,CT Sacrum I+,special,,
+WithContrast,MR Wrist Left I+,special,,
+WithContrast,CT Cervical Spine I+,special,,
+XRClavicleLeft,XR Clavicle Left,msk,XR,arm
+XRCalcaneusRight,XR Calcaneus Right,msk,XR,leg
+WithContrast,MR Humerus Right I+,special,,
+MRBladder,MR Bladder,abdominal,MR,pelvis
+Venogram,MRA Upper Extremity Venogram Left,special,,
+WithContrast,CT Lumbar Spine I+,special,,
+WithContrast,CT Hip Left I+,special,,
+CTKidneyStone,CT Kidney Stone,abdominal,CT,abdomen
+Venogram,CTA Lower Extremity Venogram Left,special,,
+WithContrast,CT Forearm Right I+,special,,
+Arthrogram,MR Shoulder Arthrogram Left,special,,
+MRClavicleLeft,MR Clavicle Left,msk,MR,arm
+MRClavicleRight,MR Clavicle Right,msk,MR,arm
+WithContrast,CT Humerus Left I+,special,,
+MRBrainIAC,MR Brain IAC,neuro,MR,head
+MRChestDiaphragm,MR Chest Diaphragm,thoracic,MR,chest
+XRACJointLeft,XR AC Joint Left,msk,XR,arm
+XRCalcaneusLeft,XR Calcaneus Left,msk,XR,leg
+CTPelvisBoneIPlus,CT Pelvis Bone I+,msk,CT,pelvis
+WithContrast,CT Ankle Right I+,special,,
+Venogram,CTA Upper Extremity Venogram Left,special,,
+WithContrast,MR Hip Left I+,special,,
+XRChestApical,XR Chest Apical,thoracic,XR,chest
+WithContrast,MR Thoracic Spine I+,special,,
+MRCervicalThoracicSpine,MR Cervical Thoracic Spine,spine,MR,neck
+NMPETDotatate,NM PET Dotatate,nm,PET,body
+CTAChestThoracicOutlet,CTA Chest Thoracic Outlet,cv,CTA,chest
+MRClavicleLeftIPlus,MR Clavicle Left I+,msk,MR,arm
+WithContrast,MR Elbow Left I+,special,,
+WithContrast,CT Knee Right I+,special,,
+Venogram,CTA Neck Venogram,special,,
+WithContrast,CT Forearm Left I+,special,,
+WithContrast,MR Brain I+,special,,
+MRAChestAbdomenVenogram,MRA Chest Abdomen Venogram,cv,MRA,chest
+WithContrast,MR Ankle Left I+,special,,
+MRLiverElastography,MR Liver Elastography,abdominal,MR,abdomen
+MRAxillaLeft,MR Axilla Left,msk,MR,arm
+WithContrast,CT Femur Left I+,special,,
+WithContrast,CT Hand Right I+,special,,
+MRBrainTrigeminal,MR Brain Trigeminal,neuro,MR,head
+CTChestAbdomen,CT Chest Abdomen,thoracic,CT,chest
+XRACJointBilateral,XR AC Joint Bilateral,msk,XR,arm
+Arthrogram,MR Wrist Arthrogram Right,special,,
+WithContrast,CT Hand Left I+,special,,
+MRThoracicLumbarSpineIPlus,MR Thoracic Lumbar Spine I+,spine,MR,chest
+WithContrast,CT Chest I+,special,,
+Venogram,MRA Abdomen Venogram,special,,
+XRHipswithPelvisBilateral,XR Hips with Pelvis Bilateral,msk,XR,pelvis
+XRChestNippleMarkers,XR Chest Nipple Markers,thoracic,XR,chest
+Arthrogram,MR Hip Arthrogram Right,special,,
+CTChestNodule,CT Chest Nodule,thoracic,CT,chest
+WithContrast,MR Lumbar Spine I+,special,,
+FLLoopogram,FL Loopogram,abdominal,FL,abdomen
+WithContrast,CT Finger Right I+,special,,
+WithContrast,CT Foot Right I+,special,,
+Arthrogram,MR Elbow Arthrogram Right,special,,
+WithContrast,MR Femur Right I+,special,,
+CTPelvisBone,CT Pelvis Bone,msk,CT,pelvis
+USBreastAxillaLeft,US Breast Axilla Left,breast,US,breast
+WithContrast,CT Tibia Fibula Right I+,special,,
+WithContrast,CT Wrist Left I+,special,,
+WithContrast,MR Finger Left I+,special,,
+WithContrast,CT Finger Left I+,special,,
+USSonohysterogram,US Sonohysterogram,abdominal,US,pelvis
+Venogram,CTA Lower Extremity Venogram Right,special,,
+USBreastAxillaBilateral,US Breast Axilla Bilateral,breast,US,breast
+MRScapulaRightIPlus,MR Scapula Right I+,msk,MR,arm
+USLiverContrastEnhanced,US Liver Contrast Enhanced,abdominal,US,abdomen
+NMWBCScan,NM WBC Scan,nm,NM,body
+WithContrast,CT Head I+,special,,
+CTAbdomenPelvisHypervascularTumor,CT Abdomen Pelvis Hypervascular Tumor,abdominal,CT,abdomen
+MRThoracicLumbarSpine,MR Thoracic Lumbar Spine,spine,MR,chest
+MRAThoracicOutlet,MRA Thoracic Outlet,cv,MRA,arm
+XRChestLordotic,XR Chest Lordotic,thoracic,XR,chest
+FLFistulogramSinogram,FL Fistulogram Sinogram,abdominal,FL,abdomen
+WithContrast,CT Shoulder Left I+,special,,
+WithContrast,MR Elbow Right I+,special,,
+MRAThoracicDuct,MRA Thoracic Duct,cv,MRA,chest
+WithContrast,MR Knee Left I+,special,,
+XRACJointRight,XR AC Joint Right,msk,XR,arm
+WithContrast,MR Foot Right I+,special,,
+WithContrast,MR Forearm Right I+,special,,
+Arthrogram,MR Wrist Arthrogram Left,special,,
+Venogram,CTA Head Venogram,special,,
+WithContrast,MR Hand Left I+,special,,
+Arthrogram,MR Elbow Arthrogram Left,special,,
+MRFaceCranialNerves,MR Face Cranial Nerves,neuro,MR,head
+NMPETFES,NM PET FES,nm,PET,body
+MRBrachialPlexusLeft,MR Brachial Plexus Left,neuro,MR,arm
+WithContrast,CT Ankle Left I+,special,,
+CTToeLeft,CT Toe Left,msk,CT,leg
+WithContrast,MR Finger Right I+,special,,
+MRBrachialPlexusRight,MR Brachial Plexus Right,neuro,MR,arm
+WithContrast,MR Tibia Fibula Right I+,special,,
+MRPelvis,MR Pelvis,abdominal,MR,pelvis
+Arthrogram,CT Shoulder Arthrogram Right,special,,
+USLiverElastography,US Liver Elastography,abdominal,US,abdomen
+Venogram,MRA Upper Extremity Venogram Right,special,,
+WithContrast,MR Cervical Spine I+,special,,
+WithContrast,MR Foot Left I+,special,,
+MRPelvisAppendix,MR Pelvis Appendix,abdominal,MR,pelvis
+WithContrast,CT Face I+,special,,
+WithContrast,MR Shoulder Right I+,special,,
+WithContrast,CT Wrist Right I+,special,,
+WithContrast,CT Thoracic Spine I+,special,,
+MRSacralPlexus,MR Sacral Plexus,neuro,MR,head
+MRAxillaRight,MR Axilla Right,msk,MR,arm
+WithContrast,MR Ankle Right I+,special,,
+WithContrast,MR Knee Right I+,special,,
+Arthrogram,MR Knee Arthrogram Right,special,,
+WithContrast,MR Sacrum I+,special,,
+NMLungVentilationPerfusion,NM Lung Ventilation Perfusion,nm,NM,chest
+MRCervicalThoracicSpineIPlus,MR Cervical Thoracic Spine I+,spine,MR,neck
+CTAChestAbdomenPelvis,CTA Chest Abdomen Pelvis,cv,CTA,chest
+Arthrogram,MR Hip Arthrogram Left,special,,
+USAbdomenLimited,US Abdomen Limited,abdominal,US,abdomen
+CTCardiacMass,CT Cardiac Mass,cv,CT,chest
+XRClavicleRight,XR Clavicle Right,msk,XR,arm
+MRBrainPituitary,MR Brain Pituitary,neuro,MR,head
+WithContrast,MR Shoulder Left I+,special,,
+USAxillaNonBreastLeft,US Axilla Non Breast Left,abdominal,US,arm
+NMPETCTProstateAxumin,NM PET CT Prostate Axumin,nm,PET,body
+WithContrast,MR Cervical Thoracic Lumbar Spine I+,special,,
+WithContrast,CT Foot Left I+,special,,
+WithContrast,CT Femur Right I+,special,,
+FLSmallBowelFollowThrough,FL Small Bowel Follow Through,abdominal,FL,abdomen
+MRPlacenta,MR Placenta,abdominal,MR,pelvis
+Arthrogram,CT Knee Arthrogram Left,special,,
+WithContrast,MR Hip Right I+,special,,
+MRPelvisPerianalFistula,MR Pelvis Perianal Fistula,abdominal,MR,pelvis
+MRClavicleRightIPlus,MR Clavicle Right I+,msk,MR,arm
+MRScapulaLeftIPlus,MR Scapula Left I+,msk,MR,arm
+MRDefecography,MR Defecography,abdominal,MR,pelvis
+WithContrast,CT Elbow Right I+,special,,
+Arthrogram,MR Shoulder Arthrogram Right,special,,
+WithContrast,CT Hip Right I+,special,,
+CTToeLeftIPlus,CT Toe Left I+,msk,CT,leg
+WithContrast,CT Tibia Fibula Left I+,special,,
+MRLiverIronQuantification,MR Liver Iron Quantification,abdominal,MR,abdomen
+USAxillaNonBreastRight,US Axilla Non Breast Right,abdominal,US,arm
+USParotid,US Parotid,neuro,US,head
+Arthrogram,MR Knee Arthrogram Left,special,,
+MRScapulaLeft,MR Scapula Left,msk,MR,arm
+WithContrast,MR Humerus Left I+,special,,
+MRAChestAbdomen,MRA Chest Abdomen,cv,MRA,chest
+Venogram,MRA Head Venogram,special,,
+CTChestScreeningFollowup,CT Chest Screening Follow-up,thoracic,CT,chest
+WithContrast,MR Wrist Right I+,special,,
+MRBrainSpectroscopy,MR Brain Spectroscopy,neuro,MR,head
+Venogram,CTA Upper Extremity Venogram Right,special,,
+MRScapulaRight,MR Scapula Right,msk,MR,arm
+MRPelvisBladderStaging,MR Pelvis Bladder Staging,abdominal,MR,pelvis
+MRAbdomenwithMRCP,MR Abdomen with MRCP,abdominal,MR,abdomen
+MRChestNodule,MR Chest Nodule,thoracic,MR,chest
+MRAbdomenPelvis,MR Abdomen Pelvis,abdominal,MR,abdomen
+MRAAbdomenPelvis,MRA Abdomen Pelvis,cv,MRA,abdomen
+MRChestMediastinum,MR Chest Mediastinum,thoracic,MR,chest
+MRChestPleura,MR Chest Pleura,thoracic,MR,chest
+CTColonography,CT Colonography,abdominal,CT,abdomen
+CTEnterography,CT Enterography,abdominal,CT,abdomen
+CTAPelvis,CTA Pelvis,cv,CTA,pelvis
+MRAPelvis,MRA Pelvis,cv,MRA,pelvis

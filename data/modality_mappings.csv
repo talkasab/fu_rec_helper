@@ -1,0 +1,108 @@
+﻿ID,Modality,Class,MapTo,Active
+1,Absorptiometry,Radiology,6325,1
+2,DEXA,Radiology,6325,1
+3,X-Ray - Absorptiometry,Radiology,6325,1
+4,Conventional Tomography,Radiology,6325,1
+5,CT,Radiology,6325,1
+6,Calcium Scoring,Radiology,6325,1
+7,CTA,Radiology,6325,1
+8,Echocardiography,NonRadiology,6304,1
+9,EEG,NonRadiology,6304,1
+10,ETT,NonRadiology,6304,1
+11,Fluoroscopy,Radiology,6325,1
+12,Fluoroscopy - Dynamic,Radiology,6325,1
+13,Invasive,Intervention,6305,1
+14,Angiography,Intervention,6305,1
+15,Angioplasty,Intervention,6305,1
+16,Arterial Procedure,Intervention,6305,1
+17,Arthrography,Radiology,6325,1
+18,Atherectomy,Intervention,6305,1
+19,Bronchography,NonRadiology,6304,1
+20,Cardiac Procedure,Intervention,6305,1
+21,Catheter Drainage,Intervention,6305,1
+22,Catheter Infusion,Intervention,6305,1
+23,Catheterization Cardiac,Intervention,6305,1
+24,Catheterization Transcervical,Intervention,6305,1
+25,Cholangiography,Intervention,6305,1
+26,Cisternography,Intervention,6305,1
+27,CT - Guided Biopsy,Intervention,6305,1
+28,Dacryocystography,NonRadiology,6304,1
+29,Diskography,Intervention,6305,1
+30,Endoscopic Procedure,Intervention,6305,1
+31,Epidurography,Intervention,6305,1
+32,Fistulogram,Intervention,6305,1
+33,Fluoroscopy Guidance,NonRadiology,6304,1
+34,GI Procedure,Intervention,6305,1
+35,GU Procedure,Intervention,6305,1
+36,Gyn Procedure,Intervention,6305,1
+37,Image Guided Biopsy,Intervention,6305,1
+38,Laryngography,NonRadiology,6304,1
+39,Lymphangiography,Intervention,6305,1
+40,Mammography Procedure,Intervention,6305,1
+41,MRI - Guided Biopsy,Intervention,6305,1
+42,Myelography,Radiology,6325,1
+43,OB Procedure,NonRadiology,6304,1
+44,Obstetrical,NonRadiology,6304,1
+45,Pacer Insertion,Intervention,6305,1
+46,Peritoneogram,NonRadiology,6304,1
+47,Sialography,Radiology,6325,1
+48,Sinogram,Radiology,6325,1
+49,Spinal Procedure,Intervention,6305,1
+50,Splenoportography,Intervention,6305,1
+51,Stent Placement,Intervention,6305,1
+52,Thrombectomy,Intervention,6305,1
+53,Thrombolysis,Intervention,6305,1
+54,Transcatheter Therapy,Intervention,6305,1
+55,US - IVUS,NonRadiology,6304,1
+56,US Procedure,Intervention,6305,1
+57,Vascular Procedure,Intervention,6305,1
+58,Venography,Intervention,6305,1
+59,Vertebroplasty,Intervention,6305,1
+60,Mammography,Radiology,6325,1
+61,MG,Radiology,6325,1
+62,Ductogram,Radiology,6325,1
+63,MEG,NonRadiology,6304,1
+64,MR,Radiology,6325,1
+65,MRA,Radiology,6325,1
+66,MBI,Radiology,6325,1
+67,MRI,Radiology,6325,1
+68,MRI - Flow Mapping,Radiology,6325,1
+69,MRI - Functional,Radiology,6325,1
+70,Spectroscopy,Radiology,6325,1
+71,Nuclear Medicine,Radiology,6325,1
+72,Gamma Camera Imaging - Planar,Radiology,6325,1
+73,NUC - Spect,Radiology,6325,1
+74,NUC - Venography,Radiology,6325,1
+75,Urea Breath Test,NonRadiology,6304,1
+76,Panographic Radiography,Radiology,6325,1
+77,PET,Radiology,6325,1
+78,PET - Perfusion,Radiology,6325,1
+79,PET w/ CT,Radiology,6325,1
+80,PET/CT,Radiology,6325,1
+81,PET w/CT,Radiology,6325,1
+82,Post Processing,NonRadiology,6304,1
+83,3D Render,Radiology,6325,1
+84,Radiography,Radiology,6325,1
+85,Cephalogram,NonRadiology,6304,1
+86,Cholecystography,Intervention,6305,1
+87,Pelvimetry,Radiology,6325,1
+88,X-Ray - Dental,Radiology,6325,1
+89,X-Ray - Diskography,Radiology,6325,1
+90,X-Ray - Magnification,Radiology,6325,1
+91,X-Ray - Specimen,Radiology,6325,1
+92,X-Rav - Standard,Radiology,6325,1
+93,X-Ray - Stereoscopic,Radiology,6325,1
+94,X-Ray w/Fluoroscopy,Radiology,6325,1
+95,Unspecified Radiology Procedure,Radiology,6325,1
+96,US,Radiology,6325,1
+97,Sonohysterography,Radiology,6325,1
+98,US Duplex,Radiology,6325,1
+99,US - Duplex,Radiology,6325,1
+100,US - Obstetrical,Radiology,6325,1
+101,US - Ophthalmic,NonRadiology,6304,1
+102,US • Transcranial,Radiology,6325,1
+103,US • Transesophageal,NonRadiology,6304,1
+104,US • Transrectal,Radiology,6325,1
+105,Vascular Lab,Radiology,6325,1
+106,N/A,NonRadiology,6304,1
+107,Consult,NonRadiology,6304,1

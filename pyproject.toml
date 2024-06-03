@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "fu_rec_helper"
+version = "0.1.0"
+description = "Helper app to show radiologists how to recommend follow-up imaging at MGB."
+authors = ["Tarik Alkasab <talkasab@mgh.harvard.edu>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+streamlit = "^1.35.0"
+pandas = "^2.2.2"
+pyarrow = "^16.1.0"
+pandas-stubs = "^2.2.2.240514"
+
+[tool.poetry.group.dev.dependencies]
+ruff = "^0.4.6"
+mypy = "^1.10.0"
+jupyter = "^1.0.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

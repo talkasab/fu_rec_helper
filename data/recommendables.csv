@@ -1,0 +1,428 @@
+﻿id,name,category,modality,region
+6325,Additional Imaging Needed,special,,
+6639,CT Abdomen,abdominal,CT,abdomen
+6409,CT Abdomen Pelvis,abdominal,CT,abdomen
+6335,CT Abdomen Pelvis Hypervascular Tumor,abdominal,CT,abdomen
+6371,CT Adrenal,abdominal,CT,abdomen
+6412,CT Ankle Left,msk,CT,leg
+6640,CT Ankle Left I+,msk,CT,leg
+6413,CT Ankle Right,msk,CT,leg
+6641,CT Ankle Right I+,msk,CT,leg
+6411,CT Cardiac,cv,CT,chest
+6642,CT Cardiac Mass,cv,CT,chest
+6464,CT Cervical Spine,spine,CT,neck
+6643,CT Cervical Spine I+,spine,CT,neck
+6360,CT Cervical Thoracic Lumbar Myelography,spine,CT,body
+6448,CT Chest,thoracic,CT,chest
+6345,CT Chest Abdomen,thoracic,CT,chest
+6644,CT Chest I+,thoracic,CT,chest
+6372,CT Chest ILD,thoracic,CT,chest
+6373,CT Chest Nodule,thoracic,CT,chest
+6449,CT Chest PE,thoracic,CT,chest
+6450,CT Chest Screening Follow-up,thoracic,CT,chest
+6645,CT Chest Trachea,thoracic,CT,chest
+6407,CT Colonography,abdominal,CT,abdomen
+6374,CT Cystogram,abdominal,CT,abdomen
+6414,CT Elbow Left,msk,CT,arm
+6646,CT Elbow Left I+,msk,CT,arm
+6415,CT Elbow Right,msk,CT,arm
+6647,CT Elbow Right I+,msk,CT,arm
+6408,CT Enterography,abdominal,CT,abdomen
+6441,CT Face,neuro,CT,head
+6648,CT Face I+,neuro,CT,head
+6416,CT Femur Left,msk,CT,leg
+6649,CT Femur Left I+,msk,CT,leg
+6417,CT Femur Right,msk,CT,leg
+6650,CT Femur Right I+,msk,CT,leg
+6418,CT Finger Left,msk,CT,arm
+6651,CT Finger Left I+,msk,CT,arm
+6419,CT Finger Right,msk,CT,arm
+6652,CT Finger Right I+,msk,CT,arm
+6420,CT Foot Left,msk,CT,leg
+6653,CT Foot Left I+,msk,CT,leg
+6421,CT Foot Right,msk,CT,leg
+6654,CT Foot Right I+,msk,CT,leg
+6422,CT Forearm Left,msk,CT,arm
+6655,CT Forearm Left I+,msk,CT,arm
+6423,CT Forearm Right,msk,CT,arm
+6656,CT Forearm Right I+,msk,CT,arm
+6424,CT Hand Left,msk,CT,arm
+6657,CT Hand Left I+,msk,CT,arm
+6425,CT Hand Right,msk,CT,arm
+6658,CT Hand Right I+,msk,CT,arm
+6443,CT Head,neuro,CT,head
+6659,CT Head I+,neuro,CT,head
+6426,CT Hip Left,msk,CT,pelvis
+6660,CT Hip Left I+,msk,CT,pelvis
+6427,CT Hip Right,msk,CT,pelvis
+6661,CT Hip Right I+,msk,CT,pelvis
+6428,CT Humerus Left,msk,CT,arm
+6662,CT Humerus Left I+,msk,CT,arm
+6429,CT Humerus Right,msk,CT,arm
+6663,CT Humerus Right I+,msk,CT,arm
+6375,CT Kidney Stone,abdominal,CT,abdomen
+6346,CT Knee Arthrogram Left,msk,CT,leg
+6347,CT Knee Arthrogram Right,msk,CT,leg
+6430,CT Knee Left,msk,CT,leg
+6664,CT Knee Left I+,msk,CT,leg
+6431,CT Knee Right,msk,CT,leg
+6665,CT Knee Right I+,msk,CT,leg
+6376,CT Liver,abdominal,CT,abdomen
+6460,CT Lumbar Spine,spine,CT,abdomen
+6666,CT Lumbar Spine I+,spine,CT,abdomen
+6461,CT Neck,neuro,CT,neck
+6342,CT Pancreas,abdominal,CT,abdomen
+6667,CT Parathyroid,neuro,CT,neck
+6462,CT Pelvis,abdominal,CT,pelvis
+6463,CT Pelvis Bone,msk,CT,pelvis
+6668,CT Pelvis Bone I+,msk,CT,pelvis
+6377,CT Renal,abdominal,CT,abdomen
+6434,CT Sacrum,spine,CT,pelvis
+6669,CT Sacrum I+,spine,CT,pelvis
+6348,CT Shoulder Arthrogram Left,msk,CT,arm
+6349,CT Shoulder Arthrogram Right,msk,CT,arm
+6435,CT Shoulder Left,msk,CT,arm
+6670,CT Shoulder Left I+,msk,CT,arm
+6436,CT Shoulder Right,msk,CT,arm
+6671,CT Shoulder Right I+,msk,CT,arm
+6378,CT Sinus,neuro,CT,head
+6445,CT Temporal Bone,neuro,CT,head
+6465,CT Thoracic Spine,spine,CT,chest
+6672,CT Thoracic Spine I+,spine,CT,chest
+6432,CT Tibia Fibula Left,msk,CT,leg
+6673,CT Tibia Fibula Left I+,msk,CT,leg
+6433,CT Tibia Fibula Right,msk,CT,leg
+6674,CT Tibia Fibula Right I+,msk,CT,leg
+6442,CT TMJ,msk,CT,head
+6437,CT Toe Left,msk,CT,leg
+6675,CT Toe Left I+,msk,CT,leg
+6438,CT Toe Right,msk,CT,leg
+6676,CT Toe Right I+,msk,CT,leg
+6410,CT Urogram,abdominal,CT,pelvis
+6439,CT Wrist Left,msk,CT,arm
+6677,CT Wrist Left I+,msk,CT,arm
+6440,CT Wrist Right,msk,CT,arm
+6678,CT Wrist Right I+,msk,CT,arm
+6679,CTA Abdomen,cv,CTA,abdomen
+6451,CTA Abdomen Pelvis,cv,CTA,abdomen
+6680,CTA Abdomen Pelvis Venogram,cv,CTA,abdomen
+6379,CTA Abdomen Venogram,cv,CTA,abdomen
+6452,CTA Chest,cv,CTA,chest
+6344,CTA Chest Abdomen Pelvis,cv,CTA,chest
+6453,CTA Chest Thoracic Outlet,cv,CTA,chest
+6681,CTA Chest Venogram,cv,CTA,chest
+6454,CTA Coronary Artery,cv,CTA,chest
+6444,CTA Head,neuro,CTA,head
+6478,CTA Head Neck,neuro,CTA,head
+6380,CTA Head Venogram,neuro,CTA,head
+6457,CTA Lower Extremity Bilateral,cv,CTA,leg
+6682,CTA Lower Extremity Venogram Bilateral,cv,CTA,leg
+6455,CTA Lower Extremity Left,cv,CTA,leg
+6683,CTA Lower Extremity Venogram Left,cv,CTA,leg
+6456,CTA Lower Extremity Right,cv,CTA,leg
+6684,CTA Lower Extremity Venogram Right,cv,CTA,leg
+6446,CTA Neck,neuro,CTA,neck
+6381,CTA Neck Venogram,neuro,CTA,neck
+6447,CTA Pelvis,cv,CTA,pelvis
+6458,CTA Upper Extremity Left,cv,CTA,arm
+6459,CTA Upper Extremity Right,cv,CTA,arm
+6685,CTA Upper Extremity Venogram Right,cv,CTA,arm
+6484,CTA Upper Extremity Venogram Left,cv,CTA,arm
+6466,FL Barium Enema,abdominal,FL,abdomen
+6467,FL Barium Swallow,abdominal,FL,chest
+6476,FL Chest Sniff,thoracic,FL,chest
+6468,FL Cystogram,abdominal,FL,pelvis
+6469,FL Defecography,abdominal,FL,abdomen
+6470,FL Fistulogram Sinogram,abdominal,FL,abdomen
+6471,FL HSG,abdominal,FL,pelvis
+6472,FL Loopogram,abdominal,FL,abdomen
+6473,FL Small Bowel Follow Through,abdominal,FL,abdomen
+6474,FL Upper GI,abdominal,FL,abdomen
+6475,FL Vaginogram,abdominal,FL,pelvis
+6305,Interventional Procedure Recommendation,special,,
+6477,MG Breast Diagnostic Bilateral,breast,MG,breast
+6479,MG Breast Diagnostic Left,breast,MG,breast
+6480,MG Breast Diagnostic Right,breast,MG,breast
+6481,MR Abdomen,abdominal,MR,abdomen
+6337,MR Abdomen with MRCP,abdominal,MR,abdomen
+6361,MR Abdomen Pelvis,abdominal,MR,abdomen
+6482,MR Abdominal Wall,abdominal,MR,abdomen
+6382,MR Adrenal,abdominal,MR,abdomen
+6494,MR Ankle Left,msk,MR,leg
+6686,MR Ankle Left I+,msk,MR,leg
+6495,MR Ankle Right,msk,MR,leg
+6687,MR Ankle Right I+,msk,MR,leg
+6496,MR Axilla Left,msk,MR,arm
+6497,MR Axilla Right,msk,MR,arm
+6383,MR Bladder,abdominal,MR,pelvis
+6498,MR Brachial Plexus Left,neuro,MR,arm
+6499,MR Brachial Plexus Right,neuro,MR,arm
+6532,MR Brain,neuro,MR,head
+6688,MR Brain Cranial Nerves,neuro,MR,head
+6384,MR Brain I+,neuro,MR,head
+6343,MR Brain IAC,neuro,MR,head
+6385,MR Brain Pituitary,neuro,MR,head
+6341,MR Brain Spectroscopy,neuro,MR,head
+6386,MR Brain Trigeminal,neuro,MR,head
+6490,MR Breast Bilateral,breast,MR,breast
+6689,MR Breast Left,breast,MR,breast
+6690,MR Breast Right,breast,MR,breast
+6491,MR Cardiac,cv,MR,chest
+6362,MR Cervical Thoracic Spine,spine,MR,neck
+6544,MR Cervical Spine,spine,MR,neck
+6392,MR Cervical Spine I+,spine,MR,neck
+6363,MR Cervical Thoracic Lumbar Spine,spine,MR,body
+6387,MR Cervical Thoracic Lumbar Spine I+,spine,MR,body
+6691,MR Cervical Thoracic Spine I+,spine,MR,neck
+6538,MR Chest,thoracic,MR,chest
+6331,MR Chest Diaphragm,thoracic,MR,chest
+6388,MR Chest Mediastinum,thoracic,MR,chest
+6339,MR Chest Nodule,thoracic,MR,chest
+6389,MR Chest Pleura,thoracic,MR,chest
+6390,MR Chest Thymus,thoracic,MR,chest
+6391,MR Chest Wall,thoracic,MR,chest
+6500,MR Clavicle Left,msk,MR,arm
+6692,MR Clavicle Left I+,msk,MR,arm
+6501,MR Clavicle Right,msk,MR,arm
+6693,MR Clavicle Right I+,msk,MR,arm
+6393,MR Defecography,abdominal,MR,pelvis
+6350,MR Elbow Arthrogram Left,msk,MR,arm
+6351,MR Elbow Arthrogram Right,msk,MR,arm
+6502,MR Elbow Left,msk,MR,arm
+6694,MR Elbow Left I+,msk,MR,arm
+6503,MR Elbow Right,msk,MR,arm
+6695,MR Elbow Right I+,msk,MR,arm
+6483,MR Enterography,abdominal,MR,abdomen
+6533,MR Face,neuro,MR,head
+6696,MR Face Cranial Nerves,neuro,MR,head
+6504,MR Femur Left,msk,MR,leg
+6697,MR Femur Left I+,msk,MR,leg
+6505,MR Femur Right,msk,MR,leg
+6698,MR Femur Right I+,msk,MR,leg
+6506,MR Finger Left,msk,MR,arm
+6699,MR Finger Left I+,msk,MR,arm
+6507,MR Finger Right,msk,MR,arm
+6700,MR Finger Right I+,msk,MR,arm
+6508,MR Foot Left,msk,MR,leg
+6701,MR Foot Left I+,msk,MR,leg
+6509,MR Foot Right,msk,MR,leg
+6702,MR Foot Right I+,msk,MR,leg
+6510,MR Forearm Left,msk,MR,arm
+6703,MR Forearm Left I+,msk,MR,arm
+6511,MR Forearm Right,msk,MR,arm
+6704,MR Forearm Right I+,msk,MR,arm
+6512,MR Hand Left,msk,MR,arm
+6705,MR Hand Left I+,msk,MR,arm
+6513,MR Hand Right,msk,MR,arm
+6706,MR Hand Right I+,msk,MR,arm
+6352,MR Hip Arthrogram Left,msk,MR,pelvis
+6353,MR Hip Arthrogram Right,msk,MR,pelvis
+6514,MR Hip Left,msk,MR,pelvis
+6707,MR Hip Left I+,msk,MR,pelvis
+6515,MR Hip Right,msk,MR,pelvis
+6708,MR Hip Right I+,msk,MR,pelvis
+6516,MR Humerus Left,msk,MR,arm
+6709,MR Humerus Left I+,msk,MR,arm
+6517,MR Humerus Right,msk,MR,arm
+6710,MR Humerus Right I+,msk,MR,arm
+6354,MR Knee Arthrogram Left,msk,MR,leg
+6355,MR Knee Arthrogram Right,msk,MR,leg
+6518,MR Knee Left,msk,MR,leg
+6711,MR Knee Left I+,msk,MR,leg
+6519,MR Knee Right,msk,MR,leg
+6712,MR Knee Right I+,msk,MR,leg
+6394,MR Liver,abdominal,MR,abdomen
+6332,MR Liver Elastography,abdominal,MR,abdomen
+6333,MR Liver Eovist,abdominal,MR,abdomen
+6336,MR Liver Iron Quantification,abdominal,MR,abdomen
+6545,MR Lumbar Spine,spine,MR,abdomen
+6395,MR Lumbar Spine I+,spine,MR,abdomen
+6535,MR Neck,neuro,MR,neck
+6396,MR Orbits,neuro,MR,head
+6398,MR Parotid,neuro,MR,head
+6334,MR Pelvis,abdominal,MR,pelvis
+6399,MR Pelvis Appendix,abdominal,MR,pelvis
+6328,MR Pelvis Bladder Staging,abdominal,MR,pelvis
+6521,MR Pelvis Bone,msk,MR,pelvis
+6713,MR Pelvis Bone I+,msk,MR,pelvis
+6486,MR Pelvis GIGU,abdominal,MR,pelvis
+6485,MR Pelvis Gyn,abdominal,MR,pelvis
+6400,MR Pelvis Perianal Fistula,abdominal,MR,pelvis
+6487,MR Penis Scrotum,abdominal,MR,pelvis
+6401,MR Placenta,abdominal,MR,pelvis
+6488,MR Prostate,abdominal,MR,pelvis
+6402,MR Rectum,abdominal,MR,pelvis
+6403,MR Renal,abdominal,MR,abdomen
+6520,MR Sacral Plexus,neuro,MR,head
+6522,MR Sacrum,spine,MR,pelvis
+6714,MR Sacrum I+,spine,MR,pelvis
+6523,MR Scapula Left,msk,MR,arm
+6715,MR Scapula Left I+,msk,MR,arm
+6524,MR Scapula Right,msk,MR,arm
+6716,MR Scapula Right I+,msk,MR,arm
+6356,MR Shoulder Arthrogram Left,msk,MR,arm
+6357,MR Shoulder Arthrogram Right,msk,MR,arm
+6525,MR Shoulder Left,msk,MR,arm
+6717,MR Shoulder Left I+,msk,MR,arm
+6526,MR Shoulder Right,msk,MR,arm
+6718,MR Shoulder Right I+,msk,MR,arm
+6404,MR Sinus,neuro,MR,head
+6340,MR Skull Base,neuro,MR,head
+6364,MR Thoracic Lumbar Spine,spine,MR,chest
+6719,MR Thoracic Lumbar Spine I+,spine,MR,chest
+6546,MR Thoracic Spine,spine,MR,chest
+6405,MR Thoracic Spine I+,spine,MR,chest
+6527,MR Tibia Fibula Left,msk,MR,leg
+6720,MR Tibia Fibula Left I+,msk,MR,leg
+6528,MR Tibia Fibula Right,msk,MR,leg
+6721,MR Tibia Fibula Right I+,msk,MR,leg
+6537,MR TMJ,msk,MR,head
+6489,MR Urogram,abdominal,MR,pelvis
+6358,MR Wrist Arthrogram Left,msk,MR,arm
+6359,MR Wrist Arthrogram Right,msk,MR,arm
+6529,MR Wrist Left,msk,MR,arm
+6722,MR Wrist Left I+,msk,MR,arm
+6530,MR Wrist Right,msk,MR,arm
+6723,MR Wrist Right I+,msk,MR,arm
+6539,MRA Abdomen,cv,MRA,abdomen
+6367,MRA Abdomen Pelvis,cv,MRA,abdomen
+6724,MRA Abdomen Pelvis Venogram,cv,MRA,abdomen
+6338,MRA Abdomen Venogram,cv,MRA,abdomen
+6725,MRA Brain Neck,neuro,MRA,head
+6540,MRA Chest,cv,MRA,chest
+6726,MRA Chest Abdomen,cv,MRA,chest
+6727,MRA Chest Abdomen Venogram,cv,MRA,chest
+6534,MRA Head,neuro,MRA,head
+6406,MRA Head Venogram,neuro,MRA,head
+6492,MRA Lower Extremity Left,cv,MRA,leg
+6493,MRA Lower Extremity Right,cv,MRA,leg
+6536,MRA Neck,neuro,MRA,neck
+6541,MRA Pelvis,cv,MRA,pelvis
+6397,MRA Popliteal Entrapment Left,cv,MRA,leg
+6728,MRA Popliteal Entrapment Right,cv,MRA,leg
+6531,MRA Spine,neuro,MRA,head
+6729,MRA Thoracic Duct,cv,MRA,chest
+6730,MRA Thoracic Outlet,cv,MRA,arm
+6542,MRA Upper Extremity Left,cv,MRA,arm
+6543,MRA Upper Extremity Right,cv,MRA,arm
+6366,MRA Upper Extremity Venogram Left,cv,MRA,arm
+6365,MRA Upper Extremity Venogram Right,cv,MRA,arm
+6547,NC PET Cardiac,nm,NM,chest
+6548,NM Bone Scan,nm,NM,body
+6549,NM Gallbladder HIDA,nm,NM,abdomen
+6553,NM Liver Spleen Sulfur Colloid,nm,NM,abdomen
+6554,NM Lung Ventilation Perfusion,nm,NM,chest
+6555,NM Parathyroid,nm,NM,neck
+6559,NM PET CT Prostate Axumin,nm,PET,body
+6558,NM PET Dotatate,nm,PET,body
+6368,NM PET FES,nm,PET,body
+6369,NM PET PSMA,nm,PET,body
+6731,NM PET Scalp to Toes,nm,PET,body
+6732,NM PET Skull Base to Mid Thighs,nm,PET,body
+6551,NM Renal,nm,NM,abdomen
+6556,NM Spleen RBC Scan,nm,NM,abdomen
+6550,NM Stomach Gastric Emptying,nm,NM,abdomen
+6557,NM Thyroid,nm,NM,neck
+6552,NM WBC Scan,nm,NM,body
+6304,Non-Radiology Recommendation,special,,
+6307,Recommendation for Additional Imaging - Laterality Unspecified,special,,
+6306,Recommendation for Additional Imaging - Special Handling/Complex,special,,
+6560,US Abdomen Complete,abdominal,US,abdomen
+6370,US Abdomen Limited,abdominal,US,abdomen
+6753,US Abdomen Vasculature,abdominal,US,abdomen
+6585,US Aorta,cv,US,abdomen
+6561,US Ascites,abdominal,US,abdomen
+6573,US Axilla Non Breast Left,abdominal,US,arm
+6574,US Axilla Non Breast Right,abdominal,US,arm
+6562,US Bladder,abdominal,US,pelvis
+6581,US Brain,neuro,US,head
+6733,US Breast Axilla Bilateral,breast,US,breast
+6734,US Breast Axilla Left,breast,US,breast
+6735,US Breast Axilla Right,breast,US,breast
+6571,US Breast Left,breast,US,breast
+6572,US Breast Right,breast,US,breast
+6582,US Carotid,neuro,US,neck
+6736,US Chest,thoracic,US,chest
+6583,US Chest Wall,thoracic,US,chest
+6575,US Inguinal Left,abdominal,US,pelvis
+6576,US Inguinal Right,abdominal,US,pelvis
+6330,US Liver Contrast Enhanced,abdominal,US,abdomen
+6564,US Liver Elastography,abdominal,US,abdomen
+6586,US Lower Extremity Artery Left,cv,US,leg
+6587,US Lower Extremity Artery Right,cv,US,leg
+6591,US Lower Extremity Venous Bilateral,cv,US,leg
+6592,US Lower Extremity Venous Left,cv,US,leg
+6593,US Lower Extremity Venous Right,cv,US,leg
+6579,US Neck,abdominal,US,neck
+6580,US Parotid,neuro,US,head
+6566,US Pelvis,abdominal,US,pelvis
+6567,US Penis,abdominal,US,pelvis
+6568,US Prostate,abdominal,US,pelvis
+6563,US Renal,abdominal,US,abdomen
+6590,US Renal Artery,cv,US,abdomen
+6329,US Renal Contrast Enhanced,abdominal,US,abdomen
+6570,US Right Upper Quadrant,abdominal,US,abdomen
+6569,US Scrotum,abdominal,US,pelvis
+6577,US Shoulder Left,msk,US,arm
+6578,US Shoulder Right,msk,US,arm
+6565,US Sonohysterogram,abdominal,US,pelvis
+6584,US Thyroid,abdominal,US,neck
+6588,US Upper Extremity Artery Left,cv,US,arm
+6589,US Upper Extremity Artery Right,cv,US,arm
+6594,US Upper Extremity Venous Left,cv,US,arm
+6595,US Upper Extremity Venous Right,cv,US,arm
+6596,XR Abdomen,abdominal,XR,abdomen
+6597,XR AC Joint Left,msk,XR,arm
+6598,XR AC Joint Right,msk,XR,arm
+6737,XR AC Joint Bilateral,msk,XR,arm
+6599,XR Ankle Left,msk,XR,leg
+6600,XR Ankle Right,msk,XR,leg
+6614,XR Calcaneus Left,msk,XR,leg
+6615,XR Calcaneus Right,msk,XR,leg
+6603,XR Cervical Spine,msk,XR,neck
+6637,XR Chest,thoracic,XR,chest
+6738,XR Chest Apical,thoracic,XR,chest
+6739,XR Chest Lordotic,thoracic,XR,chest
+6740,XR Chest Nipple Markers,thoracic,XR,chest
+6601,XR Clavicle Left,msk,XR,arm
+6602,XR Clavicle Right,msk,XR,arm
+6604,XR Elbow Left,msk,XR,arm
+6605,XR Elbow Right,msk,XR,arm
+6636,XR Face,msk,XR,head
+6608,XR Femur Left,msk,XR,leg
+6609,XR Femur Right,msk,XR,leg
+6610,XR Finger Left,msk,XR,arm
+6611,XR Finger Right,msk,XR,arm
+6741,XR Foot Bilateral,msk,XR,leg
+6612,XR Foot Left,msk,XR,leg
+6613,XR Foot Right,msk,XR,arm
+6606,XR Forearm Left,msk,XR,arm
+6607,XR Forearm Right,msk,XR,arm
+6742,XR Hand Bilateral,msk,XR,arm
+6618,XR Hand Left,msk,XR,arm
+6619,XR Hand Right,msk,XR,arm
+6743,XR Hip Bilateral,msk,XR,pelvis
+6616,XR Hip Left,msk,XR,pelvis
+6617,XR Hip Right,msk,XR,pelvis
+6744,XR Hips with Pelvis Bilateral,msk,XR,pelvis
+6620,XR Humerus Left,msk,XR,arm
+6621,XR Humerus Right,msk,XR,arm
+6745,XR Knee Bilateral,msk,XR,leg
+6622,XR Knee Left,msk,XR,leg
+6623,XR Knee Right,msk,XR,leg
+6624,XR Lumbar Spine,msk,XR,abdomen
+6638,XR Neck,msk,XR,neck
+6627,XR Pelvis,msk,XR,pelvis
+6625,XR Pelvis Hip Left,msk,XR,pelvis
+6626,XR Pelvis Hip Right,msk,XR,pelvis
+6746,XR Ribs Bilateral,msk,XR,chest
+6628,XR Ribs Left,msk,XR,chest
+6629,XR Ribs Right,msk,XR,chest
+6747,XR Shoulder Bilateral,msk,XR,arm
+6630,XR Shoulder Left,msk,XR,arm
+6631,XR Shoulder Right,msk,XR,arm
+6632,XR Tibia Fibula Left,msk,XR,leg
+6633,XR Tibia Fibula Right,msk,XR,leg
+6748,XR Wrist Bilateral,msk,XR,arm
+6634,XR Wrist Left,msk,XR,arm
+6635,XR Wrist Right,msk,XR,arm
