@@ -15,25 +15,41 @@ from utils import (
     load_data,
 )
 
-mappings, report_codes, recommendables, modality_mappings = load_data()
-
 
 # See https://discuss.streamlit.io/t/where-to-set-page-width-when-set-into-non-widescreeen-mode/959/15
 def set_width_pixels(width: int):
     assert width >= 500 and width <= 1200, "Width must ≥500 and ≤ 1200."
-    st.markdown(
+    st.html(
         f"""
 <style>
     .appview-container .main .block-container{{
         max-width: {width}px;
     }}
 </style>
-    """,
-        unsafe_allow_html=True,
+    """
     )
 
 
+ABOUT_TEXT = """
+# CSR Action Guide
+This is an app to help radiologists at MGB recommend follow-up imaging. 
+It shows what exams are recommended based on the body part, modality, and laterality selected. 
+It also shows how to recommend each exam.
+"""
+
+st.set_page_config(
+    page_title="CSR Action Guide",
+    page_icon="📖",
+    initial_sidebar_state="collapsed",
+    menu_items={
+        "Get Help": None,
+        "Report a Bug": None,
+        "About": ABOUT_TEXT,
+    },
+)
 set_width_pixels(1000)
+
+mappings, report_codes, recommendables, modality_mappings = load_data()
 
 st.title("CSR Action Helper")
 st.write("Helper app to show radiologists how to recommend follow-up imaging at MGB.")
