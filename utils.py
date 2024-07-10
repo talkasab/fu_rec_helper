@@ -6,7 +6,8 @@ import streamlit as st
 from constants import FILE_NAMES, SPECIAL_HANDLING, SPECIAL_RECOMMENDABLES
 
 
-def normalize_string(in_string: str) -> str:
+def normalize_string(in_string: str | None) -> str:
+    assert in_string is not None
     out = in_string.lower()
     return re.sub(r"\W", "", out)
 
@@ -21,6 +22,10 @@ def get_code_for_recommendable(
         return codes.iloc[0] if not codes.empty else None
     except IndexError:
         return None
+
+
+def get_report_form_for_code(code: str) -> str:
+    return "{REC:" + code + "}"
 
 
 @st.cache_data
@@ -43,7 +48,9 @@ def load_data() -> tuple[pd.DataFrame, pd.DataFrame, pd.DataFrame, pd.DataFrame]
         ):
             return "—"
         if recommendable in report_code_recommendables:
-            return get_code_for_recommendable(report_codes, recommendable)
+            code = get_code_for_recommendable(report_codes, recommendable)
+            assert code is not None
+            return code
         return "Unknown"
 
     recommendables["Code"] = recommendables["Name"].apply(classify_recommendable)
@@ -63,9 +70,9 @@ def get_recommendable(
     modality_norm = normalize_string(modality)
     laterality_norm = normalize_string(laterality) or "unspecified"
     try:
-        value = mappings.loc[
+        value = mappings.loc[  # type: ignore
             (body_part_norm, modality_norm, laterality_norm), "Recommendable"
-        ].to_list()
+        ].to_list()  # type: ignore
         return value[0] if value else None
     except KeyError:
         return None
@@ -83,7 +90,7 @@ def get_fallback_recommendable(
 ) -> str | None:
     modality_norm = normalize_string(modality)
     try:
-        cls = modality_mappings.loc[modality_norm, "Class"]
+        cls = str(modality_mappings.loc[modality_norm, "Class"])
         return FALLBACK_RECOMMENDABLES[cls]
     except KeyError:
         return None
@@ -132,4 +139,5 @@ def get_code_and_mappings_for_unmapped_recommendable(
     result.reset_index(drop=True, inplace=True)
     # get unique combinations of BodyPart, Modality, and Laterality
     result.drop_duplicates(inplace=True)
+    assert code is not None
     return code, result

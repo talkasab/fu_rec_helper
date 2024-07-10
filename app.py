@@ -12,18 +12,25 @@ from utils import (
     get_mappings_for_recommendable,
     get_recommendable,
     get_report_codes_for_recommendable,
+    get_report_form_for_code,
     load_data,
 )
 
 
 # See https://discuss.streamlit.io/t/where-to-set-page-width-when-set-into-non-widescreeen-mode/959/15
-def set_width_pixels(width: int):
+def set_style(*, width: int):
     assert width >= 500 and width <= 1200, "Width must ≥500 and ≤ 1200."
     st.html(
         f"""
 <style>
     .appview-container .main .block-container{{
         max-width: {width}px;
+    }}
+
+    code{{
+        color: #092090;
+        background-color: #e0e0f0;
+        font-size: 0.9em;
     }}
 </style>
     """
@@ -43,11 +50,11 @@ st.set_page_config(
     initial_sidebar_state="collapsed",
     menu_items={
         "Get Help": None,
-        "Report a Bug": None,
+        "Report a bug": None,
         "About": ABOUT_TEXT,
     },
 )
-set_width_pixels(1000)
+set_style(width=1000)
 
 mappings, report_codes, recommendables, modality_mappings = load_data()
 
@@ -76,9 +83,9 @@ def get_markdown_for_recommendable(recommendable: str):
 
 def get_markdown_for_report_codes(report_codes: list[tuple[str, str]]):
     markdown = "#### :mag: Report Codes\n"
-    markdown += f"- **{SPECIAL_HANDLING}**: `{{{{SpecialHandling}}}}`  \n{SPECIAL_RECOMMENDABLES[SPECIAL_HANDLING]}\n"
+    markdown += f"- **{SPECIAL_HANDLING}**: `{get_report_form_for_code('SpecialHandling')}`  \n{SPECIAL_RECOMMENDABLES[SPECIAL_HANDLING]}\n"
     for code, description in report_codes:
-        markdown += f"- **{description}**: `{{{{{code}}}}}`\n"
+        markdown += f"- **{description}**: `{get_report_form_for_code(code)}`\n"
     return markdown
 
 
@@ -91,10 +98,10 @@ if submit_button:
         ) or get_fallback_recommendable(modality_mappings, modality)
         if recommendable:
             st.info(get_markdown_for_recommendable(recommendable))
-            report_codes = get_report_codes_for_recommendable(
+            recommendable_report_codes = get_report_codes_for_recommendable(
                 report_codes, recommendable
             )
-            st.markdown(get_markdown_for_report_codes(report_codes))
+            st.markdown(get_markdown_for_report_codes(recommendable_report_codes))
         else:
             st.write("No recommendation found.")
 
@@ -123,7 +130,9 @@ if search_recommendable:
         code, search_mappings = get_code_and_mappings_for_unmapped_recommendable(
             mappings, report_codes, search_recommendable
         )
-        st.write(f"Code for **{search_recommendable}**: `{{{{{code}}}}}`")
+        st.write(
+            f"Code for **{search_recommendable}**: `{get_report_form_for_code(code)}`"
+        )
         st.write(
             "Use the code with any of the following body part/modality combinations:"
         )
