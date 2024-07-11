@@ -54,8 +54,12 @@ def load_data() -> tuple[pd.DataFrame, pd.DataFrame, pd.DataFrame, pd.DataFrame]
         return "Unknown"
 
     recommendables["Code"] = recommendables["Name"].apply(classify_recommendable)
-
     return mappings, report_codes, recommendables, modality_mappings
+
+
+def get_recommendables_df() -> pd.DataFrame:
+    dfs = load_data()
+    return dfs[2]
 
 
 def get_recommendable(
