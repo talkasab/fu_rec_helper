@@ -4,10 +4,11 @@ version = "0.1.0"
 description = "Helper app to show radiologists how to recommend follow-up imaging at MGB."
 authors = ["Tarik Alkasab <talkasab@mgh.harvard.edu>"]
 readme = "README.md"
+package-mode = false
 
 [tool.poetry.dependencies]
 python = "^3.11"
-streamlit = "^1.35.0"
+streamlit = "^1.36.0"
 pandas = "^2.2.2"
 pyarrow = "^16.1.0"
 pandas-stubs = "^2.2.2.240514"
@@ -16,6 +17,7 @@ pandas-stubs = "^2.2.2.240514"
 ruff = "^0.5.1"
 mypy = "^1.10.0"
 jupyter = "^1.0.0"
+watchdog = "^4.0.1"
 
 [build-system]
 requires = ["poetry-core"]
