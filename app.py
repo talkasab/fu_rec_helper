@@ -44,10 +44,13 @@ set_style(width=1000)
 
 st.title("CSR Action Guide")
 
-what_happens = st.Page("what_happens.py", title="What Happens When I...?", default=True)
+use_fup_tool = st.Page(
+    "use_fup_tool.py", title="How to Use the Follow-up Tool", default=True
+)
+what_happens = st.Page("what_happens.py", title="What Happens When I...?")
 how_to_recommend = st.Page("how_to_recommend.py", title="How Do I Recommend...?")
 recommendables = st.Page("recommendables.py", title="Recommendable Exams")
 
-app = st.navigation([what_happens, how_to_recommend, recommendables])
+app = st.navigation([use_fup_tool, what_happens, how_to_recommend, recommendables])
 
 app.run()
