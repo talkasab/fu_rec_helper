@@ -24,4 +24,13 @@ as given by the macro.
 col2.image("images/how_to_1.png", use_column_width=True)
 col2.image("images/how_to_2.png", use_column_width=True)
 
+
+@st.experimental_dialog("Video", width="large")
+def video_dialog(file_path: str):
+    st.video(file_path, autoplay=True)
+
+
+if st.button("Show Video"):
+    video_dialog("videos/StraightforwardRecommendation.mp4")
+
 col1, col2 = st.columns([3, 2])
