@@ -33,7 +33,7 @@ It also shows how to recommend each exam.
 st.set_page_config(
     page_title="CSR Action Guide",
     page_icon="📖",
-    initial_sidebar_state="collapsed",
+    # initial_sidebar_state="collapsed",
     menu_items={
         "Get Help": None,
         "Report a bug": None,
