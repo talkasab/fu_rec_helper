@@ -32,7 +32,7 @@ It also shows how to recommend each exam.
 
 st.set_page_config(
     page_title="CSR Action Guide",
-    page_icon="📖",
+    page_icon="images/favicon.png",
     # initial_sidebar_state="collapsed",
     menu_items={
         "Get Help": None,
@@ -42,15 +42,29 @@ st.set_page_config(
 )
 set_style(width=1000)
 
-st.title("CSR Action Guide")
+# st.logo(
+#     "images/favicon.png",
+#     # icon_image="images/favicon.png",
+# )
 
-use_fup_tool = st.Page(
-    "use_fup_tool.py", title="How to Use the Follow-up Tool", default=True
+# col1, col2 = st.columns([2, 1])
+# col1.title("CSR Action Guide")
+# col2.image("images/csr_action_big_logo.png", width=300)
+st.logo("images/csr_action_name_horiz.png", icon_image="images/favicon.png")
+st.image("images/csr_action_big_logo_horiz.png")
+
+basic_usage = st.Page("basic_usage.py", title="Basic Workflow", default=True)
+what_happens = st.Page("what_happens.py", title="Tool Simulator")
+how_to_recommend = st.Page("how_to_recommend.py", title="How to Recommend Exam")
+recommendables = st.Page("recommendables.py", title="All Recommendable Exams")
+
+st.sidebar.title("Navigation")
+app = st.navigation(
+    {
+        "Radiologist Usage": [basic_usage],
+        # More Information
+        "Tools": [what_happens, how_to_recommend, recommendables],
+    }
 )
-what_happens = st.Page("what_happens.py", title="What Happens When I...?")
-how_to_recommend = st.Page("how_to_recommend.py", title="How Do I Recommend...?")
-recommendables = st.Page("recommendables.py", title="Recommendable Exams")
-
-app = st.navigation([use_fup_tool, what_happens, how_to_recommend, recommendables])
 
 app.run()
