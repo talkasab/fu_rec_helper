@@ -12,7 +12,7 @@ def video_dialog(file_path: str):
 
 
 if col2.button("Show Video"):
-    video_dialog("videos/StraightforwardRecommendation.mp4")
+    video_dialog("videos/StraightforwardRecommendation2.mp4")
 
 st.image("images/how_to_1.png", use_column_width="auto")
 col1, col2 = st.columns(2)
