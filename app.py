@@ -58,7 +58,6 @@ what_happens = st.Page("what_happens.py", title="Tool Simulator")
 how_to_recommend = st.Page("how_to_recommend.py", title="How to Recommend Exam")
 recommendables = st.Page("recommendables.py", title="All Recommendable Exams")
 
-st.sidebar.title("Navigation")
 app = st.navigation(
     {
         "Radiologist Usage": [basic_usage],
