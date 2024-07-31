@@ -55,6 +55,9 @@ st.image("images/csr_action_big_logo_horiz.png")
 
 about = st.Page("about.py", title="About", default=True)
 basic_usage = st.Page("basic_usage.py", title="Basic Workflow")
+
+vid_basic = st.Page("vid_basic.py", title="Basic Recommendation")
+
 what_happens = st.Page("what_happens.py", title="Tool Simulator")
 how_to_recommend = st.Page("how_to_recommend.py", title="How to Recommend Exam")
 recommendables = st.Page("recommendables.py", title="All Recommendable Exams")
@@ -62,7 +65,7 @@ recommendables = st.Page("recommendables.py", title="All Recommendable Exams")
 app = st.navigation(
     {
         "About": [about, basic_usage],
-        # More Information
+        "Videos": [vid_basic],
         "Tools": [what_happens, how_to_recommend, recommendables],
     }
 )
