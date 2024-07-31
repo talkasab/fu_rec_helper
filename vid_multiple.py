@@ -20,3 +20,22 @@ the MRI of the humerus recommendation.
 """
 
 st.video("videos/MultipleRecommendations2.mp4")
+
+st.header("Offering Alternatives", divider=True)
+
+"""
+A common situation for radiologists is recommending either of two exams for following
+up a lesion. 
+
+In this case, the radiologist can dictate both recommendations in the report
+and then use the tool to select the appropriate recommendation. The tool will likely 
+detect both recommendations; the radiologist should choose the one they favor, and then
+decline the other. The provider will then have the option to easily order the favored
+exam (accepted recommendation), but can still decide to order the other exam and have
+it be tracked.
+
+The below shows a radiologist recommending either a CT or an MR in the report, and then
+favoring the MR in the tool (by declining the CT).
+"""
+
+st.video("videos/RecommendCTorMR.mp4")
