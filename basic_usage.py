@@ -5,14 +5,7 @@ st.header("Basic Usage: How to Use the Follow-up Tool", divider=True)
 col1, col2 = st.columns([4, 1])
 col1.markdown("### 1. Dictate the recommendation in your report")
 
-
-@st.dialog("Video", width="large")
-def video_dialog(file_path: str):
-    st.video(file_path, autoplay=True)
-
-
-if col2.button("Show Video"):
-    video_dialog("videos/StraightforwardRecommendation2.mp4")
+col2.page_link("vid_basic.py", label="Show Video")
 
 st.image("images/how_to_1.png", use_column_width="auto")
 col1, col2 = st.columns(2)
@@ -52,10 +45,12 @@ col1.markdown("""
 col2.markdown("""
 **Ways to Launch the Recommendations Tool**
 - Dictate **Launch Follow-up Recommendations**
-- Click the "Follow-up" button in the toolbar
+- Click the "Follow-up" button in the toolbar.
 - Choose "Follow-up Recommendations" from the Tools menu
 - Press **Shift + F7**
 """)
+
+col2.page_link("vid_add_toolbar.py", label="How to add toolbar button")
 
 st.markdown("""### 3. Click/Say "Accept" to complete the recommendation
 - After closing the Follow-up Recommendation tool, final sign your report
