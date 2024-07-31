@@ -53,15 +53,22 @@ set_style(width=1000)
 st.logo("images/csr_action_name_horiz.png", icon_image="images/favicon.png")
 st.image("images/csr_action_big_logo_horiz.png")
 
-basic_usage = st.Page("basic_usage.py", title="Basic Workflow", default=True)
+about = st.Page("about.py", title="About", default=True)
+basic_usage = st.Page("basic_usage.py", title="Basic Workflow")
+
+vid_basic = st.Page("vid_basic.py", title="Basic Recommendation")
+vid_multiple = st.Page("vid_multiple.py", title="Multiple Recommendations")
+vid_report_code = st.Page("vid_report_code.py", title="Report Codes")
+vid_consult = st.Page("vid_recommend_consult.py", title="Consult Recommendation")
+
 what_happens = st.Page("what_happens.py", title="Tool Simulator")
 how_to_recommend = st.Page("how_to_recommend.py", title="How to Recommend Exam")
 recommendables = st.Page("recommendables.py", title="All Recommendable Exams")
 
 app = st.navigation(
     {
-        "Radiologist Usage": [basic_usage],
-        # More Information
+        "About": [about, basic_usage],
+        "Videos": [vid_basic, vid_multiple, vid_report_code, vid_consult],
         "Tools": [what_happens, how_to_recommend, recommendables],
     }
 )
