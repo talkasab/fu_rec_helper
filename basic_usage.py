@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.header("How to Use the Follow-up Tool")
+st.header("Basic Usage: How to Use the Follow-up Tool", divider=True)
 
 col1, col2 = st.columns([4, 1])
 col1.markdown("### 1. Dictate the recommendation in your report")
@@ -59,4 +59,10 @@ col2.markdown("""
 
 st.markdown("""### 3. Click/Say "Accept" to complete the recommendation
 - After closing the Follow-up Recommendation tool, final sign your report
+""")
+
+st.subheader("Key Points", divider=True)
+st.markdown("""
+- Use the tool at final sign time
+- Make sure to fill in all the required fields
 """)
