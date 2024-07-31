@@ -57,6 +57,7 @@ about = st.Page("about.py", title="About", default=True)
 basic_usage = st.Page("basic_usage.py", title="Basic Workflow")
 
 vid_basic = st.Page("vid_basic.py", title="Basic Recommendation")
+vid_multiple = st.Page("vid_multiple.py", title="Multiple Recommendations")
 
 what_happens = st.Page("what_happens.py", title="Tool Simulator")
 how_to_recommend = st.Page("how_to_recommend.py", title="How to Recommend Exam")
@@ -65,7 +66,7 @@ recommendables = st.Page("recommendables.py", title="All Recommendable Exams")
 app = st.navigation(
     {
         "About": [about, basic_usage],
-        "Videos": [vid_basic],
+        "Videos": [vid_basic, vid_multiple],
         "Tools": [what_happens, how_to_recommend, recommendables],
     }
 )
