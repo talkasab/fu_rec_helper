@@ -62,6 +62,7 @@ vid_multiple = st.Page("vid_multiple.py", title="Multiple Recommendations")
 vid_report_code = st.Page("vid_report_code.py", title="Report Codes")
 vid_consult = st.Page("vid_recommend_consult.py", title="Consult Recommendation")
 vid_add_toolbar = st.Page("vid_add_toolbar.py", title="Add Toolbar Button")
+vid_signing_list = st.Page("vid_signing_list.py", title="Signing List")
 
 what_happens = st.Page("what_happens.py", title="Tool Simulator")
 how_to_recommend = st.Page("how_to_recommend.py", title="How to Recommend Exam")
@@ -76,6 +77,7 @@ app = st.navigation(
             vid_report_code,
             vid_consult,
             vid_add_toolbar,
+            vid_signing_list,
         ],
         "Tools": [what_happens, how_to_recommend, recommendables],
     }
