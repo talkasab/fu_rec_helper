@@ -56,8 +56,23 @@ st.markdown("""### 3. Click/Say "Accept" to complete the recommendation
 - After closing the Follow-up Recommendation tool, final sign your report
 """)
 
-st.subheader("Key Points", divider=True)
-st.markdown("""
-- Use the tool at final sign time
-- Make sure to fill in all the required fields
-""")
+col1, col2 = st.columns(2)
+with col1:
+    st.subheader("Key Points", divider=True)
+    st.markdown("""
+  - Use the tool at final sign time
+  - Make sure to fill in all the required fields
+  """)
+
+with col2:
+    st.subheader(":material/label_important: Malformed Recommendations", divider=True)
+    st.markdown("""
+  Malfomed recommendations might be:
+  - Nonsensical/non-mapped modality/body part
+  - Incomplete fields
+  - Missing appropriate laterality 
+
+  Such incomplete recommendations are routed to the Radiology Safety Net team, who 
+  are likely to contact you for clarification. You may be required to generate 
+  an addendum with a new, correctly-formed recommendation.
+  """)
