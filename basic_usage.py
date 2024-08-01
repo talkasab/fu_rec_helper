@@ -40,6 +40,8 @@ col1.markdown("""
 - If the "Findings" drop-down does not contain an appropriate description of the reason
   for the recommendation, uncheck all the boxes and dictate the reason for recommendation
   in the text field below.
+- Do **NOT** use the "Flag for Review" button; this will result in a mal-formed 
+  recommendation and you will be contacted by the Radiology Safety Net team.
 """)
 
 col2.markdown("""
@@ -64,6 +66,7 @@ with col1:
     st.markdown("""
   - Use the tool at final sign time
   - Make sure to fill in all the required keylds
+  - Do not use the "Flag for Review" button
   """)
 
 with col2:
@@ -71,8 +74,9 @@ with col2:
     st.markdown("""
   Malfomed recommendations might be:
   - Nonsensical/non-mapped modality/body part
-  - Incomplete fields
+  - Incomplete fields (especially start and end days)
   - Missing appropriate laterality 
+  - "Flag for Review" button was pressed
 
   Such incomplete recommendations are routed to the Radiology Safety Net team, who 
   are likely to contact you for clarification. You may be required to generate 
