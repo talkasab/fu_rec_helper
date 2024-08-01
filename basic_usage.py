@@ -5,7 +5,7 @@ st.header("Basic Usage: How to Use the Follow-up Tool", divider=True)
 col1, col2 = st.columns([4, 1])
 col1.markdown("### 1. Dictate the recommendation in your report")
 
-col2.page_link("vid_basic.py", label="Show Video")
+col2.page_link("vid_basic.py", label="Show Video", icon=":material/movie:")
 
 st.image("images/how_to_1.png", use_column_width="auto")
 col1, col2 = st.columns(2)
@@ -50,7 +50,9 @@ col2.markdown("""
 - Press **Shift + F7**
 """)
 
-col2.page_link("vid_add_toolbar.py", label="How to add toolbar button")
+col2.page_link(
+    "vid_add_toolbar.py", label="How to add toolbar button", icon=":material/movie:"
+)
 
 st.markdown("""### 3. Click/Say "Accept" to complete the recommendation
 - After closing the Follow-up Recommendation tool, final sign your report
@@ -58,10 +60,10 @@ st.markdown("""### 3. Click/Say "Accept" to complete the recommendation
 
 col1, col2 = st.columns(2)
 with col1:
-    st.subheader("Key Points", divider=True)
+    st.subheader(":material/key: Key Points", divider=True)
     st.markdown("""
   - Use the tool at final sign time
-  - Make sure to fill in all the required fields
+  - Make sure to fill in all the required keylds
   """)
 
 with col2:
