@@ -25,7 +25,7 @@ col2.markdown("""
   - Modality of the recommended exam 
   - Body part to be imaged
   - Laterality (if relevant)
-  - Start and end days
+  - **Distinct** start and end days
   - Finding to be evaluated / Reason for recommendation
 """)
 
@@ -36,7 +36,8 @@ col1.markdown("""
 - **At final sign time**, launch the follow-up recommendations tool
 - Use either the mouse or dictation commands to move between fields and fill them in
 - Though the tool will allow you to create an incomplete recommendation, please **fill in
-  all the fields**
+  all the fields** 
+- Be sure to use **distinct** start and end days
 - If the "Findings" drop-down does not contain an appropriate description of the reason
   for the recommendation, uncheck all the boxes and dictate the reason for recommendation
   in the text field below.
@@ -65,8 +66,9 @@ with col1:
     st.subheader(":material/key: Key Points", divider=True)
     st.markdown("""
   - Use the tool at final sign time
-  - Make sure to fill in all the required keylds
-  - Do not use the "Flag for Review" button
+  - Make sure to fill in all the required fields
+  - Make sure the end days is greater than the start day
+  - Do **not** use the "Flag for Review" button
   """)
 
 with col2:
@@ -75,6 +77,7 @@ with col2:
   Malfomed recommendations might be:
   - Nonsensical/non-mapped modality/body part
   - Incomplete fields (especially start and end days)
+  - Start and end days are the same
   - Missing appropriate laterality 
   - "Flag for Review" button was pressed
 

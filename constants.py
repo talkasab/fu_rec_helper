@@ -1,3 +1,5 @@
+BASE_PAGE_TITLE = "CSR Action Guide"
+
 SPECIAL_HANDLING = "Recommendation for Additional Imaging - Special Handling/Complex"
 ADDITIONAL_IMAGING = "Additional Imaging Needed"
 INTERVENTIONAL_PROCEDURE = "Interventional Procedure Recommendation"

@@ -1,5 +1,7 @@
 import streamlit as st
 
+from constants import BASE_PAGE_TITLE
+
 
 # See https://discuss.streamlit.io/t/where-to-set-page-width-when-set-into-non-widescreeen-mode/959/15
 def set_style(*, width: int, font_size_rem: float = 1.0):
@@ -42,7 +44,7 @@ It also shows how to recommend each exam.
 """
 
 st.set_page_config(
-    page_title="CSR Action Guide",
+    page_title=BASE_PAGE_TITLE,
     page_icon="images/favicon.png",
     # initial_sidebar_state="collapsed",
     menu_items={
