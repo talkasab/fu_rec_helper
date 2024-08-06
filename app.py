@@ -2,8 +2,11 @@ import streamlit as st
 
 
 # See https://discuss.streamlit.io/t/where-to-set-page-width-when-set-into-non-widescreeen-mode/959/15
-def set_style(*, width: int):
+def set_style(*, width: int, font_size_rem: float = 1.0):
     assert width >= 500 and width <= 1200, "Width must ≥500 and ≤ 1200."
+    assert (
+        font_size_rem >= 0.8 and font_size_rem <= 2.0
+    ), "Font size must ≥1.0 and ≤ 2.0."
     st.html(
         f"""
 <style>
@@ -13,10 +16,18 @@ def set_style(*, width: int):
 
     #stDecoration {{ visibility: hidden; }}
 
+    p, ol, ul, dl {{
+        font-size: {font_size_rem}rem !important;
+    }}
+    
+    .st-emotion-cache-1sno8jx li {{
+        font-size: {font_size_rem}rem !important;
+    }}
+
     code{{
         color: #092090;
         background-color: #e0e0f0;
-        font-size: 0.9em;
+        font-size: 1.1rem;
     }}
 </style>
     """
@@ -40,7 +51,7 @@ st.set_page_config(
         "About": ABOUT_TEXT,
     },
 )
-set_style(width=1000)
+set_style(width=1000, font_size_rem=1.25)
 
 # st.logo(
 #     "images/favicon.png",
