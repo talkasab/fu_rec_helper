@@ -5,7 +5,6 @@ from constants import (
     BODY_PART_OPTIONS,
     LATERALITY_UNSPECIFIED,
     MODALITY_OPTIONS,
-    SPECIAL_HANDLING,
     SPECIAL_RECOMMENDABLES,
 )
 from utils import (
@@ -44,9 +43,10 @@ if not hasattr(st.session_state, "submitted"):
 
 st.header("What Happens When I...?")
 
-"""Select a body part, modality, and laterality to see what exams are recommended.
-
-Remember to use distinct start and end days for the recommendation!
+"""
+Select a time frame,  modality, body part, and (if needed) laterality to see what
+recommendation would be sent to Epic for the provider to consider and possibly
+order. **Remember to use distinct start and end days for the recommendation!**
 """
 
 
@@ -81,14 +81,36 @@ def get_markdown_for_recommendable(recommendable: str, icon: str = "white_check_
 
 
 def get_markdown_for_report_codes(report_codes: list[tuple[str, str]]):
-    markdown = "#### :mag: Report Codes\n"
-    markdown += (
-        f"- **{SPECIAL_HANDLING}**: `{get_report_form_for_code('SpecialHandling')}`  \n"
-    )
-    markdown += SPECIAL_RECOMMENDABLES[SPECIAL_HANDLING] + "\n"
+    markdown = """### :mag: Report Codes\n\n"""
+
+    markdown += """Report codes allow the radiologist to specify a recommended exam 
+    more precisely than a modality/body part combination, such that the generated order
+    is for the correct exam/protocol or procedure."""
+
+    markdown += "\n\n"
+
+    markdown += "Code | Recommended Exam\n" + "--- | ---\n"
     for code, description in report_codes:
-        markdown += f"- **{description}**: `{get_report_form_for_code(code)}`\n"
+        # markdown += f"- **{description}**: `{get_report_form_for_code(code)}`\n"
+        markdown += f"`{get_report_form_for_code(code)}` | {description}\n"
+    markdown += f"`{get_report_form_for_code('SpecialHandling')}` | Special Handling\n"
+
     return markdown
+
+
+def malformed_error(message, heading="Malformed Recommendation"):
+    markdown = f"""
+    ### :x: {heading}
+
+    {message}
+
+    If you entered this set of inputs, your recommendation would not be actionable,
+    and the safety net team would contact you and ask you to addended your report and
+    create a correctly filled-out form.
+    """
+
+    st.error(markdown)
+    st.stop()
 
 
 if submit_button or st.session_state.show:
@@ -98,30 +120,46 @@ if submit_button or st.session_state.show:
     except ValueError:
         start_days = None
         end_days = None
-    # set_query_from_state()
     if not modality:
-        st.error("Please select a modality.")
-    elif not body_part:
-        st.error("Please select a body region.")
-    elif not start_days or not end_days:
-        st.error("Please enter numbers for both start and end days.")
-    else:
-        if not start_days or not end_days or start_days >= end_days:
-            st.error("End days must be greater than start days.")
-        else:
-            recommendable = get_recommendable(
-                mappings, body_part, modality, laterality
-            ) or get_fallback_recommendable(modality_mappings, modality)
-            if recommendable:
-                if recommendable in (ADDITIONAL_IMAGING, LATERALITY_UNSPECIFIED):
-                    st.warning(
-                        get_markdown_for_recommendable(recommendable, icon="warning")
-                    )
-                else:
-                    st.info(get_markdown_for_recommendable(recommendable))
-                recommendable_report_codes = get_report_codes_for_recommendable(
-                    report_codes, recommendable
-                )
-                st.markdown(get_markdown_for_report_codes(recommendable_report_codes))
-            else:
-                st.write("No recommendation found.")
+        malformed_error("Please select a modality.")
+    assert modality is not None
+    if not body_part:
+        malformed_error("Please select a body region.")
+    if not start_days or not end_days:
+        malformed_error("Please enter numbers for both start and end days.")
+    if not start_days or not end_days or start_days >= end_days:
+        malformed_error("End days must be greater than start days.")
+
+    recommendable = get_recommendable(
+        mappings, body_part, modality, laterality
+    ) or get_fallback_recommendable(modality_mappings, modality)
+
+    if not recommendable or recommendable == ADDITIONAL_IMAGING:
+        malformed_error(SPECIAL_RECOMMENDABLES[ADDITIONAL_IMAGING])
+    assert recommendable is not None
+
+    if recommendable == LATERALITY_UNSPECIFIED:
+        malformed_error("Need to specify laterality for this modality/body part.")
+
+    st.info(get_markdown_for_recommendable(recommendable))
+    recommendable_report_codes = get_report_codes_for_recommendable(
+        report_codes, recommendable
+    )
+
+    st.markdown(get_markdown_for_report_codes(recommendable_report_codes))
+
+    col1, col2 = st.columns([3, 1])
+    with col1:
+        """
+        To use a report code, insert the report code text anywhere in the report or
+        in the free text field of the Follow-up Recommendations dialog. The "Macro:
+        Special" macro or "CSR Recommendables" Clinical Guidance module can be used
+        to insert the report code text into the report.
+        """
+
+    with col2:
+        st.page_link(
+            "vid_report_code.py",
+            label="Inserting Report Codes",
+            icon=":material/movie:",
+        )
