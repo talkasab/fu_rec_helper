@@ -5,12 +5,11 @@ st.header("Working with Trainees", divider=True)
 """
 Because the Follow-up Recommendations tool is to be used only at final signing 
 time, trainees do not directly activate the tool. Nevertheless, trainees have an
-important role to play in the process. It is important for trainees to create
-reports that contain well-crafted recommendations. When the recommendations are
-well-formed, at final signing, the attending can activate the tool, which will 
-present the recommendations in the correctly-filled in dialog. The attending
-then clicks/says "Accept", and the tool will send the recommendation to Epic
-for management.
+important role to play. It is important for trainees to create reports that 
+contain well-formed recommendations in the report. When they do so, at final 
+signing, the attending can activate the tool, which presents the dialog fields
+correctly and completed filled with the recommendation information. The attending
+clicks/says "Accept", and the tool sends the recommendation to Epic.
 """
 
 st.subheader("Trainees: Creating Recommendations")
@@ -62,7 +61,6 @@ with col1:
   recommendation.
   """
 
-    st.image("images/from_signing_list.png", caption="Activating from Signing List")
 
 with col2:
     st.page_link(
@@ -70,3 +68,5 @@ with col2:
         label="Signing List Usage",
         icon=":material/movie:",
     )
+
+st.image("images/from_signing_list.png", caption="Activating from Signing List")

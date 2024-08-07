@@ -74,10 +74,10 @@ with col1:
 with col2:
     st.subheader(":material/label_important: Malformed Recommendations", divider=True)
     st.markdown("""
-  Malfomed recommendations might be:
+  Malformed recommendations might be:
   - Nonsensical/non-mapped modality/body part
   - Incomplete fields (especially start and end days)
-  - Start and end days are the same
+  - Start and end days are the same or end day is before start day
   - Missing appropriate laterality 
   - "Flag for Review" button was pressed
 
