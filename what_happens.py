@@ -3,8 +3,10 @@ import streamlit as st
 from constants import (
     ADDITIONAL_IMAGING,
     BODY_PART_OPTIONS,
+    INTERVENTIONAL_PROCEDURE,
     LATERALITY_UNSPECIFIED,
     MODALITY_OPTIONS,
+    NON_RADIOLOGY,
     SPECIAL_RECOMMENDABLES,
 )
 from utils import (
@@ -98,49 +100,64 @@ def get_markdown_for_report_codes(report_codes: list[tuple[str, str]]):
     return markdown
 
 
-def malformed_error(message, heading="Malformed Recommendation"):
+def malformed_error(messages: list[str], heading="Malformed Recommendation"):
+    message_list = "\n".join(f"- {m}" for m in messages)
     markdown = f"""
-    ### :x: {heading}
+### :x: {heading}
 
-    {message}
+{message_list}
 
-    If you entered this set of inputs, your recommendation would not be actionable,
-    and the safety net team would contact you and ask you to addended your report and
-    create a correctly filled-out form.
-    """
+If you entered this set of inputs, your recommendation would not be actionable,
+and the safety net team would contact you and ask you to addended your report and
+create a correctly filled-out form.
+"""
 
     st.error(markdown)
     st.stop()
 
 
-if submit_button or st.session_state.show:
+def parse_int(s: str) -> int | None:
     try:
-        start_days: int | None = int(start_days_str)
-        end_days: int | None = int(end_days_str)
+        return int(s)
     except ValueError:
-        start_days = None
-        end_days = None
+        return None
+
+
+if submit_button or st.session_state.show:
+    errors = []
+    start_days = parse_int(start_days_str)
+    end_days = parse_int(end_days_str)
     if not modality:
-        malformed_error("Please select a modality.")
+        errors.append("Please select a modality.")
     assert modality is not None
     if not body_part:
-        malformed_error("Please select a body region.")
-    if not start_days or not end_days:
-        malformed_error("Please enter numbers for both start and end days.")
-    if not start_days or not end_days or start_days >= end_days:
-        malformed_error("End days must be greater than start days.")
+        errors.append("Please select a body region.")
+    if start_days is None or end_days is None or start_days < 0 or end_days < 1:
+        errors.append("Please enter positive numbers for both start and end days.")
+    if start_days and end_days and start_days >= end_days:
+        errors.append("End days must be greater than start days.")
 
-    recommendable = get_recommendable(
-        mappings, body_part, modality, laterality
-    ) or get_fallback_recommendable(modality_mappings, modality)
+    if body_part and modality:
+        recommendable = get_recommendable(
+            mappings, body_part, modality, laterality
+        ) or get_fallback_recommendable(modality_mappings, modality)
+    elif modality:
+        recommendable = get_fallback_recommendable(modality_mappings, modality)
+    else:
+        recommendable = None
 
-    if not recommendable or recommendable == ADDITIONAL_IMAGING:
-        malformed_error(SPECIAL_RECOMMENDABLES[ADDITIONAL_IMAGING])
+    if recommendable == ADDITIONAL_IMAGING:
+        errors.append(SPECIAL_RECOMMENDABLES[ADDITIONAL_IMAGING])
+    elif recommendable == LATERALITY_UNSPECIFIED:
+        errors.append("Need to specify laterality for this modality/body part.")
+    elif recommendable in [INTERVENTIONAL_PROCEDURE, NON_RADIOLOGY]:
+        st.info(get_markdown_for_recommendable(recommendable))
+        st.stop()
+
+    if errors:
+        malformed_error(errors)
+
     assert recommendable is not None
-
-    if recommendable == LATERALITY_UNSPECIFIED:
-        malformed_error("Need to specify laterality for this modality/body part.")
-
     st.info(get_markdown_for_recommendable(recommendable))
     recommendable_report_codes = get_report_codes_for_recommendable(
         report_codes, recommendable
