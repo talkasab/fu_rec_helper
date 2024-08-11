@@ -36,7 +36,8 @@ with col2:
 #### Key Points
 - The tool may detect multiple recommendations in your report
 - Review each recommendation and associate the appropriate finding(s)
-- Click "Accept" for each appropriate recommendation (and "Decline" otherwise)
+- Click "Accept" for each appropriate recommendation (and "Decline" otherwise). 
+  **All recommendations must be Accepted or Declined!**
 - Click "OK" to finalize the recommendations (**closing the tool without 
   clicking "OK" will not send the recommendations**)
             """,
@@ -50,7 +51,16 @@ st.image("images/multiple_recs_interface.png")
 For each recommendation, associate the appropriate finding(s) with the recommendation,
 including adding additional free text as needed. If the finding is appropriate to send
 to Epic, click "Accept". If the recommendation is not appropriate, click "Decline".
+"""
 
+st.warning(
+    """
+**You must Accept or Decline each detected recommendation!**.
+    """,
+    icon=":material/warning:",
+)
+
+"""
 Once all recommendations have been reviewed, click (or dictate) "OK" to finalize the 
 recommendations. 
 """
