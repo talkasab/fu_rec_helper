@@ -55,19 +55,12 @@ st.set_page_config(
 )
 set_style(width=1000, font_size_rem=1.25)
 
-# st.logo(
-#     "images/favicon.png",
-#     # icon_image="images/favicon.png",
-# )
-
-# col1, col2 = st.columns([2, 1])
-# col1.title("CSR Action Guide")
-# col2.image("images/csr_action_big_logo.png", width=300)
 st.logo("images/csr_action_name_horiz.png", icon_image="images/favicon.png")
 st.image("images/csr_action_big_logo_horiz.png")
 
 about = st.Page("about.py", title="About", default=True)
 basic_usage = st.Page("basic_usage.py", title="Basic Workflow")
+multiple_recs = st.Page("multiple_recs.py", title="Multiple Recommendations")
 covered_recs = st.Page("covered_recs.py", title="Covered Recommendations")
 trainee_workflow = st.Page("trainee_workflow.py", title="Trainee Workflow")
 
@@ -84,7 +77,7 @@ recommendables = st.Page("recommendables.py", title="All Recommendable Exams")
 
 app = st.navigation(
     {
-        "About": [about, basic_usage, covered_recs, trainee_workflow],
+        "About": [about, basic_usage, multiple_recs, covered_recs, trainee_workflow],
         "Videos": [
             vid_basic,
             vid_multiple,
