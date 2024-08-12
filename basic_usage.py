@@ -2,6 +2,8 @@ import streamlit as st
 
 st.header("Basic Usage: How to Use the Follow-up Tool", divider=True)
 
+st.video("videos/tip_sheet.mp4", autoplay=True, loop=True, muted=True)
+
 col1, col2 = st.columns([4, 1])
 col1.markdown("### 1. Dictate the recommendation in your report")
 
