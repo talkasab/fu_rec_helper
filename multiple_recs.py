@@ -51,6 +51,12 @@ st.image("images/multiple_recs_interface.png")
 For each recommendation, associate the appropriate finding(s) with the recommendation,
 including adding additional free text as needed. If the finding is appropriate to send
 to Epic, click "Accept". If the recommendation is not appropriate, click "Decline".
+
+If the tool is closed before accepting/declining all recommendations, **nothing will be
+sent to Epic**.
+
+If recommendations are blindly accepted, you may inadcvertently send unintended or
+duplicated recommendations to Epic.
 """
 
 st.warning(

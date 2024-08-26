@@ -59,7 +59,8 @@ def load_data() -> tuple[pd.DataFrame, pd.DataFrame, pd.DataFrame, pd.DataFrame]
 
 def get_recommendables_df() -> pd.DataFrame:
     dfs = load_data()
-    return dfs[2]
+    recommendables = dfs[2].query("Category != 'special'")
+    return recommendables
 
 
 def get_recommendable(

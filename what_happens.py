@@ -100,7 +100,7 @@ def get_markdown_for_report_codes(report_codes: list[tuple[str, str]]):
     return markdown
 
 
-def malformed_error(messages: list[str], heading="Malformed Recommendation"):
+def malformed_error(messages: list[str], heading="Unactionable Recommendation"):
     message_list = "\n".join(f"- {m}" for m in messages)
     markdown = f"""
 ### :x: {heading}
@@ -137,19 +137,23 @@ if submit_button or st.session_state.show:
     if start_days and end_days and start_days >= end_days:
         errors.append("End days must be greater than start days.")
 
+    recommendable = None
     if body_part and modality:
-        recommendable = get_recommendable(
-            mappings, body_part, modality, laterality
-        ) or get_fallback_recommendable(modality_mappings, modality)
+        recommendable = get_recommendable(mappings, body_part, modality, laterality)
+        if recommendable is None:
+            recommendable = get_fallback_recommendable(modality_mappings, modality)
     elif modality:
         recommendable = get_fallback_recommendable(modality_mappings, modality)
-    else:
-        recommendable = None
 
-    if recommendable == ADDITIONAL_IMAGING:
+    if recommendable is None or recommendable == ADDITIONAL_IMAGING:
         errors.append(SPECIAL_RECOMMENDABLES[ADDITIONAL_IMAGING])
     elif recommendable == LATERALITY_UNSPECIFIED:
-        errors.append("Need to specify laterality for this modality/body part.")
+        error = "Need to specify laterality for this modality/body part"
+        if laterality == "Bilateral":
+            error += " (bilateral not available)."
+        else:
+            error += "."
+        errors.append(error)
     elif recommendable in [INTERVENTIONAL_PROCEDURE, NON_RADIOLOGY]:
         st.info(get_markdown_for_recommendable(recommendable))
         st.stop()
@@ -168,10 +172,10 @@ if submit_button or st.session_state.show:
     col1, col2 = st.columns([3, 1])
     with col1:
         """
-        To use a report code, insert the report code text anywhere in the report or
-        in the free text field of the Follow-up Recommendations dialog. The "Macro:
-        Special" macro or "CSR Recommendables" Clinical Guidance module can be used
-        to insert the report code text into the report.
+To use a report code, insert the report code text anywhere in the report or
+in the free text field of the Follow-up Recommendations dialog. The "Macro:
+Special" macro or "CSR Recommendables" Clinical Guidance module can be used
+to insert the report code text into the report.
         """
 
     with col2:

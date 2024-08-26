@@ -21,7 +21,7 @@ When creating recommendations, trainees should follow these guidelines:
   the report.
 - All of the elements of the recommendation should be present and clear:
   - The modality and body part, along with the laterality, if applicable.
-  - The date range, including both start date and end date (greater than the start)
+  - The date range, **including both start date and end date** (greater than the start)
   - The finding/reason for the recommendation
   - If needed, the code for specifying a specialized protocol
 
