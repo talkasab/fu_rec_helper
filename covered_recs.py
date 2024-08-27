@@ -40,3 +40,13 @@ clinical correlations. These recommendations can still be included in the text o
 the report, but they do not need to be formalized with the Follow-up Recommendations 
 tool.
 """
+
+st.warning(
+    """
+**Note**: Though you may use the tool for making short-term recommendations, if the
+appropriate time range is shorter than approximately 7 days, it may be appropriate to
+also contact the patient's care team using the CSR Acknowledgement system to ensure
+the recommendation is acted upon in a timely manner.
+    """,
+    icon=":material/warning:",
+)

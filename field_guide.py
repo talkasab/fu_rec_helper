@@ -33,7 +33,7 @@ with col2:
         """
 ## Key Points
 
-- Must specify start end end dates, and end date must be different and greater
+- Must specify start and end dates, and end date must be different and greater
   than the start date.
 - Must specify modality and body region
 - Must specify laterality if relevant

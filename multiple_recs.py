@@ -55,13 +55,13 @@ to Epic, click "Accept". If the recommendation is not appropriate, click "Declin
 If the tool is closed before accepting/declining all recommendations, **nothing will be
 sent to Epic**.
 
-If recommendations are blindly accepted, you may inadcvertently send unintended or
+If recommendations are blindly accepted, you may inadvertently send unintended or
 duplicated recommendations to Epic.
 """
 
 st.warning(
     """
-**You must Accept or Decline each detected recommendation!**.
+**You must Accept or Decline each detected recommendation!**
     """,
     icon=":material/warning:",
 )

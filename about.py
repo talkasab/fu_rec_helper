@@ -1,16 +1,4 @@
-from pathlib import Path
-
 import streamlit as st
-
-
-@st.cache_data
-def get_file_content_as_bytes(path: str) -> bytes:
-    # Make sure the file exists and is readable
-    if not Path(path).is_file():
-        raise FileNotFoundError(f"File not found: {path}")
-    bytes = open(path, "rb").read()
-    return bytes
-
 
 st.video("videos/tip_sheet.mp4", autoplay=True, loop=True, muted=True)
 
