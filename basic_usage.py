@@ -47,6 +47,7 @@ col1.markdown("""
 
 col2.markdown("""
 **Ways to Launch the Recommendations Tool**
+              
 - Dictate **Launch Follow-up Recommendations**
 - Click the "Follow-up" button in the toolbar.
 - Choose "Follow-up Recommendations" from the Tools menu
@@ -57,7 +58,11 @@ col2.page_link(
     "vid_add_toolbar.py", label="How to add toolbar button", icon=":material/movie:"
 )
 
-st.markdown("""### 3. Click/Say "Accept" to complete the recommendation
+st.markdown("""
+### 3. Click/Say "Accept" to complete the recommendation
+
+- If there are multiple recommendations, you **must** Accept or Decline each one and
+  then press the "OK" button to close the dialog.
 - After closing the Follow-up Recommendation tool, final sign your report
 """)
 

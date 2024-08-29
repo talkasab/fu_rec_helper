@@ -88,7 +88,7 @@ with col1:
   relevant, it doesn't matter what value is selected.
 - For exams that require laterality, only a small handful allow "Bilateral" as an
   option; see the list of recommendable to see which exams allow this.
-- To determine how to recommend a specific exam, go to the "How to Recommend" tool
+- To determine how to recommend a specific exam, go to the "How to" tool
   and choose the exam you want to recommend. The tool will return the valid combinations
   of modality and body region for that exam, as well as a report code, if required.
 - Different combinations of modality and body regeion can be tested using the "Tool
@@ -99,12 +99,7 @@ with col1:
 
 with col2:
     st.page_link(
-        "recommendables.py", label="All Recommendables", icon=":material/link:"
-    )
-    st.page_link(
-        "how_to_recommend.py",
-        label="How to Recommend  \nSpecific Exam",
-        icon=":material/link:",
+        "recommendables.py", label="How-to + Recommendables", icon=":material/link:"
     )
     st.page_link("what_happens.py", label="Dialog Simulator", icon=":material/link:")
 

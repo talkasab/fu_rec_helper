@@ -66,5 +66,5 @@ with col1:
   """
 
 col2.page_link(
-    "how_to_recommend.py", label="Report Codes for Exams", icon=":material/menu_open:"
+    "recommendables.py", label="Report Codes for Exams", icon=":material/menu_open:"
 )

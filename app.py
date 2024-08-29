@@ -69,21 +69,21 @@ set_style(width=1000, font_size_rem=1.25)
 st.logo("images/csr_action_name_horiz.png", icon_image="images/favicon.png")
 st.image("images/csr_action_big_logo_horiz.png")
 
-with st.sidebar:
-    st.download_button(
-        label=":material/download: Get Tip Sheet",
-        data=get_file_content_as_bytes("files/tip_sheet.pdf"),
-        file_name="CSR Action Tip Sheet.pdf",
-        mime="application/pdf",
-        use_container_width=True,
-    )
-    st.download_button(
-        label=":material/download: Get Policy FAQ",
-        data=get_file_content_as_bytes("files/policy_faq.pdf"),
-        file_name="CSR Action Policy FAQ.pdf",
-        mime="application/pdf",
-        use_container_width=True,
-    )
+# with st.sidebar:
+#     st.download_button(
+#         label=":material/download: Get Tip Sheet",
+#         data=get_file_content_as_bytes("files/tip_sheet.pdf"),
+#         file_name="CSR Action Tip Sheet.pdf",
+#         mime="application/pdf",
+#         use_container_width=True,
+#     )
+#     st.download_button(
+#         label=":material/download: Get Policy FAQ",
+#         data=get_file_content_as_bytes("files/policy_faq.pdf"),
+#         file_name="CSR Action Policy FAQ.pdf",
+#         mime="application/pdf",
+#         use_container_width=True,
+#     )
 
 
 about = st.Page("about.py", title="About", default=True)
@@ -94,6 +94,7 @@ field_guide = st.Page("field_guide.py", title="Dialog Fields")
 covered_recs = st.Page("covered_recs.py", title="Covered Recommendations")
 trainee_workflow = st.Page("trainee_workflow.py", title="Trainee Workflow")
 addending = st.Page("addending.py", title="Correcting Recommendations")
+tip_sheet_faq = st.Page("tip_sheet_faq.py", title="Tip Sheet & FAQ")
 
 vid_basic = st.Page("vid_basic.py", title="Basic Recommendation")
 vid_multiple = st.Page("vid_multiple.py", title="Multiple Recommendations")
@@ -103,8 +104,7 @@ vid_add_toolbar = st.Page("vid_add_toolbar.py", title="Add Toolbar Button")
 vid_signing_list = st.Page("vid_signing_list.py", title="Signing List")
 
 what_happens = st.Page("what_happens.py", title="Tool Simulator")
-how_to_recommend = st.Page("how_to_recommend.py", title="How to Recommend Exam")
-recommendables = st.Page("recommendables.py", title="All Recommendable Exams")
+recommendables = st.Page("recommendables.py", title="How To + Recommendables")
 
 app = st.navigation(
     {
@@ -117,6 +117,7 @@ app = st.navigation(
             covered_recs,
             trainee_workflow,
             addending,
+            tip_sheet_faq,
         ],
         "Videos": [
             vid_basic,
@@ -126,7 +127,7 @@ app = st.navigation(
             vid_add_toolbar,
             vid_signing_list,
         ],
-        "Tools": [what_happens, how_to_recommend, recommendables],
+        "Tools": [what_happens, recommendables],
     }
 )
 
