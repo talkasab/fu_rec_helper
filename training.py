@@ -28,7 +28,7 @@ st.divider()
 
 col1, col2 = st.columns([0.7, 0.3])
 with col1:
-    st.markdown("""**Basic Usage**
+    st.markdown("""#### Basic Usage
 
 Learn the basics of how to use the Follow-up Recommendations tool in PowerScribe to
 create actionable recommendations and send them to Epic. 
@@ -48,7 +48,7 @@ st.divider()
 
 col1, col2 = st.columns([0.7, 0.3])
 with col1:
-    st.markdown("""**Multiple Recommendations**
+    st.markdown("""#### Multiple Recommendations
 
 Learn how to handle multiple recommendations in a single report, and to be aware that
 the tool may find more recommendations than expected. E.g., if the report text says
@@ -65,7 +65,7 @@ with col2:
 st.divider()
 col1, col2 = st.columns([0.7, 0.3])
 with col1:
-    st.markdown("""**Trainee Workflow**
+    st.markdown("""#### Trainee Workflow
 
 Understand that the tool itself is only for final-signers to use at
 final sign time.
@@ -82,5 +82,10 @@ with col2:
     )
 
 st.divider()
+st.markdown("""#### Pitfalls
 
-st.video("videos/tip_sheet.mp4", autoplay=True, loop=True, muted=True)
+Watch the video below showing the problems that arise when we dictate "in 6 months"
+or "recommend CT Abdomen/Pelvis" in our reports—and how to avoid them.
+            """)
+
+st.video("videos/pitfalls.mp4", autoplay=False, muted=False)
