@@ -3074,6 +3074,31 @@ Lungs,US • Transrectal,Right,6736,US Chest
 Lungs,US • Transrectal,Bilateral,6736,US Chest
 Lungs,US • Transrectal,Unilateral,6736,US Chest
 Lungs,US • Transrectal,Unspecified,6736,US Chest
+Lungs,PET,Left,6732,NM PET Skull Base to Mid Thighs
+Lungs,PET,Right,6732,NM PET Skull Base to Mid Thighs
+Lungs,PET,Bilateral,6732,NM PET Skull Base to Mid Thighs
+Lungs,PET,Unilateral,6732,NM PET Skull Base to Mid Thighs
+Lungs,PET,Unspecified,6732,NM PET Skull Base to Mid Thighs
+Lungs,PET - Perfusion,Left,6732,NM PET Skull Base to Mid Thighs
+Lungs,PET - Perfusion,Right,6732,NM PET Skull Base to Mid Thighs
+Lungs,PET - Perfusion,Bilateral,6732,NM PET Skull Base to Mid Thighs
+Lungs,PET - Perfusion,Unilateral,6732,NM PET Skull Base to Mid Thighs
+Lungs,PET - Perfusion,Unspecified,6732,NM PET Skull Base to Mid Thighs
+Lungs,PET w/ CT,Left,6732,NM PET Skull Base to Mid Thighs
+Lungs,PET w/ CT,Right,6732,NM PET Skull Base to Mid Thighs
+Lungs,PET w/ CT,Bilateral,6732,NM PET Skull Base to Mid Thighs
+Lungs,PET w/ CT,Unilateral,6732,NM PET Skull Base to Mid Thighs
+Lungs,PET w/ CT,Unspecified,6732,NM PET Skull Base to Mid Thighs
+Lungs,PET/CT,Left,6732,NM PET Skull Base to Mid Thighs
+Lungs,PET/CT,Right,6732,NM PET Skull Base to Mid Thighs
+Lungs,PET/CT,Bilateral,6732,NM PET Skull Base to Mid Thighs
+Lungs,PET/CT,Unilateral,6732,NM PET Skull Base to Mid Thighs
+Lungs,PET/CT,Unspecified,6732,NM PET Skull Base to Mid Thighs
+Lungs,PET w/CT,Left,6732,NM PET Skull Base to Mid Thighs
+Lungs,PET w/CT,Right,6732,NM PET Skull Base to Mid Thighs
+Lungs,PET w/CT,Bilateral,6732,NM PET Skull Base to Mid Thighs
+Lungs,PET w/CT,Unilateral,6732,NM PET Skull Base to Mid Thighs
+Lungs,PET w/CT,Unspecified,6732,NM PET Skull Base to Mid Thighs
 Pleura,CT,Left,6448,CT Chest
 Pleura,CT,Right,6448,CT Chest
 Pleura,CT,Bilateral,6448,CT Chest
@@ -5284,6 +5309,31 @@ Neck,X-Ray w/Fluoroscopy,Right,6638,XR Neck
 Neck,X-Ray w/Fluoroscopy,Bilateral,6638,XR Neck
 Neck,X-Ray w/Fluoroscopy,Unilateral,6638,XR Neck
 Neck,X-Ray w/Fluoroscopy,Unspecified,6638,XR Neck
+Neck,PET,Left,6732,NM PET Skull Base to Mid Thighs
+Neck,PET,Right,6732,NM PET Skull Base to Mid Thighs
+Neck,PET,Bilateral,6732,NM PET Skull Base to Mid Thighs
+Neck,PET,Unilateral,6732,NM PET Skull Base to Mid Thighs
+Neck,PET,Unspecified,6732,NM PET Skull Base to Mid Thighs
+Neck,PET - Perfusion,Left,6732,NM PET Skull Base to Mid Thighs
+Neck,PET - Perfusion,Right,6732,NM PET Skull Base to Mid Thighs
+Neck,PET - Perfusion,Bilateral,6732,NM PET Skull Base to Mid Thighs
+Neck,PET - Perfusion,Unilateral,6732,NM PET Skull Base to Mid Thighs
+Neck,PET - Perfusion,Unspecified,6732,NM PET Skull Base to Mid Thighs
+Neck,PET w/ CT,Left,6732,NM PET Skull Base to Mid Thighs
+Neck,PET w/ CT,Right,6732,NM PET Skull Base to Mid Thighs
+Neck,PET w/ CT,Bilateral,6732,NM PET Skull Base to Mid Thighs
+Neck,PET w/ CT,Unilateral,6732,NM PET Skull Base to Mid Thighs
+Neck,PET w/ CT,Unspecified,6732,NM PET Skull Base to Mid Thighs
+Neck,PET/CT,Left,6732,NM PET Skull Base to Mid Thighs
+Neck,PET/CT,Right,6732,NM PET Skull Base to Mid Thighs
+Neck,PET/CT,Bilateral,6732,NM PET Skull Base to Mid Thighs
+Neck,PET/CT,Unilateral,6732,NM PET Skull Base to Mid Thighs
+Neck,PET/CT,Unspecified,6732,NM PET Skull Base to Mid Thighs
+Neck,PET w/CT,Left,6732,NM PET Skull Base to Mid Thighs
+Neck,PET w/CT,Right,6732,NM PET Skull Base to Mid Thighs
+Neck,PET w/CT,Bilateral,6732,NM PET Skull Base to Mid Thighs
+Neck,PET w/CT,Unilateral,6732,NM PET Skull Base to Mid Thighs
+Neck,PET w/CT,Unspecified,6732,NM PET Skull Base to Mid Thighs
 Neck - Lymph Node,CT,Left,6461,CT Neck
 Neck - Lymph Node,CT,Right,6461,CT Neck
 Neck - Lymph Node,CT,Bilateral,6461,CT Neck
@@ -10754,6 +10804,11 @@ Spine,MRA,Right,6531,MRA Spine
 Spine,MRA,Bilateral,6531,MRA Spine
 Spine,MRA,Unilateral,6531,MRA Spine
 Spine,MRA,Unspecified,6531,MRA Spine
+Spine,Myelography,Left,6360,CT Cervical Thoracic Lumbar Myelography
+Spine,Myelography,Right,6360,CT Cervical Thoracic Lumbar Myelography
+Spine,Myelography,Bilateral,6360,CT Cervical Thoracic Lumbar Myelography
+Spine,Myelography,Unilateral,6360,CT Cervical Thoracic Lumbar Myelography
+Spine,Myelography,Unspecified,6360,CT Cervical Thoracic Lumbar Myelography
 Parathyroid,CT,Left,6667,CT Parathyroid
 Parathyroid,CT,Right,6667,CT Parathyroid
 Parathyroid,CT,Bilateral,6667,CT Parathyroid
