@@ -69,23 +69,6 @@ set_style(width=1000, font_size_rem=1.25)
 st.logo("images/csr_action_name_horiz.png", icon_image="images/favicon.png")
 st.image("images/csr_action_big_logo_horiz.png")
 
-# with st.sidebar:
-#     st.download_button(
-#         label=":material/download: Get Tip Sheet",
-#         data=get_file_content_as_bytes("files/tip_sheet.pdf"),
-#         file_name="CSR Action Tip Sheet.pdf",
-#         mime="application/pdf",
-#         use_container_width=True,
-#     )
-#     st.download_button(
-#         label=":material/download: Get Policy FAQ",
-#         data=get_file_content_as_bytes("files/policy_faq.pdf"),
-#         file_name="CSR Action Policy FAQ.pdf",
-#         mime="application/pdf",
-#         use_container_width=True,
-#     )
-
-
 about = st.Page("about.py", title="About", default=True)
 training = st.Page("training.py", title="Training Checklist")
 basic_usage = st.Page("basic_usage.py", title="Basic Workflow")
@@ -93,6 +76,7 @@ multiple_recs = st.Page("multiple_recs.py", title="Multiple Recommendations")
 field_guide = st.Page("field_guide.py", title="Dialog Fields")
 covered_recs = st.Page("covered_recs.py", title="Covered Recommendations")
 trainee_workflow = st.Page("trainee_workflow.py", title="Trainee Workflow")
+dashboard = st.Page("dashboard.py", title="Recommendation Dashboard")
 addending = st.Page("addending.py", title="Correcting Recommendations")
 tip_sheet_faq = st.Page("tip_sheet_faq.py", title="Tip Sheet & FAQ")
 
@@ -116,6 +100,7 @@ app = st.navigation(
             field_guide,
             covered_recs,
             trainee_workflow,
+            dashboard,
             addending,
             tip_sheet_faq,
         ],

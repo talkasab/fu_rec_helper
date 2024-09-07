@@ -71,11 +71,15 @@ You should generate follow up recommendation using the follow up tool if the fol
 
 ### How do I know my recommendation was submitted to Epic?
 
-You can see your recommendation at the top of the report when viewed in Epic. It may take up to 5 min for recommendation to appear with the result in Epic.
+The [Recommendation Dashboard](https://csrraddash.partners.org) shows your recommendation approximately 2–5 minutes after final signing (MGB network only).
+
+In addition, you can see your recommendation as providers see it at the top of the report when viewed in Epic. It may take up to 5 min for recommendation to appear with the result in Epic.
 
 ### Can I see/track my recommendations to keep track of them?
 
-**Not currently.** We are working to be able to add this feature.
+**Yes.** The [Recommendation Dashboard](https://csrraddash.partners.org) shows your recommendations (MGB network only).
+
+:material/info: [Dashboard Info](/dashboard)
 
 ### Will I receive reports showing my recommendations rates compare to my MGB peers?
 
