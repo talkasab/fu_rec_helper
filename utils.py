@@ -3,7 +3,12 @@ import re
 import pandas as pd
 import streamlit as st
 
-from constants import FILE_NAMES, SPECIAL_HANDLING, SPECIAL_RECOMMENDABLES
+from constants import (
+    ADDITIONAL_IMAGING,
+    FILE_NAMES,
+    SPECIAL_HANDLING,
+    SPECIAL_RECOMMENDABLES,
+)
 
 
 def normalize_string(in_string: str | None) -> str:
@@ -84,7 +89,7 @@ def get_recommendable(
 
 
 FALLBACK_RECOMMENDABLES = {
-    "Radiology": "Additional Imaging Needed",
+    "Radiology": ADDITIONAL_IMAGING,
     "Intervention": "Interventional Procedure Recommendation",
     "NonRadiology": "Non-Radiology Recommendation",
 }

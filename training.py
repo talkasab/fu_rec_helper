@@ -17,7 +17,7 @@ pitfalls = """
 
 - Use the tool **only** at final sign time
 - All fields must be filled in
-- Time range (different start/end dates) are required
+- Time range (different start/end dates) are required (range as broad as possible, usually at least 1 month)
 - Be aware of multiple recommendations
 - All recommendations must be Accepted or Declined to send to Epic
 - Do **NOT** press the "Flag for Review" button
@@ -88,4 +88,6 @@ Watch the video below showing the problems that arise when we dictate "in 6 mont
 or "recommend CT Abdomen/Pelvis" in our reports—and how to avoid them.
             """)
 
-st.video("videos/pitfalls.mp4", autoplay=False, muted=False)
+st.video(
+    "videos/pitfalls.mp4", autoplay=False, muted=False, subtitles="videos/pitfalls.vtt"
+)

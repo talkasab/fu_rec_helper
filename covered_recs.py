@@ -44,9 +44,9 @@ tool.
 st.warning(
     """
 **Note**: Though you may use the tool for making short-term recommendations, if the
-appropriate time range is shorter than approximately 7 days, it may be appropriate to
-also contact the patient's care team using the CSR Acknowledgement system to ensure
-the recommendation is acted upon in a timely manner.
+appropriate time range is shorter than approximately 30 days, it may be appropriate to
+also (or instead) contact the patient's care team using the CSR Acknowledgement system 
+to ensure the recommendation is acted upon in a timely manner.
     """,
     icon=":material/warning:",
 )

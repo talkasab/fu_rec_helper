@@ -1,6 +1,12 @@
 import streamlit as st
 
-st.video("videos/tip_sheet.mp4", autoplay=True, loop=True, muted=True)
+st.video(
+    "videos/tip_sheet.mp4",
+    autoplay=True,
+    loop=True,
+    muted=True,
+    subtitles="videos/tip_sheet.vtt",
+)
 
 st.header("About the CSR Action Program", divider=True)
 

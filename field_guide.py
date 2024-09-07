@@ -34,7 +34,7 @@ with col2:
 ## Key Points
 
 - Must specify start and end dates, and end date must be different and greater
-  than the start date.
+  than the start date (range as broad as possible, usually at least 1 month).
 - Must specify modality and body region
 - Must specify laterality if relevant
 - Must select appropriate findings and/or use free text
@@ -58,6 +58,8 @@ with col1:
 - The **end date** should be the date after which the recommended exam would be
   overdue, and the Safety Net team should reach out to the patient's care team
   to help them make the exam happen, if it is still indicated.
+- The range should be as **broad as possible**, usually **at least** a month
+  to allow for scheduling flexibility.
 """
 
 with col2:

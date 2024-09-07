@@ -46,9 +46,10 @@ if not hasattr(st.session_state, "submitted"):
 st.header("What Happens When I...?")
 
 """
-Select a time frame,  modality, body part, and (if needed) laterality to see what
-recommendation would be sent to Epic for the provider to consider and possibly
-order. **Remember to use distinct start and end days for the recommendation!**
+Select a time frame,  modality, body part, and (if needed)
+laterality to see what recommendation would be sent to Epic for the provider to 
+consider and possibly order. **Remember to use distinct start and end days for 
+the recommendation (range at least 30 days)!**
 """
 
 
@@ -134,8 +135,10 @@ if submit_button or st.session_state.show:
         errors.append("Please select a body region.")
     if start_days is None or end_days is None or start_days < 0 or end_days < 1:
         errors.append("Please enter positive numbers for both start and end days.")
-    if start_days and end_days and start_days >= end_days:
-        errors.append("End days must be greater than start days.")
+    if start_days and end_days and start_days >= end_days - 29:
+        errors.append(
+            "End days must be greater than start days (range as broad as possible, usually at least 1 month)."
+        )
 
     recommendable = None
     if body_part and modality:

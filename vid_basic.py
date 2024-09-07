@@ -26,7 +26,8 @@ col2.page_link(
 """
 > **Key Points:**
 > - The recommendation should include all the required elements
-> - The start and end dates must be different, and the end date must be later than the start
+> - The start and end dates must be different, and the end date must be later than the start  
+    (range as broad as possible, usually at least 1 month)
 > - Use the tool at final sign time
 > - Do not use the "Flag for Review" button
 """

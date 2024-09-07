@@ -25,7 +25,7 @@ col2.markdown("""
   - Modality of the recommended exam 
   - Body part to be imaged
   - Laterality (if relevant)
-  - **Distinct** start and end days
+  - **Distinct** start and end days (range as broad as possible, usually at least 1 month)
   - Finding to be evaluated / Reason for recommendation
 """)
 
@@ -37,7 +37,7 @@ col1.markdown("""
 - Use either the mouse or dictation commands to move between fields and fill them in
 - Though the tool will allow you to create an incomplete recommendation, please **fill in
   all the fields** 
-- Be sure to use **distinct** start and end days
+- Be sure to use **distinct** start and end days (range as broad as possible, usually at least 1 month)
 - If the "Findings" drop-down does not contain an appropriate description of the reason
   for the recommendation, uncheck all the boxes and dictate the reason for recommendation
   in the text field below.
@@ -72,7 +72,7 @@ with col1:
     st.markdown("""
   - Use the tool at final sign time
   - Make sure to fill in all the required fields
-  - Make sure the end days is greater than the start day
+  - Make sure the end days is greater than the start day (range as broad as possible, usually at least 1 month)
   - Do **not** use the "Flag for Review" button
   """)
 

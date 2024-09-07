@@ -1,7 +1,7 @@
 BASE_PAGE_TITLE = "CSR Action Guide"
 
 SPECIAL_HANDLING = "Recommendation for Additional Imaging - Special Handling/Complex"
-ADDITIONAL_IMAGING = "Additional Imaging Needed"
+ADDITIONAL_IMAGING = "Unmapped Recommendation"
 INTERVENTIONAL_PROCEDURE = "Interventional Procedure Recommendation"
 NON_RADIOLOGY = "Non-Radiology Recommendation"
 LATERALITY_UNSPECIFIED = (
@@ -9,7 +9,8 @@ LATERALITY_UNSPECIFIED = (
 )
 
 SPECIAL_RECOMMENDABLES = {
-    ADDITIONAL_IMAGING: """Additional imaging is being recommended, but the no pre-defined
+    ADDITIONAL_IMAGING: """**Unmapped modality/body part pair**: Additional imaging is 
+    being recommended, but the no pre-defined
     recommendation exists for this combination of body part, modality, and laterality. The
     recommendation will be routed to the Radiology Safety Net for ordering based on the 
     text in the report itself, who may contact the recommending radiologist for clarification.""",

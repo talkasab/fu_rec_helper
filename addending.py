@@ -42,7 +42,7 @@ with col2:
     """
 #### Actionable Recommendation Requirements 
 
-   - Specify a time frame with **different** start and end dates
+   - Specify a time frame with **different** start and end dates (range as broad as possible, usually at least 1 month)
    - Specify the modality and body region (± laterality)
    - Provide a rationale for follow-up ("Findings" or free text)
    - **Do not** click the "Flag for Review" button
