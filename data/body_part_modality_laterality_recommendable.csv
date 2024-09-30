@@ -1,4 +1,19 @@
 ﻿BodyPart,Modality,Laterality,RecID,Recommendable
+Thoracic Spine,MRA,Left,6531,MRA Spine
+Thoracic Spine,MRA,Right,6531,MRA Spine
+Thoracic Spine,MRA,Bilateral,6531,MRA Spine
+Thoracic Spine,MRA,Unilateral,6531,MRA Spine
+Thoracic Spine,MRA,Unspecified,6531,MRA Spine
+Lumbar Spine,MRA,Left,6531,MRA Spine
+Lumbar Spine,MRA,Right,6531,MRA Spine
+Lumbar Spine,MRA,Bilateral,6531,MRA Spine
+Lumbar Spine,MRA,Unilateral,6531,MRA Spine
+Lumbar Spine,MRA,Unspecified,6531,MRA Spine
+Cardiac,CTA,Left,6411,CT Cardiac
+Cardiac,CTA,Right,6411,CT Cardiac
+Cardiac,CTA,Bilateral,6411,CT Cardiac
+Cardiac,CTA,Unilateral,6411,CT Cardiac
+Cardiac,CTA,Unspecified,6411,CT Cardiac
 Abdomen,CT,Left,6409,CT Abdomen Pelvis
 Abdomen,CT,Right,6409,CT Abdomen Pelvis
 Abdomen,CT,Bilateral,6409,CT Abdomen Pelvis
@@ -119,11 +134,11 @@ Abdomen,X-Ray - Specimen,Right,6596,XR Abdomen
 Abdomen,X-Ray - Specimen,Bilateral,6596,XR Abdomen
 Abdomen,X-Ray - Specimen,Unilateral,6596,XR Abdomen
 Abdomen,X-Ray - Specimen,Unspecified,6596,XR Abdomen
-Abdomen,X-Rav - Standard,Left,6596,XR Abdomen
-Abdomen,X-Rav - Standard,Right,6596,XR Abdomen
-Abdomen,X-Rav - Standard,Bilateral,6596,XR Abdomen
-Abdomen,X-Rav - Standard,Unilateral,6596,XR Abdomen
-Abdomen,X-Rav - Standard,Unspecified,6596,XR Abdomen
+Abdomen,X-Ray - Standard,Left,6596,XR Abdomen
+Abdomen,X-Ray - Standard,Right,6596,XR Abdomen
+Abdomen,X-Ray - Standard,Bilateral,6596,XR Abdomen
+Abdomen,X-Ray - Standard,Unilateral,6596,XR Abdomen
+Abdomen,X-Ray - Standard,Unspecified,6596,XR Abdomen
 Abdomen,X-Ray - Stereoscopic,Left,6596,XR Abdomen
 Abdomen,X-Ray - Stereoscopic,Right,6596,XR Abdomen
 Abdomen,X-Ray - Stereoscopic,Bilateral,6596,XR Abdomen
@@ -159,156 +174,156 @@ Abdomen,PET w/CT,Right,6732,NM PET Skull Base to Mid Thighs
 Abdomen,PET w/CT,Bilateral,6732,NM PET Skull Base to Mid Thighs
 Abdomen,PET w/CT,Unilateral,6732,NM PET Skull Base to Mid Thighs
 Abdomen,PET w/CT,Unspecified,6732,NM PET Skull Base to Mid Thighs
-Abdomen Pelvis,CT,Left,6409,CT Abdomen Pelvis
-Abdomen Pelvis,CT,Right,6409,CT Abdomen Pelvis
-Abdomen Pelvis,CT,Bilateral,6409,CT Abdomen Pelvis
-Abdomen Pelvis,CT,Unilateral,6409,CT Abdomen Pelvis
-Abdomen Pelvis,CT,Unspecified,6409,CT Abdomen Pelvis
-Abdomen Pelvis,Conventional Tomography,Left,6409,CT Abdomen Pelvis
-Abdomen Pelvis,Conventional Tomography,Right,6409,CT Abdomen Pelvis
-Abdomen Pelvis,Conventional Tomography,Bilateral,6409,CT Abdomen Pelvis
-Abdomen Pelvis,Conventional Tomography,Unilateral,6409,CT Abdomen Pelvis
-Abdomen Pelvis,Conventional Tomography,Unspecified,6409,CT Abdomen Pelvis
-Abdomen Pelvis,Calcium Scoring,Left,6409,CT Abdomen Pelvis
-Abdomen Pelvis,Calcium Scoring,Right,6409,CT Abdomen Pelvis
-Abdomen Pelvis,Calcium Scoring,Bilateral,6409,CT Abdomen Pelvis
-Abdomen Pelvis,Calcium Scoring,Unilateral,6409,CT Abdomen Pelvis
-Abdomen Pelvis,Calcium Scoring,Unspecified,6409,CT Abdomen Pelvis
-Abdomen Pelvis,CTA,Left,6451,CTA Abdomen Pelvis
-Abdomen Pelvis,CTA,Right,6451,CTA Abdomen Pelvis
-Abdomen Pelvis,CTA,Bilateral,6451,CTA Abdomen Pelvis
-Abdomen Pelvis,CTA,Unilateral,6451,CTA Abdomen Pelvis
-Abdomen Pelvis,CTA,Unspecified,6451,CTA Abdomen Pelvis
-Abdomen Pelvis,MR,Left,6361,MR Abdomen Pelvis
-Abdomen Pelvis,MR,Right,6361,MR Abdomen Pelvis
-Abdomen Pelvis,MR,Bilateral,6361,MR Abdomen Pelvis
-Abdomen Pelvis,MR,Unilateral,6361,MR Abdomen Pelvis
-Abdomen Pelvis,MR,Unspecified,6361,MR Abdomen Pelvis
-Abdomen Pelvis,MRI,Left,6361,MR Abdomen Pelvis
-Abdomen Pelvis,MRI,Right,6361,MR Abdomen Pelvis
-Abdomen Pelvis,MRI,Bilateral,6361,MR Abdomen Pelvis
-Abdomen Pelvis,MRI,Unilateral,6361,MR Abdomen Pelvis
-Abdomen Pelvis,MRI,Unspecified,6361,MR Abdomen Pelvis
-Abdomen Pelvis,MRI - Flow Mapping,Left,6361,MR Abdomen Pelvis
-Abdomen Pelvis,MRI - Flow Mapping,Right,6361,MR Abdomen Pelvis
-Abdomen Pelvis,MRI - Flow Mapping,Bilateral,6361,MR Abdomen Pelvis
-Abdomen Pelvis,MRI - Flow Mapping,Unilateral,6361,MR Abdomen Pelvis
-Abdomen Pelvis,MRI - Flow Mapping,Unspecified,6361,MR Abdomen Pelvis
-Abdomen Pelvis,MRI - Functional,Left,6361,MR Abdomen Pelvis
-Abdomen Pelvis,MRI - Functional,Right,6361,MR Abdomen Pelvis
-Abdomen Pelvis,MRI - Functional,Bilateral,6361,MR Abdomen Pelvis
-Abdomen Pelvis,MRI - Functional,Unilateral,6361,MR Abdomen Pelvis
-Abdomen Pelvis,MRI - Functional,Unspecified,6361,MR Abdomen Pelvis
-Abdomen Pelvis,Spectroscopy,Left,6361,MR Abdomen Pelvis
-Abdomen Pelvis,Spectroscopy,Right,6361,MR Abdomen Pelvis
-Abdomen Pelvis,Spectroscopy,Bilateral,6361,MR Abdomen Pelvis
-Abdomen Pelvis,Spectroscopy,Unilateral,6361,MR Abdomen Pelvis
-Abdomen Pelvis,Spectroscopy,Unspecified,6361,MR Abdomen Pelvis
-Abdomen Pelvis,MRA,Left,6539,MRA Abdomen
-Abdomen Pelvis,MRA,Right,6539,MRA Abdomen
-Abdomen Pelvis,MRA,Bilateral,6539,MRA Abdomen
-Abdomen Pelvis,MRA,Unilateral,6539,MRA Abdomen
-Abdomen Pelvis,MRA,Unspecified,6539,MRA Abdomen
-Abdomen Pelvis,US,Left,6560,US Abdomen Complete
-Abdomen Pelvis,US,Right,6560,US Abdomen Complete
-Abdomen Pelvis,US,Bilateral,6560,US Abdomen Complete
-Abdomen Pelvis,US,Unilateral,6560,US Abdomen Complete
-Abdomen Pelvis,US,Unspecified,6560,US Abdomen Complete
-Abdomen Pelvis,US • Transcranial,Left,6560,US Abdomen Complete
-Abdomen Pelvis,US • Transcranial,Right,6560,US Abdomen Complete
-Abdomen Pelvis,US • Transcranial,Bilateral,6560,US Abdomen Complete
-Abdomen Pelvis,US • Transcranial,Unilateral,6560,US Abdomen Complete
-Abdomen Pelvis,US • Transcranial,Unspecified,6560,US Abdomen Complete
-Abdomen Pelvis,US • Transrectal,Left,6560,US Abdomen Complete
-Abdomen Pelvis,US • Transrectal,Right,6560,US Abdomen Complete
-Abdomen Pelvis,US • Transrectal,Bilateral,6560,US Abdomen Complete
-Abdomen Pelvis,US • Transrectal,Unilateral,6560,US Abdomen Complete
-Abdomen Pelvis,US • Transrectal,Unspecified,6560,US Abdomen Complete
-Abdomen Pelvis,US Duplex,Left,6753,US Abdomen Vasculature
-Abdomen Pelvis,US Duplex,Right,6753,US Abdomen Vasculature
-Abdomen Pelvis,US Duplex,Bilateral,6753,US Abdomen Vasculature
-Abdomen Pelvis,US Duplex,Unilateral,6753,US Abdomen Vasculature
-Abdomen Pelvis,US Duplex,Unspecified,6753,US Abdomen Vasculature
-Abdomen Pelvis,US - Duplex,Left,6753,US Abdomen Vasculature
-Abdomen Pelvis,US - Duplex,Right,6753,US Abdomen Vasculature
-Abdomen Pelvis,US - Duplex,Bilateral,6753,US Abdomen Vasculature
-Abdomen Pelvis,US - Duplex,Unilateral,6753,US Abdomen Vasculature
-Abdomen Pelvis,US - Duplex,Unspecified,6753,US Abdomen Vasculature
-Abdomen Pelvis,Vascular Lab,Left,6753,US Abdomen Vasculature
-Abdomen Pelvis,Vascular Lab,Right,6753,US Abdomen Vasculature
-Abdomen Pelvis,Vascular Lab,Bilateral,6753,US Abdomen Vasculature
-Abdomen Pelvis,Vascular Lab,Unilateral,6753,US Abdomen Vasculature
-Abdomen Pelvis,Vascular Lab,Unspecified,6753,US Abdomen Vasculature
-Abdomen Pelvis,Radiography,Left,6596,XR Abdomen
-Abdomen Pelvis,Radiography,Right,6596,XR Abdomen
-Abdomen Pelvis,Radiography,Bilateral,6596,XR Abdomen
-Abdomen Pelvis,Radiography,Unilateral,6596,XR Abdomen
-Abdomen Pelvis,Radiography,Unspecified,6596,XR Abdomen
-Abdomen Pelvis,Pelvimetry,Left,6596,XR Abdomen
-Abdomen Pelvis,Pelvimetry,Right,6596,XR Abdomen
-Abdomen Pelvis,Pelvimetry,Bilateral,6596,XR Abdomen
-Abdomen Pelvis,Pelvimetry,Unilateral,6596,XR Abdomen
-Abdomen Pelvis,Pelvimetry,Unspecified,6596,XR Abdomen
-Abdomen Pelvis,X-Ray - Dental,Left,6596,XR Abdomen
-Abdomen Pelvis,X-Ray - Dental,Right,6596,XR Abdomen
-Abdomen Pelvis,X-Ray - Dental,Bilateral,6596,XR Abdomen
-Abdomen Pelvis,X-Ray - Dental,Unilateral,6596,XR Abdomen
-Abdomen Pelvis,X-Ray - Dental,Unspecified,6596,XR Abdomen
-Abdomen Pelvis,X-Ray - Diskography,Left,6596,XR Abdomen
-Abdomen Pelvis,X-Ray - Diskography,Right,6596,XR Abdomen
-Abdomen Pelvis,X-Ray - Diskography,Bilateral,6596,XR Abdomen
-Abdomen Pelvis,X-Ray - Diskography,Unilateral,6596,XR Abdomen
-Abdomen Pelvis,X-Ray - Diskography,Unspecified,6596,XR Abdomen
-Abdomen Pelvis,X-Ray - Magnification,Left,6596,XR Abdomen
-Abdomen Pelvis,X-Ray - Magnification,Right,6596,XR Abdomen
-Abdomen Pelvis,X-Ray - Magnification,Bilateral,6596,XR Abdomen
-Abdomen Pelvis,X-Ray - Magnification,Unilateral,6596,XR Abdomen
-Abdomen Pelvis,X-Ray - Magnification,Unspecified,6596,XR Abdomen
-Abdomen Pelvis,X-Ray - Specimen,Left,6596,XR Abdomen
-Abdomen Pelvis,X-Ray - Specimen,Right,6596,XR Abdomen
-Abdomen Pelvis,X-Ray - Specimen,Bilateral,6596,XR Abdomen
-Abdomen Pelvis,X-Ray - Specimen,Unilateral,6596,XR Abdomen
-Abdomen Pelvis,X-Ray - Specimen,Unspecified,6596,XR Abdomen
-Abdomen Pelvis,X-Rav - Standard,Left,6596,XR Abdomen
-Abdomen Pelvis,X-Rav - Standard,Right,6596,XR Abdomen
-Abdomen Pelvis,X-Rav - Standard,Bilateral,6596,XR Abdomen
-Abdomen Pelvis,X-Rav - Standard,Unilateral,6596,XR Abdomen
-Abdomen Pelvis,X-Rav - Standard,Unspecified,6596,XR Abdomen
-Abdomen Pelvis,X-Ray - Stereoscopic,Left,6596,XR Abdomen
-Abdomen Pelvis,X-Ray - Stereoscopic,Right,6596,XR Abdomen
-Abdomen Pelvis,X-Ray - Stereoscopic,Bilateral,6596,XR Abdomen
-Abdomen Pelvis,X-Ray - Stereoscopic,Unilateral,6596,XR Abdomen
-Abdomen Pelvis,X-Ray - Stereoscopic,Unspecified,6596,XR Abdomen
-Abdomen Pelvis,X-Ray w/Fluoroscopy,Left,6596,XR Abdomen
-Abdomen Pelvis,X-Ray w/Fluoroscopy,Right,6596,XR Abdomen
-Abdomen Pelvis,X-Ray w/Fluoroscopy,Bilateral,6596,XR Abdomen
-Abdomen Pelvis,X-Ray w/Fluoroscopy,Unilateral,6596,XR Abdomen
-Abdomen Pelvis,X-Ray w/Fluoroscopy,Unspecified,6596,XR Abdomen
-Abdomen Pelvis,PET,Left,6732,NM PET Skull Base to Mid Thighs
-Abdomen Pelvis,PET,Right,6732,NM PET Skull Base to Mid Thighs
-Abdomen Pelvis,PET,Bilateral,6732,NM PET Skull Base to Mid Thighs
-Abdomen Pelvis,PET,Unilateral,6732,NM PET Skull Base to Mid Thighs
-Abdomen Pelvis,PET,Unspecified,6732,NM PET Skull Base to Mid Thighs
-Abdomen Pelvis,PET - Perfusion,Left,6732,NM PET Skull Base to Mid Thighs
-Abdomen Pelvis,PET - Perfusion,Right,6732,NM PET Skull Base to Mid Thighs
-Abdomen Pelvis,PET - Perfusion,Bilateral,6732,NM PET Skull Base to Mid Thighs
-Abdomen Pelvis,PET - Perfusion,Unilateral,6732,NM PET Skull Base to Mid Thighs
-Abdomen Pelvis,PET - Perfusion,Unspecified,6732,NM PET Skull Base to Mid Thighs
-Abdomen Pelvis,PET w/ CT,Left,6732,NM PET Skull Base to Mid Thighs
-Abdomen Pelvis,PET w/ CT,Right,6732,NM PET Skull Base to Mid Thighs
-Abdomen Pelvis,PET w/ CT,Bilateral,6732,NM PET Skull Base to Mid Thighs
-Abdomen Pelvis,PET w/ CT,Unilateral,6732,NM PET Skull Base to Mid Thighs
-Abdomen Pelvis,PET w/ CT,Unspecified,6732,NM PET Skull Base to Mid Thighs
-Abdomen Pelvis,PET/CT,Left,6732,NM PET Skull Base to Mid Thighs
-Abdomen Pelvis,PET/CT,Right,6732,NM PET Skull Base to Mid Thighs
-Abdomen Pelvis,PET/CT,Bilateral,6732,NM PET Skull Base to Mid Thighs
-Abdomen Pelvis,PET/CT,Unilateral,6732,NM PET Skull Base to Mid Thighs
-Abdomen Pelvis,PET/CT,Unspecified,6732,NM PET Skull Base to Mid Thighs
-Abdomen Pelvis,PET w/CT,Left,6732,NM PET Skull Base to Mid Thighs
-Abdomen Pelvis,PET w/CT,Right,6732,NM PET Skull Base to Mid Thighs
-Abdomen Pelvis,PET w/CT,Bilateral,6732,NM PET Skull Base to Mid Thighs
-Abdomen Pelvis,PET w/CT,Unilateral,6732,NM PET Skull Base to Mid Thighs
-Abdomen Pelvis,PET w/CT,Unspecified,6732,NM PET Skull Base to Mid Thighs
+Abdomen & Pelvis,CT,Left,6409,CT Abdomen Pelvis
+Abdomen & Pelvis,CT,Right,6409,CT Abdomen Pelvis
+Abdomen & Pelvis,CT,Bilateral,6409,CT Abdomen Pelvis
+Abdomen & Pelvis,CT,Unilateral,6409,CT Abdomen Pelvis
+Abdomen & Pelvis,CT,Unspecified,6409,CT Abdomen Pelvis
+Abdomen & Pelvis,Conventional Tomography,Left,6409,CT Abdomen Pelvis
+Abdomen & Pelvis,Conventional Tomography,Right,6409,CT Abdomen Pelvis
+Abdomen & Pelvis,Conventional Tomography,Bilateral,6409,CT Abdomen Pelvis
+Abdomen & Pelvis,Conventional Tomography,Unilateral,6409,CT Abdomen Pelvis
+Abdomen & Pelvis,Conventional Tomography,Unspecified,6409,CT Abdomen Pelvis
+Abdomen & Pelvis,Calcium Scoring,Left,6409,CT Abdomen Pelvis
+Abdomen & Pelvis,Calcium Scoring,Right,6409,CT Abdomen Pelvis
+Abdomen & Pelvis,Calcium Scoring,Bilateral,6409,CT Abdomen Pelvis
+Abdomen & Pelvis,Calcium Scoring,Unilateral,6409,CT Abdomen Pelvis
+Abdomen & Pelvis,Calcium Scoring,Unspecified,6409,CT Abdomen Pelvis
+Abdomen & Pelvis,CTA,Left,6451,CTA Abdomen Pelvis
+Abdomen & Pelvis,CTA,Right,6451,CTA Abdomen Pelvis
+Abdomen & Pelvis,CTA,Bilateral,6451,CTA Abdomen Pelvis
+Abdomen & Pelvis,CTA,Unilateral,6451,CTA Abdomen Pelvis
+Abdomen & Pelvis,CTA,Unspecified,6451,CTA Abdomen Pelvis
+Abdomen & Pelvis,MR,Left,6361,MR Abdomen Pelvis
+Abdomen & Pelvis,MR,Right,6361,MR Abdomen Pelvis
+Abdomen & Pelvis,MR,Bilateral,6361,MR Abdomen Pelvis
+Abdomen & Pelvis,MR,Unilateral,6361,MR Abdomen Pelvis
+Abdomen & Pelvis,MR,Unspecified,6361,MR Abdomen Pelvis
+Abdomen & Pelvis,MRI,Left,6361,MR Abdomen Pelvis
+Abdomen & Pelvis,MRI,Right,6361,MR Abdomen Pelvis
+Abdomen & Pelvis,MRI,Bilateral,6361,MR Abdomen Pelvis
+Abdomen & Pelvis,MRI,Unilateral,6361,MR Abdomen Pelvis
+Abdomen & Pelvis,MRI,Unspecified,6361,MR Abdomen Pelvis
+Abdomen & Pelvis,MRI - Flow Mapping,Left,6361,MR Abdomen Pelvis
+Abdomen & Pelvis,MRI - Flow Mapping,Right,6361,MR Abdomen Pelvis
+Abdomen & Pelvis,MRI - Flow Mapping,Bilateral,6361,MR Abdomen Pelvis
+Abdomen & Pelvis,MRI - Flow Mapping,Unilateral,6361,MR Abdomen Pelvis
+Abdomen & Pelvis,MRI - Flow Mapping,Unspecified,6361,MR Abdomen Pelvis
+Abdomen & Pelvis,MRI - Functional,Left,6361,MR Abdomen Pelvis
+Abdomen & Pelvis,MRI - Functional,Right,6361,MR Abdomen Pelvis
+Abdomen & Pelvis,MRI - Functional,Bilateral,6361,MR Abdomen Pelvis
+Abdomen & Pelvis,MRI - Functional,Unilateral,6361,MR Abdomen Pelvis
+Abdomen & Pelvis,MRI - Functional,Unspecified,6361,MR Abdomen Pelvis
+Abdomen & Pelvis,Spectroscopy,Left,6361,MR Abdomen Pelvis
+Abdomen & Pelvis,Spectroscopy,Right,6361,MR Abdomen Pelvis
+Abdomen & Pelvis,Spectroscopy,Bilateral,6361,MR Abdomen Pelvis
+Abdomen & Pelvis,Spectroscopy,Unilateral,6361,MR Abdomen Pelvis
+Abdomen & Pelvis,Spectroscopy,Unspecified,6361,MR Abdomen Pelvis
+Abdomen & Pelvis,MRA,Left,6539,MRA Abdomen
+Abdomen & Pelvis,MRA,Right,6539,MRA Abdomen
+Abdomen & Pelvis,MRA,Bilateral,6539,MRA Abdomen
+Abdomen & Pelvis,MRA,Unilateral,6539,MRA Abdomen
+Abdomen & Pelvis,MRA,Unspecified,6539,MRA Abdomen
+Abdomen & Pelvis,US,Left,6560,US Abdomen Complete
+Abdomen & Pelvis,US,Right,6560,US Abdomen Complete
+Abdomen & Pelvis,US,Bilateral,6560,US Abdomen Complete
+Abdomen & Pelvis,US,Unilateral,6560,US Abdomen Complete
+Abdomen & Pelvis,US,Unspecified,6560,US Abdomen Complete
+Abdomen & Pelvis,US • Transcranial,Left,6560,US Abdomen Complete
+Abdomen & Pelvis,US • Transcranial,Right,6560,US Abdomen Complete
+Abdomen & Pelvis,US • Transcranial,Bilateral,6560,US Abdomen Complete
+Abdomen & Pelvis,US • Transcranial,Unilateral,6560,US Abdomen Complete
+Abdomen & Pelvis,US • Transcranial,Unspecified,6560,US Abdomen Complete
+Abdomen & Pelvis,US • Transrectal,Left,6560,US Abdomen Complete
+Abdomen & Pelvis,US • Transrectal,Right,6560,US Abdomen Complete
+Abdomen & Pelvis,US • Transrectal,Bilateral,6560,US Abdomen Complete
+Abdomen & Pelvis,US • Transrectal,Unilateral,6560,US Abdomen Complete
+Abdomen & Pelvis,US • Transrectal,Unspecified,6560,US Abdomen Complete
+Abdomen & Pelvis,US Duplex,Left,6753,US Abdomen Vasculature
+Abdomen & Pelvis,US Duplex,Right,6753,US Abdomen Vasculature
+Abdomen & Pelvis,US Duplex,Bilateral,6753,US Abdomen Vasculature
+Abdomen & Pelvis,US Duplex,Unilateral,6753,US Abdomen Vasculature
+Abdomen & Pelvis,US Duplex,Unspecified,6753,US Abdomen Vasculature
+Abdomen & Pelvis,US - Duplex,Left,6753,US Abdomen Vasculature
+Abdomen & Pelvis,US - Duplex,Right,6753,US Abdomen Vasculature
+Abdomen & Pelvis,US - Duplex,Bilateral,6753,US Abdomen Vasculature
+Abdomen & Pelvis,US - Duplex,Unilateral,6753,US Abdomen Vasculature
+Abdomen & Pelvis,US - Duplex,Unspecified,6753,US Abdomen Vasculature
+Abdomen & Pelvis,Vascular Lab,Left,6753,US Abdomen Vasculature
+Abdomen & Pelvis,Vascular Lab,Right,6753,US Abdomen Vasculature
+Abdomen & Pelvis,Vascular Lab,Bilateral,6753,US Abdomen Vasculature
+Abdomen & Pelvis,Vascular Lab,Unilateral,6753,US Abdomen Vasculature
+Abdomen & Pelvis,Vascular Lab,Unspecified,6753,US Abdomen Vasculature
+Abdomen & Pelvis,Radiography,Left,6596,XR Abdomen
+Abdomen & Pelvis,Radiography,Right,6596,XR Abdomen
+Abdomen & Pelvis,Radiography,Bilateral,6596,XR Abdomen
+Abdomen & Pelvis,Radiography,Unilateral,6596,XR Abdomen
+Abdomen & Pelvis,Radiography,Unspecified,6596,XR Abdomen
+Abdomen & Pelvis,Pelvimetry,Left,6596,XR Abdomen
+Abdomen & Pelvis,Pelvimetry,Right,6596,XR Abdomen
+Abdomen & Pelvis,Pelvimetry,Bilateral,6596,XR Abdomen
+Abdomen & Pelvis,Pelvimetry,Unilateral,6596,XR Abdomen
+Abdomen & Pelvis,Pelvimetry,Unspecified,6596,XR Abdomen
+Abdomen & Pelvis,X-Ray - Dental,Left,6596,XR Abdomen
+Abdomen & Pelvis,X-Ray - Dental,Right,6596,XR Abdomen
+Abdomen & Pelvis,X-Ray - Dental,Bilateral,6596,XR Abdomen
+Abdomen & Pelvis,X-Ray - Dental,Unilateral,6596,XR Abdomen
+Abdomen & Pelvis,X-Ray - Dental,Unspecified,6596,XR Abdomen
+Abdomen & Pelvis,X-Ray - Diskography,Left,6596,XR Abdomen
+Abdomen & Pelvis,X-Ray - Diskography,Right,6596,XR Abdomen
+Abdomen & Pelvis,X-Ray - Diskography,Bilateral,6596,XR Abdomen
+Abdomen & Pelvis,X-Ray - Diskography,Unilateral,6596,XR Abdomen
+Abdomen & Pelvis,X-Ray - Diskography,Unspecified,6596,XR Abdomen
+Abdomen & Pelvis,X-Ray - Magnification,Left,6596,XR Abdomen
+Abdomen & Pelvis,X-Ray - Magnification,Right,6596,XR Abdomen
+Abdomen & Pelvis,X-Ray - Magnification,Bilateral,6596,XR Abdomen
+Abdomen & Pelvis,X-Ray - Magnification,Unilateral,6596,XR Abdomen
+Abdomen & Pelvis,X-Ray - Magnification,Unspecified,6596,XR Abdomen
+Abdomen & Pelvis,X-Ray - Specimen,Left,6596,XR Abdomen
+Abdomen & Pelvis,X-Ray - Specimen,Right,6596,XR Abdomen
+Abdomen & Pelvis,X-Ray - Specimen,Bilateral,6596,XR Abdomen
+Abdomen & Pelvis,X-Ray - Specimen,Unilateral,6596,XR Abdomen
+Abdomen & Pelvis,X-Ray - Specimen,Unspecified,6596,XR Abdomen
+Abdomen & Pelvis,X-Ray - Standard,Left,6596,XR Abdomen
+Abdomen & Pelvis,X-Ray - Standard,Right,6596,XR Abdomen
+Abdomen & Pelvis,X-Ray - Standard,Bilateral,6596,XR Abdomen
+Abdomen & Pelvis,X-Ray - Standard,Unilateral,6596,XR Abdomen
+Abdomen & Pelvis,X-Ray - Standard,Unspecified,6596,XR Abdomen
+Abdomen & Pelvis,X-Ray - Stereoscopic,Left,6596,XR Abdomen
+Abdomen & Pelvis,X-Ray - Stereoscopic,Right,6596,XR Abdomen
+Abdomen & Pelvis,X-Ray - Stereoscopic,Bilateral,6596,XR Abdomen
+Abdomen & Pelvis,X-Ray - Stereoscopic,Unilateral,6596,XR Abdomen
+Abdomen & Pelvis,X-Ray - Stereoscopic,Unspecified,6596,XR Abdomen
+Abdomen & Pelvis,X-Ray w/Fluoroscopy,Left,6596,XR Abdomen
+Abdomen & Pelvis,X-Ray w/Fluoroscopy,Right,6596,XR Abdomen
+Abdomen & Pelvis,X-Ray w/Fluoroscopy,Bilateral,6596,XR Abdomen
+Abdomen & Pelvis,X-Ray w/Fluoroscopy,Unilateral,6596,XR Abdomen
+Abdomen & Pelvis,X-Ray w/Fluoroscopy,Unspecified,6596,XR Abdomen
+Abdomen & Pelvis,PET,Left,6732,NM PET Skull Base to Mid Thighs
+Abdomen & Pelvis,PET,Right,6732,NM PET Skull Base to Mid Thighs
+Abdomen & Pelvis,PET,Bilateral,6732,NM PET Skull Base to Mid Thighs
+Abdomen & Pelvis,PET,Unilateral,6732,NM PET Skull Base to Mid Thighs
+Abdomen & Pelvis,PET,Unspecified,6732,NM PET Skull Base to Mid Thighs
+Abdomen & Pelvis,PET - Perfusion,Left,6732,NM PET Skull Base to Mid Thighs
+Abdomen & Pelvis,PET - Perfusion,Right,6732,NM PET Skull Base to Mid Thighs
+Abdomen & Pelvis,PET - Perfusion,Bilateral,6732,NM PET Skull Base to Mid Thighs
+Abdomen & Pelvis,PET - Perfusion,Unilateral,6732,NM PET Skull Base to Mid Thighs
+Abdomen & Pelvis,PET - Perfusion,Unspecified,6732,NM PET Skull Base to Mid Thighs
+Abdomen & Pelvis,PET w/ CT,Left,6732,NM PET Skull Base to Mid Thighs
+Abdomen & Pelvis,PET w/ CT,Right,6732,NM PET Skull Base to Mid Thighs
+Abdomen & Pelvis,PET w/ CT,Bilateral,6732,NM PET Skull Base to Mid Thighs
+Abdomen & Pelvis,PET w/ CT,Unilateral,6732,NM PET Skull Base to Mid Thighs
+Abdomen & Pelvis,PET w/ CT,Unspecified,6732,NM PET Skull Base to Mid Thighs
+Abdomen & Pelvis,PET/CT,Left,6732,NM PET Skull Base to Mid Thighs
+Abdomen & Pelvis,PET/CT,Right,6732,NM PET Skull Base to Mid Thighs
+Abdomen & Pelvis,PET/CT,Bilateral,6732,NM PET Skull Base to Mid Thighs
+Abdomen & Pelvis,PET/CT,Unilateral,6732,NM PET Skull Base to Mid Thighs
+Abdomen & Pelvis,PET/CT,Unspecified,6732,NM PET Skull Base to Mid Thighs
+Abdomen & Pelvis,PET w/CT,Left,6732,NM PET Skull Base to Mid Thighs
+Abdomen & Pelvis,PET w/CT,Right,6732,NM PET Skull Base to Mid Thighs
+Abdomen & Pelvis,PET w/CT,Bilateral,6732,NM PET Skull Base to Mid Thighs
+Abdomen & Pelvis,PET w/CT,Unilateral,6732,NM PET Skull Base to Mid Thighs
+Abdomen & Pelvis,PET w/CT,Unspecified,6732,NM PET Skull Base to Mid Thighs
 Celiac Plexus,CT,Left,6409,CT Abdomen Pelvis
 Celiac Plexus,CT,Right,6409,CT Abdomen Pelvis
 Celiac Plexus,CT,Bilateral,6409,CT Abdomen Pelvis
@@ -439,11 +454,11 @@ Colon,X-Ray - Specimen,Right,6596,XR Abdomen
 Colon,X-Ray - Specimen,Bilateral,6596,XR Abdomen
 Colon,X-Ray - Specimen,Unilateral,6596,XR Abdomen
 Colon,X-Ray - Specimen,Unspecified,6596,XR Abdomen
-Colon,X-Rav - Standard,Left,6596,XR Abdomen
-Colon,X-Rav - Standard,Right,6596,XR Abdomen
-Colon,X-Rav - Standard,Bilateral,6596,XR Abdomen
-Colon,X-Rav - Standard,Unilateral,6596,XR Abdomen
-Colon,X-Rav - Standard,Unspecified,6596,XR Abdomen
+Colon,X-Ray - Standard,Left,6596,XR Abdomen
+Colon,X-Ray - Standard,Right,6596,XR Abdomen
+Colon,X-Ray - Standard,Bilateral,6596,XR Abdomen
+Colon,X-Ray - Standard,Unilateral,6596,XR Abdomen
+Colon,X-Ray - Standard,Unspecified,6596,XR Abdomen
 Colon,X-Ray - Stereoscopic,Left,6596,XR Abdomen
 Colon,X-Ray - Stereoscopic,Right,6596,XR Abdomen
 Colon,X-Ray - Stereoscopic,Bilateral,6596,XR Abdomen
@@ -534,11 +549,11 @@ Fallopian Tube,X-Ray - Specimen,Right,6566,US Pelvis
 Fallopian Tube,X-Ray - Specimen,Bilateral,6566,US Pelvis
 Fallopian Tube,X-Ray - Specimen,Unilateral,6566,US Pelvis
 Fallopian Tube,X-Ray - Specimen,Unspecified,6566,US Pelvis
-Fallopian Tube,X-Rav - Standard,Left,6566,US Pelvis
-Fallopian Tube,X-Rav - Standard,Right,6566,US Pelvis
-Fallopian Tube,X-Rav - Standard,Bilateral,6566,US Pelvis
-Fallopian Tube,X-Rav - Standard,Unilateral,6566,US Pelvis
-Fallopian Tube,X-Rav - Standard,Unspecified,6566,US Pelvis
+Fallopian Tube,X-Ray - Standard,Left,6566,US Pelvis
+Fallopian Tube,X-Ray - Standard,Right,6566,US Pelvis
+Fallopian Tube,X-Ray - Standard,Bilateral,6566,US Pelvis
+Fallopian Tube,X-Ray - Standard,Unilateral,6566,US Pelvis
+Fallopian Tube,X-Ray - Standard,Unspecified,6566,US Pelvis
 Fallopian Tube,X-Ray - Stereoscopic,Left,6566,US Pelvis
 Fallopian Tube,X-Ray - Stereoscopic,Right,6566,US Pelvis
 Fallopian Tube,X-Ray - Stereoscopic,Bilateral,6566,US Pelvis
@@ -644,11 +659,11 @@ Female Genital Tract,X-Ray - Specimen,Right,6566,US Pelvis
 Female Genital Tract,X-Ray - Specimen,Bilateral,6566,US Pelvis
 Female Genital Tract,X-Ray - Specimen,Unilateral,6566,US Pelvis
 Female Genital Tract,X-Ray - Specimen,Unspecified,6566,US Pelvis
-Female Genital Tract,X-Rav - Standard,Left,6566,US Pelvis
-Female Genital Tract,X-Rav - Standard,Right,6566,US Pelvis
-Female Genital Tract,X-Rav - Standard,Bilateral,6566,US Pelvis
-Female Genital Tract,X-Rav - Standard,Unilateral,6566,US Pelvis
-Female Genital Tract,X-Rav - Standard,Unspecified,6566,US Pelvis
+Female Genital Tract,X-Ray - Standard,Left,6566,US Pelvis
+Female Genital Tract,X-Ray - Standard,Right,6566,US Pelvis
+Female Genital Tract,X-Ray - Standard,Bilateral,6566,US Pelvis
+Female Genital Tract,X-Ray - Standard,Unilateral,6566,US Pelvis
+Female Genital Tract,X-Ray - Standard,Unspecified,6566,US Pelvis
 Female Genital Tract,X-Ray - Stereoscopic,Left,6566,US Pelvis
 Female Genital Tract,X-Ray - Stereoscopic,Right,6566,US Pelvis
 Female Genital Tract,X-Ray - Stereoscopic,Bilateral,6566,US Pelvis
@@ -944,11 +959,11 @@ Pancreas,X-Ray - Specimen,Right,6596,XR Abdomen
 Pancreas,X-Ray - Specimen,Bilateral,6596,XR Abdomen
 Pancreas,X-Ray - Specimen,Unilateral,6596,XR Abdomen
 Pancreas,X-Ray - Specimen,Unspecified,6596,XR Abdomen
-Pancreas,X-Rav - Standard,Left,6596,XR Abdomen
-Pancreas,X-Rav - Standard,Right,6596,XR Abdomen
-Pancreas,X-Rav - Standard,Bilateral,6596,XR Abdomen
-Pancreas,X-Rav - Standard,Unilateral,6596,XR Abdomen
-Pancreas,X-Rav - Standard,Unspecified,6596,XR Abdomen
+Pancreas,X-Ray - Standard,Left,6596,XR Abdomen
+Pancreas,X-Ray - Standard,Right,6596,XR Abdomen
+Pancreas,X-Ray - Standard,Bilateral,6596,XR Abdomen
+Pancreas,X-Ray - Standard,Unilateral,6596,XR Abdomen
+Pancreas,X-Ray - Standard,Unspecified,6596,XR Abdomen
 Pancreas,X-Ray - Stereoscopic,Left,6596,XR Abdomen
 Pancreas,X-Ray - Stereoscopic,Right,6596,XR Abdomen
 Pancreas,X-Ray - Stereoscopic,Bilateral,6596,XR Abdomen
@@ -1139,11 +1154,11 @@ Peritoneum,X-Ray - Specimen,Right,6596,XR Abdomen
 Peritoneum,X-Ray - Specimen,Bilateral,6596,XR Abdomen
 Peritoneum,X-Ray - Specimen,Unilateral,6596,XR Abdomen
 Peritoneum,X-Ray - Specimen,Unspecified,6596,XR Abdomen
-Peritoneum,X-Rav - Standard,Left,6596,XR Abdomen
-Peritoneum,X-Rav - Standard,Right,6596,XR Abdomen
-Peritoneum,X-Rav - Standard,Bilateral,6596,XR Abdomen
-Peritoneum,X-Rav - Standard,Unilateral,6596,XR Abdomen
-Peritoneum,X-Rav - Standard,Unspecified,6596,XR Abdomen
+Peritoneum,X-Ray - Standard,Left,6596,XR Abdomen
+Peritoneum,X-Ray - Standard,Right,6596,XR Abdomen
+Peritoneum,X-Ray - Standard,Bilateral,6596,XR Abdomen
+Peritoneum,X-Ray - Standard,Unilateral,6596,XR Abdomen
+Peritoneum,X-Ray - Standard,Unspecified,6596,XR Abdomen
 Peritoneum,X-Ray - Stereoscopic,Left,6596,XR Abdomen
 Peritoneum,X-Ray - Stereoscopic,Right,6596,XR Abdomen
 Peritoneum,X-Ray - Stereoscopic,Bilateral,6596,XR Abdomen
@@ -1269,11 +1284,11 @@ Rectum,X-Ray - Specimen,Right,6596,XR Abdomen
 Rectum,X-Ray - Specimen,Bilateral,6596,XR Abdomen
 Rectum,X-Ray - Specimen,Unilateral,6596,XR Abdomen
 Rectum,X-Ray - Specimen,Unspecified,6596,XR Abdomen
-Rectum,X-Rav - Standard,Left,6596,XR Abdomen
-Rectum,X-Rav - Standard,Right,6596,XR Abdomen
-Rectum,X-Rav - Standard,Bilateral,6596,XR Abdomen
-Rectum,X-Rav - Standard,Unilateral,6596,XR Abdomen
-Rectum,X-Rav - Standard,Unspecified,6596,XR Abdomen
+Rectum,X-Ray - Standard,Left,6596,XR Abdomen
+Rectum,X-Ray - Standard,Right,6596,XR Abdomen
+Rectum,X-Ray - Standard,Bilateral,6596,XR Abdomen
+Rectum,X-Ray - Standard,Unilateral,6596,XR Abdomen
+Rectum,X-Ray - Standard,Unspecified,6596,XR Abdomen
 Rectum,X-Ray - Stereoscopic,Left,6596,XR Abdomen
 Rectum,X-Ray - Stereoscopic,Right,6596,XR Abdomen
 Rectum,X-Ray - Stereoscopic,Bilateral,6596,XR Abdomen
@@ -1389,11 +1404,11 @@ Small Intestine,X-Ray - Specimen,Right,6596,XR Abdomen
 Small Intestine,X-Ray - Specimen,Bilateral,6596,XR Abdomen
 Small Intestine,X-Ray - Specimen,Unilateral,6596,XR Abdomen
 Small Intestine,X-Ray - Specimen,Unspecified,6596,XR Abdomen
-Small Intestine,X-Rav - Standard,Left,6596,XR Abdomen
-Small Intestine,X-Rav - Standard,Right,6596,XR Abdomen
-Small Intestine,X-Rav - Standard,Bilateral,6596,XR Abdomen
-Small Intestine,X-Rav - Standard,Unilateral,6596,XR Abdomen
-Small Intestine,X-Rav - Standard,Unspecified,6596,XR Abdomen
+Small Intestine,X-Ray - Standard,Left,6596,XR Abdomen
+Small Intestine,X-Ray - Standard,Right,6596,XR Abdomen
+Small Intestine,X-Ray - Standard,Bilateral,6596,XR Abdomen
+Small Intestine,X-Ray - Standard,Unilateral,6596,XR Abdomen
+Small Intestine,X-Ray - Standard,Unspecified,6596,XR Abdomen
 Small Intestine,X-Ray - Stereoscopic,Left,6596,XR Abdomen
 Small Intestine,X-Ray - Stereoscopic,Right,6596,XR Abdomen
 Small Intestine,X-Ray - Stereoscopic,Bilateral,6596,XR Abdomen
@@ -1904,11 +1919,11 @@ Urinary Tract,X-Ray - Specimen,Right,6596,XR Abdomen
 Urinary Tract,X-Ray - Specimen,Bilateral,6596,XR Abdomen
 Urinary Tract,X-Ray - Specimen,Unilateral,6596,XR Abdomen
 Urinary Tract,X-Ray - Specimen,Unspecified,6596,XR Abdomen
-Urinary Tract,X-Rav - Standard,Left,6596,XR Abdomen
-Urinary Tract,X-Rav - Standard,Right,6596,XR Abdomen
-Urinary Tract,X-Rav - Standard,Bilateral,6596,XR Abdomen
-Urinary Tract,X-Rav - Standard,Unilateral,6596,XR Abdomen
-Urinary Tract,X-Rav - Standard,Unspecified,6596,XR Abdomen
+Urinary Tract,X-Ray - Standard,Left,6596,XR Abdomen
+Urinary Tract,X-Ray - Standard,Right,6596,XR Abdomen
+Urinary Tract,X-Ray - Standard,Bilateral,6596,XR Abdomen
+Urinary Tract,X-Ray - Standard,Unilateral,6596,XR Abdomen
+Urinary Tract,X-Ray - Standard,Unspecified,6596,XR Abdomen
 Urinary Tract,X-Ray - Stereoscopic,Left,6596,XR Abdomen
 Urinary Tract,X-Ray - Stereoscopic,Right,6596,XR Abdomen
 Urinary Tract,X-Ray - Stereoscopic,Bilateral,6596,XR Abdomen
@@ -2029,11 +2044,11 @@ Ankle,X-Ray - Specimen,Right,6600,XR Ankle Right
 Ankle,X-Ray - Specimen,Bilateral,6307,Recommendation for Additional Imaging - Laterality Unspecified
 Ankle,X-Ray - Specimen,Unspecified,6307,Recommendation for Additional Imaging - Laterality Unspecified
 Ankle,X-Ray - Specimen,Unilateral,6307,Recommendation for Additional Imaging - Laterality Unspecified
-Ankle,X-Rav - Standard,Left,6599,XR Ankle Left
-Ankle,X-Rav - Standard,Right,6600,XR Ankle Right
-Ankle,X-Rav - Standard,Bilateral,6307,Recommendation for Additional Imaging - Laterality Unspecified
-Ankle,X-Rav - Standard,Unspecified,6307,Recommendation for Additional Imaging - Laterality Unspecified
-Ankle,X-Rav - Standard,Unilateral,6307,Recommendation for Additional Imaging - Laterality Unspecified
+Ankle,X-Ray - Standard,Left,6599,XR Ankle Left
+Ankle,X-Ray - Standard,Right,6600,XR Ankle Right
+Ankle,X-Ray - Standard,Bilateral,6307,Recommendation for Additional Imaging - Laterality Unspecified
+Ankle,X-Ray - Standard,Unspecified,6307,Recommendation for Additional Imaging - Laterality Unspecified
+Ankle,X-Ray - Standard,Unilateral,6307,Recommendation for Additional Imaging - Laterality Unspecified
 Ankle,X-Ray - Stereoscopic,Left,6599,XR Ankle Left
 Ankle,X-Ray - Stereoscopic,Right,6600,XR Ankle Right
 Ankle,X-Ray - Stereoscopic,Bilateral,6307,Recommendation for Additional Imaging - Laterality Unspecified
@@ -2159,11 +2174,11 @@ Cervical Spine,Spectroscopy,Right,6544,MR Cervical Spine
 Cervical Spine,Spectroscopy,Bilateral,6544,MR Cervical Spine
 Cervical Spine,Spectroscopy,Unilateral,6544,MR Cervical Spine
 Cervical Spine,Spectroscopy,Unspecified,6544,MR Cervical Spine
-Cervical Spine,MRA,Left,6536,MRA Neck
-Cervical Spine,MRA,Right,6536,MRA Neck
-Cervical Spine,MRA,Bilateral,6536,MRA Neck
-Cervical Spine,MRA,Unilateral,6536,MRA Neck
-Cervical Spine,MRA,Unspecified,6536,MRA Neck
+Cervical Spine,MRA,Left,6531,MRA Spine
+Cervical Spine,MRA,Right,6531,MRA Spine
+Cervical Spine,MRA,Bilateral,6531,MRA Spine
+Cervical Spine,MRA,Unilateral,6531,MRA Spine
+Cervical Spine,MRA,Unspecified,6531,MRA Spine
 Cervical Spine,US Duplex,Left,6582,US Carotid
 Cervical Spine,US Duplex,Right,6582,US Carotid
 Cervical Spine,US Duplex,Bilateral,6582,US Carotid
@@ -2224,11 +2239,11 @@ Cervical Spine,X-Ray - Specimen,Right,6603,XR Cervical Spine
 Cervical Spine,X-Ray - Specimen,Bilateral,6603,XR Cervical Spine
 Cervical Spine,X-Ray - Specimen,Unilateral,6603,XR Cervical Spine
 Cervical Spine,X-Ray - Specimen,Unspecified,6603,XR Cervical Spine
-Cervical Spine,X-Rav - Standard,Left,6603,XR Cervical Spine
-Cervical Spine,X-Rav - Standard,Right,6603,XR Cervical Spine
-Cervical Spine,X-Rav - Standard,Bilateral,6603,XR Cervical Spine
-Cervical Spine,X-Rav - Standard,Unilateral,6603,XR Cervical Spine
-Cervical Spine,X-Rav - Standard,Unspecified,6603,XR Cervical Spine
+Cervical Spine,X-Ray - Standard,Left,6603,XR Cervical Spine
+Cervical Spine,X-Ray - Standard,Right,6603,XR Cervical Spine
+Cervical Spine,X-Ray - Standard,Bilateral,6603,XR Cervical Spine
+Cervical Spine,X-Ray - Standard,Unilateral,6603,XR Cervical Spine
+Cervical Spine,X-Ray - Standard,Unspecified,6603,XR Cervical Spine
 Cervical Spine,X-Ray - Stereoscopic,Left,6603,XR Cervical Spine
 Cervical Spine,X-Ray - Stereoscopic,Right,6603,XR Cervical Spine
 Cervical Spine,X-Ray - Stereoscopic,Bilateral,6603,XR Cervical Spine
@@ -2314,11 +2329,11 @@ Lumbar Spine,X-Ray - Specimen,Right,6624,XR Lumbar Spine
 Lumbar Spine,X-Ray - Specimen,Bilateral,6624,XR Lumbar Spine
 Lumbar Spine,X-Ray - Specimen,Unilateral,6624,XR Lumbar Spine
 Lumbar Spine,X-Ray - Specimen,Unspecified,6624,XR Lumbar Spine
-Lumbar Spine,X-Rav - Standard,Left,6624,XR Lumbar Spine
-Lumbar Spine,X-Rav - Standard,Right,6624,XR Lumbar Spine
-Lumbar Spine,X-Rav - Standard,Bilateral,6624,XR Lumbar Spine
-Lumbar Spine,X-Rav - Standard,Unilateral,6624,XR Lumbar Spine
-Lumbar Spine,X-Rav - Standard,Unspecified,6624,XR Lumbar Spine
+Lumbar Spine,X-Ray - Standard,Left,6624,XR Lumbar Spine
+Lumbar Spine,X-Ray - Standard,Right,6624,XR Lumbar Spine
+Lumbar Spine,X-Ray - Standard,Bilateral,6624,XR Lumbar Spine
+Lumbar Spine,X-Ray - Standard,Unilateral,6624,XR Lumbar Spine
+Lumbar Spine,X-Ray - Standard,Unspecified,6624,XR Lumbar Spine
 Lumbar Spine,X-Ray - Stereoscopic,Left,6624,XR Lumbar Spine
 Lumbar Spine,X-Ray - Stereoscopic,Right,6624,XR Lumbar Spine
 Lumbar Spine,X-Ray - Stereoscopic,Bilateral,6624,XR Lumbar Spine
@@ -2724,11 +2739,11 @@ Chest,X-Ray - Specimen,Right,6637,XR Chest
 Chest,X-Ray - Specimen,Bilateral,6637,XR Chest
 Chest,X-Ray - Specimen,Unilateral,6637,XR Chest
 Chest,X-Ray - Specimen,Unspecified,6637,XR Chest
-Chest,X-Rav - Standard,Left,6637,XR Chest
-Chest,X-Rav - Standard,Right,6637,XR Chest
-Chest,X-Rav - Standard,Bilateral,6637,XR Chest
-Chest,X-Rav - Standard,Unilateral,6637,XR Chest
-Chest,X-Rav - Standard,Unspecified,6637,XR Chest
+Chest,X-Ray - Standard,Left,6637,XR Chest
+Chest,X-Ray - Standard,Right,6637,XR Chest
+Chest,X-Ray - Standard,Bilateral,6637,XR Chest
+Chest,X-Ray - Standard,Unilateral,6637,XR Chest
+Chest,X-Ray - Standard,Unspecified,6637,XR Chest
 Chest,X-Ray - Stereoscopic,Left,6637,XR Chest
 Chest,X-Ray - Stereoscopic,Right,6637,XR Chest
 Chest,X-Ray - Stereoscopic,Bilateral,6637,XR Chest
@@ -2859,11 +2874,11 @@ Chest - Lymph Node,X-Ray - Specimen,Right,6637,XR Chest
 Chest - Lymph Node,X-Ray - Specimen,Bilateral,6637,XR Chest
 Chest - Lymph Node,X-Ray - Specimen,Unilateral,6637,XR Chest
 Chest - Lymph Node,X-Ray - Specimen,Unspecified,6637,XR Chest
-Chest - Lymph Node,X-Rav - Standard,Left,6637,XR Chest
-Chest - Lymph Node,X-Rav - Standard,Right,6637,XR Chest
-Chest - Lymph Node,X-Rav - Standard,Bilateral,6637,XR Chest
-Chest - Lymph Node,X-Rav - Standard,Unilateral,6637,XR Chest
-Chest - Lymph Node,X-Rav - Standard,Unspecified,6637,XR Chest
+Chest - Lymph Node,X-Ray - Standard,Left,6637,XR Chest
+Chest - Lymph Node,X-Ray - Standard,Right,6637,XR Chest
+Chest - Lymph Node,X-Ray - Standard,Bilateral,6637,XR Chest
+Chest - Lymph Node,X-Ray - Standard,Unilateral,6637,XR Chest
+Chest - Lymph Node,X-Ray - Standard,Unspecified,6637,XR Chest
 Chest - Lymph Node,X-Ray - Stereoscopic,Left,6637,XR Chest
 Chest - Lymph Node,X-Ray - Stereoscopic,Right,6637,XR Chest
 Chest - Lymph Node,X-Ray - Stereoscopic,Bilateral,6637,XR Chest
@@ -2959,11 +2974,11 @@ Chest Wall,X-Ray - Specimen,Right,6629,XR Ribs Right
 Chest Wall,X-Ray - Specimen,Bilateral,6746,XR Ribs Bilateral
 Chest Wall,X-Ray - Specimen,Unspecified,6746,XR Ribs Bilateral
 Chest Wall,X-Ray - Specimen,Unilateral,6307,Recommendation for Additional Imaging - Laterality Unspecified
-Chest Wall,X-Rav - Standard,Left,6628,XR Ribs Left
-Chest Wall,X-Rav - Standard,Right,6629,XR Ribs Right
-Chest Wall,X-Rav - Standard,Bilateral,6746,XR Ribs Bilateral
-Chest Wall,X-Rav - Standard,Unspecified,6746,XR Ribs Bilateral
-Chest Wall,X-Rav - Standard,Unilateral,6307,Recommendation for Additional Imaging - Laterality Unspecified
+Chest Wall,X-Ray - Standard,Left,6628,XR Ribs Left
+Chest Wall,X-Ray - Standard,Right,6629,XR Ribs Right
+Chest Wall,X-Ray - Standard,Bilateral,6746,XR Ribs Bilateral
+Chest Wall,X-Ray - Standard,Unspecified,6746,XR Ribs Bilateral
+Chest Wall,X-Ray - Standard,Unilateral,6307,Recommendation for Additional Imaging - Laterality Unspecified
 Chest Wall,X-Ray - Stereoscopic,Left,6628,XR Ribs Left
 Chest Wall,X-Ray - Stereoscopic,Right,6629,XR Ribs Right
 Chest Wall,X-Ray - Stereoscopic,Bilateral,6746,XR Ribs Bilateral
@@ -3044,11 +3059,11 @@ Lungs,X-Ray - Specimen,Right,6637,XR Chest
 Lungs,X-Ray - Specimen,Bilateral,6637,XR Chest
 Lungs,X-Ray - Specimen,Unilateral,6637,XR Chest
 Lungs,X-Ray - Specimen,Unspecified,6637,XR Chest
-Lungs,X-Rav - Standard,Left,6637,XR Chest
-Lungs,X-Rav - Standard,Right,6637,XR Chest
-Lungs,X-Rav - Standard,Bilateral,6637,XR Chest
-Lungs,X-Rav - Standard,Unilateral,6637,XR Chest
-Lungs,X-Rav - Standard,Unspecified,6637,XR Chest
+Lungs,X-Ray - Standard,Left,6637,XR Chest
+Lungs,X-Ray - Standard,Right,6637,XR Chest
+Lungs,X-Ray - Standard,Bilateral,6637,XR Chest
+Lungs,X-Ray - Standard,Unilateral,6637,XR Chest
+Lungs,X-Ray - Standard,Unspecified,6637,XR Chest
 Lungs,X-Ray - Stereoscopic,Left,6637,XR Chest
 Lungs,X-Ray - Stereoscopic,Right,6637,XR Chest
 Lungs,X-Ray - Stereoscopic,Bilateral,6637,XR Chest
@@ -3074,31 +3089,6 @@ Lungs,US • Transrectal,Right,6736,US Chest
 Lungs,US • Transrectal,Bilateral,6736,US Chest
 Lungs,US • Transrectal,Unilateral,6736,US Chest
 Lungs,US • Transrectal,Unspecified,6736,US Chest
-Lungs,PET,Left,6732,NM PET Skull Base to Mid Thighs
-Lungs,PET,Right,6732,NM PET Skull Base to Mid Thighs
-Lungs,PET,Bilateral,6732,NM PET Skull Base to Mid Thighs
-Lungs,PET,Unilateral,6732,NM PET Skull Base to Mid Thighs
-Lungs,PET,Unspecified,6732,NM PET Skull Base to Mid Thighs
-Lungs,PET - Perfusion,Left,6732,NM PET Skull Base to Mid Thighs
-Lungs,PET - Perfusion,Right,6732,NM PET Skull Base to Mid Thighs
-Lungs,PET - Perfusion,Bilateral,6732,NM PET Skull Base to Mid Thighs
-Lungs,PET - Perfusion,Unilateral,6732,NM PET Skull Base to Mid Thighs
-Lungs,PET - Perfusion,Unspecified,6732,NM PET Skull Base to Mid Thighs
-Lungs,PET w/ CT,Left,6732,NM PET Skull Base to Mid Thighs
-Lungs,PET w/ CT,Right,6732,NM PET Skull Base to Mid Thighs
-Lungs,PET w/ CT,Bilateral,6732,NM PET Skull Base to Mid Thighs
-Lungs,PET w/ CT,Unilateral,6732,NM PET Skull Base to Mid Thighs
-Lungs,PET w/ CT,Unspecified,6732,NM PET Skull Base to Mid Thighs
-Lungs,PET/CT,Left,6732,NM PET Skull Base to Mid Thighs
-Lungs,PET/CT,Right,6732,NM PET Skull Base to Mid Thighs
-Lungs,PET/CT,Bilateral,6732,NM PET Skull Base to Mid Thighs
-Lungs,PET/CT,Unilateral,6732,NM PET Skull Base to Mid Thighs
-Lungs,PET/CT,Unspecified,6732,NM PET Skull Base to Mid Thighs
-Lungs,PET w/CT,Left,6732,NM PET Skull Base to Mid Thighs
-Lungs,PET w/CT,Right,6732,NM PET Skull Base to Mid Thighs
-Lungs,PET w/CT,Bilateral,6732,NM PET Skull Base to Mid Thighs
-Lungs,PET w/CT,Unilateral,6732,NM PET Skull Base to Mid Thighs
-Lungs,PET w/CT,Unspecified,6732,NM PET Skull Base to Mid Thighs
 Pleura,CT,Left,6448,CT Chest
 Pleura,CT,Right,6448,CT Chest
 Pleura,CT,Bilateral,6448,CT Chest
@@ -3179,11 +3169,11 @@ Pleura,X-Ray - Specimen,Right,6637,XR Chest
 Pleura,X-Ray - Specimen,Bilateral,6637,XR Chest
 Pleura,X-Ray - Specimen,Unilateral,6637,XR Chest
 Pleura,X-Ray - Specimen,Unspecified,6637,XR Chest
-Pleura,X-Rav - Standard,Left,6637,XR Chest
-Pleura,X-Rav - Standard,Right,6637,XR Chest
-Pleura,X-Rav - Standard,Bilateral,6637,XR Chest
-Pleura,X-Rav - Standard,Unilateral,6637,XR Chest
-Pleura,X-Rav - Standard,Unspecified,6637,XR Chest
+Pleura,X-Ray - Standard,Left,6637,XR Chest
+Pleura,X-Ray - Standard,Right,6637,XR Chest
+Pleura,X-Ray - Standard,Bilateral,6637,XR Chest
+Pleura,X-Ray - Standard,Unilateral,6637,XR Chest
+Pleura,X-Ray - Standard,Unspecified,6637,XR Chest
 Pleura,X-Ray - Stereoscopic,Left,6637,XR Chest
 Pleura,X-Ray - Stereoscopic,Right,6637,XR Chest
 Pleura,X-Ray - Stereoscopic,Bilateral,6637,XR Chest
@@ -3304,11 +3294,11 @@ Ribs,X-Ray - Specimen,Right,6629,XR Ribs Right
 Ribs,X-Ray - Specimen,Bilateral,6746,XR Ribs Bilateral
 Ribs,X-Ray - Specimen,Unspecified,6746,XR Ribs Bilateral
 Ribs,X-Ray - Specimen,Unilateral,6307,Recommendation for Additional Imaging - Laterality Unspecified
-Ribs,X-Rav - Standard,Left,6628,XR Ribs Left
-Ribs,X-Rav - Standard,Right,6629,XR Ribs Right
-Ribs,X-Rav - Standard,Bilateral,6746,XR Ribs Bilateral
-Ribs,X-Rav - Standard,Unspecified,6746,XR Ribs Bilateral
-Ribs,X-Rav - Standard,Unilateral,6307,Recommendation for Additional Imaging - Laterality Unspecified
+Ribs,X-Ray - Standard,Left,6628,XR Ribs Left
+Ribs,X-Ray - Standard,Right,6629,XR Ribs Right
+Ribs,X-Ray - Standard,Bilateral,6746,XR Ribs Bilateral
+Ribs,X-Ray - Standard,Unspecified,6746,XR Ribs Bilateral
+Ribs,X-Ray - Standard,Unilateral,6307,Recommendation for Additional Imaging - Laterality Unspecified
 Ribs,X-Ray - Stereoscopic,Left,6628,XR Ribs Left
 Ribs,X-Ray - Stereoscopic,Right,6629,XR Ribs Right
 Ribs,X-Ray - Stereoscopic,Bilateral,6746,XR Ribs Bilateral
@@ -3439,11 +3429,11 @@ Elbow,X-Ray - Specimen,Right,6605,XR Elbow Right
 Elbow,X-Ray - Specimen,Bilateral,6307,Recommendation for Additional Imaging - Laterality Unspecified
 Elbow,X-Ray - Specimen,Unspecified,6307,Recommendation for Additional Imaging - Laterality Unspecified
 Elbow,X-Ray - Specimen,Unilateral,6307,Recommendation for Additional Imaging - Laterality Unspecified
-Elbow,X-Rav - Standard,Left,6604,XR Elbow Left
-Elbow,X-Rav - Standard,Right,6605,XR Elbow Right
-Elbow,X-Rav - Standard,Bilateral,6307,Recommendation for Additional Imaging - Laterality Unspecified
-Elbow,X-Rav - Standard,Unspecified,6307,Recommendation for Additional Imaging - Laterality Unspecified
-Elbow,X-Rav - Standard,Unilateral,6307,Recommendation for Additional Imaging - Laterality Unspecified
+Elbow,X-Ray - Standard,Left,6604,XR Elbow Left
+Elbow,X-Ray - Standard,Right,6605,XR Elbow Right
+Elbow,X-Ray - Standard,Bilateral,6307,Recommendation for Additional Imaging - Laterality Unspecified
+Elbow,X-Ray - Standard,Unspecified,6307,Recommendation for Additional Imaging - Laterality Unspecified
+Elbow,X-Ray - Standard,Unilateral,6307,Recommendation for Additional Imaging - Laterality Unspecified
 Elbow,X-Ray - Stereoscopic,Left,6604,XR Elbow Left
 Elbow,X-Ray - Stereoscopic,Right,6605,XR Elbow Right
 Elbow,X-Ray - Stereoscopic,Bilateral,6307,Recommendation for Additional Imaging - Laterality Unspecified
@@ -3524,11 +3514,11 @@ Face,X-Ray - Specimen,Right,6636,XR Face
 Face,X-Ray - Specimen,Bilateral,6636,XR Face
 Face,X-Ray - Specimen,Unilateral,6636,XR Face
 Face,X-Ray - Specimen,Unspecified,6636,XR Face
-Face,X-Rav - Standard,Left,6636,XR Face
-Face,X-Rav - Standard,Right,6636,XR Face
-Face,X-Rav - Standard,Bilateral,6636,XR Face
-Face,X-Rav - Standard,Unilateral,6636,XR Face
-Face,X-Rav - Standard,Unspecified,6636,XR Face
+Face,X-Ray - Standard,Left,6636,XR Face
+Face,X-Ray - Standard,Right,6636,XR Face
+Face,X-Ray - Standard,Bilateral,6636,XR Face
+Face,X-Ray - Standard,Unilateral,6636,XR Face
+Face,X-Ray - Standard,Unspecified,6636,XR Face
 Face,X-Ray - Stereoscopic,Left,6636,XR Face
 Face,X-Ray - Stereoscopic,Right,6636,XR Face
 Face,X-Ray - Stereoscopic,Bilateral,6636,XR Face
@@ -3609,11 +3599,11 @@ Facial bones,X-Ray - Specimen,Right,6636,XR Face
 Facial bones,X-Ray - Specimen,Bilateral,6636,XR Face
 Facial bones,X-Ray - Specimen,Unilateral,6636,XR Face
 Facial bones,X-Ray - Specimen,Unspecified,6636,XR Face
-Facial bones,X-Rav - Standard,Left,6636,XR Face
-Facial bones,X-Rav - Standard,Right,6636,XR Face
-Facial bones,X-Rav - Standard,Bilateral,6636,XR Face
-Facial bones,X-Rav - Standard,Unilateral,6636,XR Face
-Facial bones,X-Rav - Standard,Unspecified,6636,XR Face
+Facial bones,X-Ray - Standard,Left,6636,XR Face
+Facial bones,X-Ray - Standard,Right,6636,XR Face
+Facial bones,X-Ray - Standard,Bilateral,6636,XR Face
+Facial bones,X-Ray - Standard,Unilateral,6636,XR Face
+Facial bones,X-Ray - Standard,Unspecified,6636,XR Face
 Facial bones,X-Ray - Stereoscopic,Left,6636,XR Face
 Facial bones,X-Ray - Stereoscopic,Right,6636,XR Face
 Facial bones,X-Ray - Stereoscopic,Bilateral,6636,XR Face
@@ -3694,11 +3684,11 @@ Mandible,X-Ray - Specimen,Right,6636,XR Face
 Mandible,X-Ray - Specimen,Bilateral,6636,XR Face
 Mandible,X-Ray - Specimen,Unilateral,6636,XR Face
 Mandible,X-Ray - Specimen,Unspecified,6636,XR Face
-Mandible,X-Rav - Standard,Left,6636,XR Face
-Mandible,X-Rav - Standard,Right,6636,XR Face
-Mandible,X-Rav - Standard,Bilateral,6636,XR Face
-Mandible,X-Rav - Standard,Unilateral,6636,XR Face
-Mandible,X-Rav - Standard,Unspecified,6636,XR Face
+Mandible,X-Ray - Standard,Left,6636,XR Face
+Mandible,X-Ray - Standard,Right,6636,XR Face
+Mandible,X-Ray - Standard,Bilateral,6636,XR Face
+Mandible,X-Ray - Standard,Unilateral,6636,XR Face
+Mandible,X-Ray - Standard,Unspecified,6636,XR Face
 Mandible,X-Ray - Stereoscopic,Left,6636,XR Face
 Mandible,X-Ray - Stereoscopic,Right,6636,XR Face
 Mandible,X-Ray - Stereoscopic,Bilateral,6636,XR Face
@@ -3779,11 +3769,11 @@ Max-Face,X-Ray - Specimen,Right,6636,XR Face
 Max-Face,X-Ray - Specimen,Bilateral,6636,XR Face
 Max-Face,X-Ray - Specimen,Unilateral,6636,XR Face
 Max-Face,X-Ray - Specimen,Unspecified,6636,XR Face
-Max-Face,X-Rav - Standard,Left,6636,XR Face
-Max-Face,X-Rav - Standard,Right,6636,XR Face
-Max-Face,X-Rav - Standard,Bilateral,6636,XR Face
-Max-Face,X-Rav - Standard,Unilateral,6636,XR Face
-Max-Face,X-Rav - Standard,Unspecified,6636,XR Face
+Max-Face,X-Ray - Standard,Left,6636,XR Face
+Max-Face,X-Ray - Standard,Right,6636,XR Face
+Max-Face,X-Ray - Standard,Bilateral,6636,XR Face
+Max-Face,X-Ray - Standard,Unilateral,6636,XR Face
+Max-Face,X-Ray - Standard,Unspecified,6636,XR Face
 Max-Face,X-Ray - Stereoscopic,Left,6636,XR Face
 Max-Face,X-Ray - Stereoscopic,Right,6636,XR Face
 Max-Face,X-Ray - Stereoscopic,Bilateral,6636,XR Face
@@ -4024,11 +4014,11 @@ Thigh,X-Ray - Specimen,Right,6609,XR Femur Right
 Thigh,X-Ray - Specimen,Bilateral,6307,Recommendation for Additional Imaging - Laterality Unspecified
 Thigh,X-Ray - Specimen,Unspecified,6307,Recommendation for Additional Imaging - Laterality Unspecified
 Thigh,X-Ray - Specimen,Unilateral,6307,Recommendation for Additional Imaging - Laterality Unspecified
-Thigh,X-Rav - Standard,Left,6608,XR Femur Left
-Thigh,X-Rav - Standard,Right,6609,XR Femur Right
-Thigh,X-Rav - Standard,Bilateral,6307,Recommendation for Additional Imaging - Laterality Unspecified
-Thigh,X-Rav - Standard,Unspecified,6307,Recommendation for Additional Imaging - Laterality Unspecified
-Thigh,X-Rav - Standard,Unilateral,6307,Recommendation for Additional Imaging - Laterality Unspecified
+Thigh,X-Ray - Standard,Left,6608,XR Femur Left
+Thigh,X-Ray - Standard,Right,6609,XR Femur Right
+Thigh,X-Ray - Standard,Bilateral,6307,Recommendation for Additional Imaging - Laterality Unspecified
+Thigh,X-Ray - Standard,Unspecified,6307,Recommendation for Additional Imaging - Laterality Unspecified
+Thigh,X-Ray - Standard,Unilateral,6307,Recommendation for Additional Imaging - Laterality Unspecified
 Thigh,X-Ray - Stereoscopic,Left,6608,XR Femur Left
 Thigh,X-Ray - Stereoscopic,Right,6609,XR Femur Right
 Thigh,X-Ray - Stereoscopic,Bilateral,6307,Recommendation for Additional Imaging - Laterality Unspecified
@@ -4109,11 +4099,11 @@ Fingers,X-Ray - Specimen,Right,6611,XR Finger Right
 Fingers,X-Ray - Specimen,Bilateral,6307,Recommendation for Additional Imaging - Laterality Unspecified
 Fingers,X-Ray - Specimen,Unspecified,6307,Recommendation for Additional Imaging - Laterality Unspecified
 Fingers,X-Ray - Specimen,Unilateral,6307,Recommendation for Additional Imaging - Laterality Unspecified
-Fingers,X-Rav - Standard,Left,6610,XR Finger Left
-Fingers,X-Rav - Standard,Right,6611,XR Finger Right
-Fingers,X-Rav - Standard,Bilateral,6307,Recommendation for Additional Imaging - Laterality Unspecified
-Fingers,X-Rav - Standard,Unspecified,6307,Recommendation for Additional Imaging - Laterality Unspecified
-Fingers,X-Rav - Standard,Unilateral,6307,Recommendation for Additional Imaging - Laterality Unspecified
+Fingers,X-Ray - Standard,Left,6610,XR Finger Left
+Fingers,X-Ray - Standard,Right,6611,XR Finger Right
+Fingers,X-Ray - Standard,Bilateral,6307,Recommendation for Additional Imaging - Laterality Unspecified
+Fingers,X-Ray - Standard,Unspecified,6307,Recommendation for Additional Imaging - Laterality Unspecified
+Fingers,X-Ray - Standard,Unilateral,6307,Recommendation for Additional Imaging - Laterality Unspecified
 Fingers,X-Ray - Stereoscopic,Left,6610,XR Finger Left
 Fingers,X-Ray - Stereoscopic,Right,6611,XR Finger Right
 Fingers,X-Ray - Stereoscopic,Bilateral,6307,Recommendation for Additional Imaging - Laterality Unspecified
@@ -4194,11 +4184,11 @@ Foot,X-Ray - Specimen,Right,6613,XR Foot Right
 Foot,X-Ray - Specimen,Bilateral,6741,XR Foot Bilateral
 Foot,X-Ray - Specimen,Unspecified,6741,XR Foot Bilateral
 Foot,X-Ray - Specimen,Unilateral,6307,Recommendation for Additional Imaging - Laterality Unspecified
-Foot,X-Rav - Standard,Left,6612,XR Foot Left
-Foot,X-Rav - Standard,Right,6613,XR Foot Right
-Foot,X-Rav - Standard,Bilateral,6741,XR Foot Bilateral
-Foot,X-Rav - Standard,Unspecified,6741,XR Foot Bilateral
-Foot,X-Rav - Standard,Unilateral,6307,Recommendation for Additional Imaging - Laterality Unspecified
+Foot,X-Ray - Standard,Left,6612,XR Foot Left
+Foot,X-Ray - Standard,Right,6613,XR Foot Right
+Foot,X-Ray - Standard,Bilateral,6741,XR Foot Bilateral
+Foot,X-Ray - Standard,Unspecified,6741,XR Foot Bilateral
+Foot,X-Ray - Standard,Unilateral,6307,Recommendation for Additional Imaging - Laterality Unspecified
 Foot,X-Ray - Stereoscopic,Left,6612,XR Foot Left
 Foot,X-Ray - Stereoscopic,Right,6613,XR Foot Right
 Foot,X-Ray - Stereoscopic,Bilateral,6741,XR Foot Bilateral
@@ -4279,11 +4269,11 @@ Forearm,X-Ray - Specimen,Right,6607,XR Forearm Right
 Forearm,X-Ray - Specimen,Bilateral,6307,Recommendation for Additional Imaging - Laterality Unspecified
 Forearm,X-Ray - Specimen,Unspecified,6307,Recommendation for Additional Imaging - Laterality Unspecified
 Forearm,X-Ray - Specimen,Unilateral,6307,Recommendation for Additional Imaging - Laterality Unspecified
-Forearm,X-Rav - Standard,Left,6606,XR Forearm Left
-Forearm,X-Rav - Standard,Right,6607,XR Forearm Right
-Forearm,X-Rav - Standard,Bilateral,6307,Recommendation for Additional Imaging - Laterality Unspecified
-Forearm,X-Rav - Standard,Unspecified,6307,Recommendation for Additional Imaging - Laterality Unspecified
-Forearm,X-Rav - Standard,Unilateral,6307,Recommendation for Additional Imaging - Laterality Unspecified
+Forearm,X-Ray - Standard,Left,6606,XR Forearm Left
+Forearm,X-Ray - Standard,Right,6607,XR Forearm Right
+Forearm,X-Ray - Standard,Bilateral,6307,Recommendation for Additional Imaging - Laterality Unspecified
+Forearm,X-Ray - Standard,Unspecified,6307,Recommendation for Additional Imaging - Laterality Unspecified
+Forearm,X-Ray - Standard,Unilateral,6307,Recommendation for Additional Imaging - Laterality Unspecified
 Forearm,X-Ray - Stereoscopic,Left,6606,XR Forearm Left
 Forearm,X-Ray - Stereoscopic,Right,6607,XR Forearm Right
 Forearm,X-Ray - Stereoscopic,Bilateral,6307,Recommendation for Additional Imaging - Laterality Unspecified
@@ -4364,11 +4354,11 @@ Hand,X-Ray - Specimen,Right,6619,XR Hand Right
 Hand,X-Ray - Specimen,Bilateral,6742,XR Hand Bilateral
 Hand,X-Ray - Specimen,Unspecified,6742,XR Hand Bilateral
 Hand,X-Ray - Specimen,Unilateral,6307,Recommendation for Additional Imaging - Laterality Unspecified
-Hand,X-Rav - Standard,Left,6618,XR Hand Left
-Hand,X-Rav - Standard,Right,6619,XR Hand Right
-Hand,X-Rav - Standard,Bilateral,6742,XR Hand Bilateral
-Hand,X-Rav - Standard,Unspecified,6742,XR Hand Bilateral
-Hand,X-Rav - Standard,Unilateral,6307,Recommendation for Additional Imaging - Laterality Unspecified
+Hand,X-Ray - Standard,Left,6618,XR Hand Left
+Hand,X-Ray - Standard,Right,6619,XR Hand Right
+Hand,X-Ray - Standard,Bilateral,6742,XR Hand Bilateral
+Hand,X-Ray - Standard,Unspecified,6742,XR Hand Bilateral
+Hand,X-Ray - Standard,Unilateral,6307,Recommendation for Additional Imaging - Laterality Unspecified
 Hand,X-Ray - Stereoscopic,Left,6618,XR Hand Left
 Hand,X-Ray - Stereoscopic,Right,6619,XR Hand Right
 Hand,X-Ray - Stereoscopic,Bilateral,6742,XR Hand Bilateral
@@ -4734,11 +4724,11 @@ Hip,X-Ray - Specimen,Right,6617,XR Hip Right
 Hip,X-Ray - Specimen,Bilateral,6743,XR Hip Bilateral
 Hip,X-Ray - Specimen,Unspecified,6743,XR Hip Bilateral
 Hip,X-Ray - Specimen,Unilateral,6307,Recommendation for Additional Imaging - Laterality Unspecified
-Hip,X-Rav - Standard,Left,6616,XR Hip Left
-Hip,X-Rav - Standard,Right,6617,XR Hip Right
-Hip,X-Rav - Standard,Bilateral,6743,XR Hip Bilateral
-Hip,X-Rav - Standard,Unspecified,6743,XR Hip Bilateral
-Hip,X-Rav - Standard,Unilateral,6307,Recommendation for Additional Imaging - Laterality Unspecified
+Hip,X-Ray - Standard,Left,6616,XR Hip Left
+Hip,X-Ray - Standard,Right,6617,XR Hip Right
+Hip,X-Ray - Standard,Bilateral,6743,XR Hip Bilateral
+Hip,X-Ray - Standard,Unspecified,6743,XR Hip Bilateral
+Hip,X-Ray - Standard,Unilateral,6307,Recommendation for Additional Imaging - Laterality Unspecified
 Hip,X-Ray - Stereoscopic,Left,6616,XR Hip Left
 Hip,X-Ray - Stereoscopic,Right,6617,XR Hip Right
 Hip,X-Ray - Stereoscopic,Bilateral,6743,XR Hip Bilateral
@@ -4864,11 +4854,11 @@ Arm,X-Ray - Specimen,Right,6621,XR Humerus Right
 Arm,X-Ray - Specimen,Bilateral,6307,Recommendation for Additional Imaging - Laterality Unspecified
 Arm,X-Ray - Specimen,Unspecified,6307,Recommendation for Additional Imaging - Laterality Unspecified
 Arm,X-Ray - Specimen,Unilateral,6307,Recommendation for Additional Imaging - Laterality Unspecified
-Arm,X-Rav - Standard,Left,6620,XR Humerus Left
-Arm,X-Rav - Standard,Right,6621,XR Humerus Right
-Arm,X-Rav - Standard,Bilateral,6307,Recommendation for Additional Imaging - Laterality Unspecified
-Arm,X-Rav - Standard,Unspecified,6307,Recommendation for Additional Imaging - Laterality Unspecified
-Arm,X-Rav - Standard,Unilateral,6307,Recommendation for Additional Imaging - Laterality Unspecified
+Arm,X-Ray - Standard,Left,6620,XR Humerus Left
+Arm,X-Ray - Standard,Right,6621,XR Humerus Right
+Arm,X-Ray - Standard,Bilateral,6307,Recommendation for Additional Imaging - Laterality Unspecified
+Arm,X-Ray - Standard,Unspecified,6307,Recommendation for Additional Imaging - Laterality Unspecified
+Arm,X-Ray - Standard,Unilateral,6307,Recommendation for Additional Imaging - Laterality Unspecified
 Arm,X-Ray - Stereoscopic,Left,6620,XR Humerus Left
 Arm,X-Ray - Stereoscopic,Right,6621,XR Humerus Right
 Arm,X-Ray - Stereoscopic,Bilateral,6307,Recommendation for Additional Imaging - Laterality Unspecified
@@ -4954,11 +4944,11 @@ Knee,X-Ray - Specimen,Right,6623,XR Knee Right
 Knee,X-Ray - Specimen,Bilateral,6745,XR Knee Bilateral
 Knee,X-Ray - Specimen,Unspecified,6745,XR Knee Bilateral
 Knee,X-Ray - Specimen,Unilateral,6307,Recommendation for Additional Imaging - Laterality Unspecified
-Knee,X-Rav - Standard,Left,6622,XR Knee Left
-Knee,X-Rav - Standard,Right,6623,XR Knee Right
-Knee,X-Rav - Standard,Bilateral,6745,XR Knee Bilateral
-Knee,X-Rav - Standard,Unspecified,6745,XR Knee Bilateral
-Knee,X-Rav - Standard,Unilateral,6307,Recommendation for Additional Imaging - Laterality Unspecified
+Knee,X-Ray - Standard,Left,6622,XR Knee Left
+Knee,X-Ray - Standard,Right,6623,XR Knee Right
+Knee,X-Ray - Standard,Bilateral,6745,XR Knee Bilateral
+Knee,X-Ray - Standard,Unspecified,6745,XR Knee Bilateral
+Knee,X-Ray - Standard,Unilateral,6307,Recommendation for Additional Imaging - Laterality Unspecified
 Knee,X-Ray - Stereoscopic,Left,6622,XR Knee Left
 Knee,X-Ray - Stereoscopic,Right,6623,XR Knee Right
 Knee,X-Ray - Stereoscopic,Bilateral,6745,XR Knee Bilateral
@@ -5001,6 +4991,37 @@ Bile Ducts,MRI - Flow Mapping,Unilateral,6337,MR Abdomen with MRCP
 Bile Ducts,MRI - Flow Mapping,Unspecified,6337,MR Abdomen with MRCP
 Bile Ducts,MRI - Functional,Left,6337,MR Abdomen with MRCP
 Bile Ducts,MRI - Functional,Right,6337,MR Abdomen with MRCP
+Lungs,PET,Left,6732,NM PET Skull Base to Mid Thighs
+Lungs,PET,Right,6732,NM PET Skull Base to Mid Thighs
+Lungs,PET,Bilateral,6732,NM PET Skull Base to Mid Thighs
+Lungs,PET,Unilateral,6732,NM PET Skull Base to Mid Thighs
+Lungs,PET,Unspecified,6732,NM PET Skull Base to Mid Thighs
+Lungs,PET w/ CT ,Left,6732,NM PET Skull Base to Mid Thighs
+Lungs,PET w/ CT ,Right,6732,NM PET Skull Base to Mid Thighs
+Lungs,PET w/ CT ,Bilateral,6732,NM PET Skull Base to Mid Thighs
+Lungs,PET w/ CT ,Unilateral,6732,NM PET Skull Base to Mid Thighs
+Lungs,PET w/ CT ,Unspecified,6732,NM PET Skull Base to Mid Thighs
+Lungs,PET/CT,Left,6732,NM PET Skull Base to Mid Thighs
+Lungs,PET/CT,Right,6732,NM PET Skull Base to Mid Thighs
+Lungs,PET/CT,Bilateral,6732,NM PET Skull Base to Mid Thighs
+Lungs,PET/CT,Unilateral,6732,NM PET Skull Base to Mid Thighs
+Lungs,PET/CT,Unspecified,6732,NM PET Skull Base to Mid Thighs
+Lungs,PET - Perfusion,Left,6732,NM PET Skull Base to Mid Thighs
+Lungs,PET - Perfusion,Right,6732,NM PET Skull Base to Mid Thighs
+Lungs,PET - Perfusion,Bilateral,6732,NM PET Skull Base to Mid Thighs
+Lungs,PET - Perfusion,Unilateral,6732,NM PET Skull Base to Mid Thighs
+Lungs,PET - Perfusion,Unspecified,6732,NM PET Skull Base to Mid Thighs
+Neck,PET,Left,6732,NM PET Skull Base to Mid Thighs
+Neck,PET,Right,6732,NM PET Skull Base to Mid Thighs
+Neck,PET,Bilateral,6732,NM PET Skull Base to Mid Thighs
+Neck,PET,Unilateral,6732,NM PET Skull Base to Mid Thighs
+Neck,PET,Unspecified,6732,NM PET Skull Base to Mid Thighs
+Neck,PET w/ CT ,Left,6732,NM PET Skull Base to Mid Thighs
+Neck,PET w/ CT ,Right,6732,NM PET Skull Base to Mid Thighs
+Neck,PET w/ CT ,Bilateral,6732,NM PET Skull Base to Mid Thighs
+Neck,PET w/ CT ,Unilateral,6732,NM PET Skull Base to Mid Thighs
+Neck,PET w/ CT ,Unspecified,6732,NM PET Skull Base to Mid Thighs
+Neck,PET/CT,Left,6732,NM PET Skull Base to Mid Thighs
 Bile Ducts,MRI - Functional,Bilateral,6337,MR Abdomen with MRCP
 Bile Ducts,MRI - Functional,Unilateral,6337,MR Abdomen with MRCP
 Bile Ducts,MRI - Functional,Unspecified,6337,MR Abdomen with MRCP
@@ -5159,11 +5180,11 @@ Cervical Esophagus,X-Ray - Specimen,Right,6638,XR Neck
 Cervical Esophagus,X-Ray - Specimen,Bilateral,6638,XR Neck
 Cervical Esophagus,X-Ray - Specimen,Unilateral,6638,XR Neck
 Cervical Esophagus,X-Ray - Specimen,Unspecified,6638,XR Neck
-Cervical Esophagus,X-Rav - Standard,Left,6638,XR Neck
-Cervical Esophagus,X-Rav - Standard,Right,6638,XR Neck
-Cervical Esophagus,X-Rav - Standard,Bilateral,6638,XR Neck
-Cervical Esophagus,X-Rav - Standard,Unilateral,6638,XR Neck
-Cervical Esophagus,X-Rav - Standard,Unspecified,6638,XR Neck
+Cervical Esophagus,X-Ray - Standard,Left,6638,XR Neck
+Cervical Esophagus,X-Ray - Standard,Right,6638,XR Neck
+Cervical Esophagus,X-Ray - Standard,Bilateral,6638,XR Neck
+Cervical Esophagus,X-Ray - Standard,Unilateral,6638,XR Neck
+Cervical Esophagus,X-Ray - Standard,Unspecified,6638,XR Neck
 Cervical Esophagus,X-Ray - Stereoscopic,Left,6638,XR Neck
 Cervical Esophagus,X-Ray - Stereoscopic,Right,6638,XR Neck
 Cervical Esophagus,X-Ray - Stereoscopic,Bilateral,6638,XR Neck
@@ -5294,11 +5315,11 @@ Neck,X-Ray - Specimen,Right,6638,XR Neck
 Neck,X-Ray - Specimen,Bilateral,6638,XR Neck
 Neck,X-Ray - Specimen,Unilateral,6638,XR Neck
 Neck,X-Ray - Specimen,Unspecified,6638,XR Neck
-Neck,X-Rav - Standard,Left,6638,XR Neck
-Neck,X-Rav - Standard,Right,6638,XR Neck
-Neck,X-Rav - Standard,Bilateral,6638,XR Neck
-Neck,X-Rav - Standard,Unilateral,6638,XR Neck
-Neck,X-Rav - Standard,Unspecified,6638,XR Neck
+Neck,X-Ray - Standard,Left,6638,XR Neck
+Neck,X-Ray - Standard,Right,6638,XR Neck
+Neck,X-Ray - Standard,Bilateral,6638,XR Neck
+Neck,X-Ray - Standard,Unilateral,6638,XR Neck
+Neck,X-Ray - Standard,Unspecified,6638,XR Neck
 Neck,X-Ray - Stereoscopic,Left,6638,XR Neck
 Neck,X-Ray - Stereoscopic,Right,6638,XR Neck
 Neck,X-Ray - Stereoscopic,Bilateral,6638,XR Neck
@@ -5309,31 +5330,6 @@ Neck,X-Ray w/Fluoroscopy,Right,6638,XR Neck
 Neck,X-Ray w/Fluoroscopy,Bilateral,6638,XR Neck
 Neck,X-Ray w/Fluoroscopy,Unilateral,6638,XR Neck
 Neck,X-Ray w/Fluoroscopy,Unspecified,6638,XR Neck
-Neck,PET,Left,6732,NM PET Skull Base to Mid Thighs
-Neck,PET,Right,6732,NM PET Skull Base to Mid Thighs
-Neck,PET,Bilateral,6732,NM PET Skull Base to Mid Thighs
-Neck,PET,Unilateral,6732,NM PET Skull Base to Mid Thighs
-Neck,PET,Unspecified,6732,NM PET Skull Base to Mid Thighs
-Neck,PET - Perfusion,Left,6732,NM PET Skull Base to Mid Thighs
-Neck,PET - Perfusion,Right,6732,NM PET Skull Base to Mid Thighs
-Neck,PET - Perfusion,Bilateral,6732,NM PET Skull Base to Mid Thighs
-Neck,PET - Perfusion,Unilateral,6732,NM PET Skull Base to Mid Thighs
-Neck,PET - Perfusion,Unspecified,6732,NM PET Skull Base to Mid Thighs
-Neck,PET w/ CT,Left,6732,NM PET Skull Base to Mid Thighs
-Neck,PET w/ CT,Right,6732,NM PET Skull Base to Mid Thighs
-Neck,PET w/ CT,Bilateral,6732,NM PET Skull Base to Mid Thighs
-Neck,PET w/ CT,Unilateral,6732,NM PET Skull Base to Mid Thighs
-Neck,PET w/ CT,Unspecified,6732,NM PET Skull Base to Mid Thighs
-Neck,PET/CT,Left,6732,NM PET Skull Base to Mid Thighs
-Neck,PET/CT,Right,6732,NM PET Skull Base to Mid Thighs
-Neck,PET/CT,Bilateral,6732,NM PET Skull Base to Mid Thighs
-Neck,PET/CT,Unilateral,6732,NM PET Skull Base to Mid Thighs
-Neck,PET/CT,Unspecified,6732,NM PET Skull Base to Mid Thighs
-Neck,PET w/CT,Left,6732,NM PET Skull Base to Mid Thighs
-Neck,PET w/CT,Right,6732,NM PET Skull Base to Mid Thighs
-Neck,PET w/CT,Bilateral,6732,NM PET Skull Base to Mid Thighs
-Neck,PET w/CT,Unilateral,6732,NM PET Skull Base to Mid Thighs
-Neck,PET w/CT,Unspecified,6732,NM PET Skull Base to Mid Thighs
 Neck - Lymph Node,CT,Left,6461,CT Neck
 Neck - Lymph Node,CT,Right,6461,CT Neck
 Neck - Lymph Node,CT,Bilateral,6461,CT Neck
@@ -5494,21 +5490,21 @@ Salivary Glands,Spectroscopy,Right,6398,MR Parotid
 Salivary Glands,Spectroscopy,Bilateral,6398,MR Parotid
 Salivary Glands,Spectroscopy,Unilateral,6398,MR Parotid
 Salivary Glands,Spectroscopy,Unspecified,6398,MR Parotid
-Salivary Glands,US,Left,6579,US Neck
-Salivary Glands,US,Right,6579,US Neck
-Salivary Glands,US,Bilateral,6579,US Neck
-Salivary Glands,US,Unilateral,6579,US Neck
-Salivary Glands,US,Unspecified,6579,US Neck
-Salivary Glands,US • Transcranial,Left,6579,US Neck
-Salivary Glands,US • Transcranial,Right,6579,US Neck
-Salivary Glands,US • Transcranial,Bilateral,6579,US Neck
-Salivary Glands,US • Transcranial,Unilateral,6579,US Neck
-Salivary Glands,US • Transcranial,Unspecified,6579,US Neck
-Salivary Glands,US • Transrectal,Left,6579,US Neck
-Salivary Glands,US • Transrectal,Right,6579,US Neck
-Salivary Glands,US • Transrectal,Bilateral,6579,US Neck
-Salivary Glands,US • Transrectal,Unilateral,6579,US Neck
-Salivary Glands,US • Transrectal,Unspecified,6579,US Neck
+Salivary Glands,US,Left,6580,US Parotid
+Salivary Glands,US,Right,6580,US Parotid
+Salivary Glands,US,Bilateral,6580,US Parotid
+Salivary Glands,US,Unilateral,6580,US Parotid
+Salivary Glands,US,Unspecified,6580,US Parotid
+Salivary Glands,US • Transcranial,Left,6580,US Parotid
+Salivary Glands,US • Transcranial,Right,6580,US Parotid
+Salivary Glands,US • Transcranial,Bilateral,6580,US Parotid
+Salivary Glands,US • Transcranial,Unilateral,6580,US Parotid
+Salivary Glands,US • Transcranial,Unspecified,6580,US Parotid
+Salivary Glands,US • Transrectal,Left,6580,US Parotid
+Salivary Glands,US • Transrectal,Right,6580,US Parotid
+Salivary Glands,US • Transrectal,Bilateral,6580,US Parotid
+Salivary Glands,US • Transrectal,Unilateral,6580,US Parotid
+Salivary Glands,US • Transrectal,Unspecified,6580,US Parotid
 Thoracic Esophagus,CT,Left,6448,CT Chest
 Thoracic Esophagus,CT,Right,6448,CT Chest
 Thoracic Esophagus,CT,Bilateral,6448,CT Chest
@@ -5589,11 +5585,11 @@ Thoracic Esophagus,X-Ray - Specimen,Right,6638,XR Neck
 Thoracic Esophagus,X-Ray - Specimen,Bilateral,6638,XR Neck
 Thoracic Esophagus,X-Ray - Specimen,Unilateral,6638,XR Neck
 Thoracic Esophagus,X-Ray - Specimen,Unspecified,6638,XR Neck
-Thoracic Esophagus,X-Rav - Standard,Left,6638,XR Neck
-Thoracic Esophagus,X-Rav - Standard,Right,6638,XR Neck
-Thoracic Esophagus,X-Rav - Standard,Bilateral,6638,XR Neck
-Thoracic Esophagus,X-Rav - Standard,Unilateral,6638,XR Neck
-Thoracic Esophagus,X-Rav - Standard,Unspecified,6638,XR Neck
+Thoracic Esophagus,X-Ray - Standard,Left,6638,XR Neck
+Thoracic Esophagus,X-Ray - Standard,Right,6638,XR Neck
+Thoracic Esophagus,X-Ray - Standard,Bilateral,6638,XR Neck
+Thoracic Esophagus,X-Ray - Standard,Unilateral,6638,XR Neck
+Thoracic Esophagus,X-Ray - Standard,Unspecified,6638,XR Neck
 Thoracic Esophagus,X-Ray - Stereoscopic,Left,6638,XR Neck
 Thoracic Esophagus,X-Ray - Stereoscopic,Right,6638,XR Neck
 Thoracic Esophagus,X-Ray - Stereoscopic,Bilateral,6638,XR Neck
@@ -5724,11 +5720,11 @@ Coccyx,Spectroscopy,Right,6521,MR Pelvis Bone
 Coccyx,Spectroscopy,Bilateral,6521,MR Pelvis Bone
 Coccyx,Spectroscopy,Unilateral,6521,MR Pelvis Bone
 Coccyx,Spectroscopy,Unspecified,6521,MR Pelvis Bone
-Coccyx,Radiography,Left,6627,XR Pelvis
-Coccyx,Radiography,Right,6627,XR Pelvis
-Coccyx,Radiography,Bilateral,6627,XR Pelvis
-Coccyx,Radiography,Unilateral,6627,XR Pelvis
-Coccyx,Radiography,Unspecified,6627,XR Pelvis
+Coccyx,Radiography,Left,6750,XR Sacrum and Coccyx
+Coccyx,Radiography,Right,6750,XR Sacrum and Coccyx
+Coccyx,Radiography,Bilateral,6750,XR Sacrum and Coccyx
+Coccyx,Radiography,Unilateral,6750,XR Sacrum and Coccyx
+Coccyx,Radiography,Unspecified,6750,XR Sacrum and Coccyx
 Coccyx,Pelvimetry,Left,6627,XR Pelvis
 Coccyx,Pelvimetry,Right,6627,XR Pelvis
 Coccyx,Pelvimetry,Bilateral,6627,XR Pelvis
@@ -5754,11 +5750,11 @@ Coccyx,X-Ray - Specimen,Right,6627,XR Pelvis
 Coccyx,X-Ray - Specimen,Bilateral,6627,XR Pelvis
 Coccyx,X-Ray - Specimen,Unilateral,6627,XR Pelvis
 Coccyx,X-Ray - Specimen,Unspecified,6627,XR Pelvis
-Coccyx,X-Rav - Standard,Left,6627,XR Pelvis
-Coccyx,X-Rav - Standard,Right,6627,XR Pelvis
-Coccyx,X-Rav - Standard,Bilateral,6627,XR Pelvis
-Coccyx,X-Rav - Standard,Unilateral,6627,XR Pelvis
-Coccyx,X-Rav - Standard,Unspecified,6627,XR Pelvis
+Coccyx,X-Ray - Standard,Left,6627,XR Pelvis
+Coccyx,X-Ray - Standard,Right,6627,XR Pelvis
+Coccyx,X-Ray - Standard,Bilateral,6627,XR Pelvis
+Coccyx,X-Ray - Standard,Unilateral,6627,XR Pelvis
+Coccyx,X-Ray - Standard,Unspecified,6627,XR Pelvis
 Coccyx,X-Ray - Stereoscopic,Left,6627,XR Pelvis
 Coccyx,X-Ray - Stereoscopic,Right,6627,XR Pelvis
 Coccyx,X-Ray - Stereoscopic,Bilateral,6627,XR Pelvis
@@ -5874,11 +5870,11 @@ Pelvis,X-Ray - Specimen,Right,6627,XR Pelvis
 Pelvis,X-Ray - Specimen,Bilateral,6627,XR Pelvis
 Pelvis,X-Ray - Specimen,Unilateral,6627,XR Pelvis
 Pelvis,X-Ray - Specimen,Unspecified,6627,XR Pelvis
-Pelvis,X-Rav - Standard,Left,6627,XR Pelvis
-Pelvis,X-Rav - Standard,Right,6627,XR Pelvis
-Pelvis,X-Rav - Standard,Bilateral,6627,XR Pelvis
-Pelvis,X-Rav - Standard,Unilateral,6627,XR Pelvis
-Pelvis,X-Rav - Standard,Unspecified,6627,XR Pelvis
+Pelvis,X-Ray - Standard,Left,6627,XR Pelvis
+Pelvis,X-Ray - Standard,Right,6627,XR Pelvis
+Pelvis,X-Ray - Standard,Bilateral,6627,XR Pelvis
+Pelvis,X-Ray - Standard,Unilateral,6627,XR Pelvis
+Pelvis,X-Ray - Standard,Unspecified,6627,XR Pelvis
 Pelvis,X-Ray - Stereoscopic,Left,6627,XR Pelvis
 Pelvis,X-Ray - Stereoscopic,Right,6627,XR Pelvis
 Pelvis,X-Ray - Stereoscopic,Bilateral,6627,XR Pelvis
@@ -5929,11 +5925,11 @@ Sacroiliac Joints,Spectroscopy,Right,6521,MR Pelvis Bone
 Sacroiliac Joints,Spectroscopy,Bilateral,6521,MR Pelvis Bone
 Sacroiliac Joints,Spectroscopy,Unilateral,6521,MR Pelvis Bone
 Sacroiliac Joints,Spectroscopy,Unspecified,6521,MR Pelvis Bone
-Sacroiliac Joints,Radiography,Left,6627,XR Pelvis
-Sacroiliac Joints,Radiography,Right,6627,XR Pelvis
-Sacroiliac Joints,Radiography,Bilateral,6627,XR Pelvis
-Sacroiliac Joints,Radiography,Unilateral,6627,XR Pelvis
-Sacroiliac Joints,Radiography,Unspecified,6627,XR Pelvis
+Sacroiliac Joints,Radiography,Left,6751,XR Sacroiliac Joints
+Sacroiliac Joints,Radiography,Right,6751,XR Sacroiliac Joints
+Sacroiliac Joints,Radiography,Bilateral,6751,XR Sacroiliac Joints
+Sacroiliac Joints,Radiography,Unilateral,6751,XR Sacroiliac Joints
+Sacroiliac Joints,Radiography,Unspecified,6751,XR Sacroiliac Joints
 Sacroiliac Joints,Pelvimetry,Left,6627,XR Pelvis
 Sacroiliac Joints,Pelvimetry,Right,6627,XR Pelvis
 Sacroiliac Joints,Pelvimetry,Bilateral,6627,XR Pelvis
@@ -5959,11 +5955,11 @@ Sacroiliac Joints,X-Ray - Specimen,Right,6627,XR Pelvis
 Sacroiliac Joints,X-Ray - Specimen,Bilateral,6627,XR Pelvis
 Sacroiliac Joints,X-Ray - Specimen,Unilateral,6627,XR Pelvis
 Sacroiliac Joints,X-Ray - Specimen,Unspecified,6627,XR Pelvis
-Sacroiliac Joints,X-Rav - Standard,Left,6627,XR Pelvis
-Sacroiliac Joints,X-Rav - Standard,Right,6627,XR Pelvis
-Sacroiliac Joints,X-Rav - Standard,Bilateral,6627,XR Pelvis
-Sacroiliac Joints,X-Rav - Standard,Unilateral,6627,XR Pelvis
-Sacroiliac Joints,X-Rav - Standard,Unspecified,6627,XR Pelvis
+Sacroiliac Joints,X-Ray - Standard,Left,6627,XR Pelvis
+Sacroiliac Joints,X-Ray - Standard,Right,6627,XR Pelvis
+Sacroiliac Joints,X-Ray - Standard,Bilateral,6627,XR Pelvis
+Sacroiliac Joints,X-Ray - Standard,Unilateral,6627,XR Pelvis
+Sacroiliac Joints,X-Ray - Standard,Unspecified,6627,XR Pelvis
 Sacroiliac Joints,X-Ray - Stereoscopic,Left,6627,XR Pelvis
 Sacroiliac Joints,X-Ray - Stereoscopic,Right,6627,XR Pelvis
 Sacroiliac Joints,X-Ray - Stereoscopic,Bilateral,6627,XR Pelvis
@@ -6224,11 +6220,11 @@ Sacral Spine,Spectroscopy,Right,6522,MR Sacrum
 Sacral Spine,Spectroscopy,Bilateral,6522,MR Sacrum
 Sacral Spine,Spectroscopy,Unilateral,6522,MR Sacrum
 Sacral Spine,Spectroscopy,Unspecified,6522,MR Sacrum
-Sacral Spine,Radiography,Left,6627,XR Pelvis
-Sacral Spine,Radiography,Right,6627,XR Pelvis
-Sacral Spine,Radiography,Bilateral,6627,XR Pelvis
-Sacral Spine,Radiography,Unilateral,6627,XR Pelvis
-Sacral Spine,Radiography,Unspecified,6627,XR Pelvis
+Sacral Spine,Radiography,Left,6750,XR Sacrum and Coccyx
+Sacral Spine,Radiography,Right,6750,XR Sacrum and Coccyx
+Sacral Spine,Radiography,Bilateral,6750,XR Sacrum and Coccyx
+Sacral Spine,Radiography,Unilateral,6750,XR Sacrum and Coccyx
+Sacral Spine,Radiography,Unspecified,6750,XR Sacrum and Coccyx
 Sacral Spine,Pelvimetry,Left,6627,XR Pelvis
 Sacral Spine,Pelvimetry,Right,6627,XR Pelvis
 Sacral Spine,Pelvimetry,Bilateral,6627,XR Pelvis
@@ -6254,11 +6250,11 @@ Sacral Spine,X-Ray - Specimen,Right,6627,XR Pelvis
 Sacral Spine,X-Ray - Specimen,Bilateral,6627,XR Pelvis
 Sacral Spine,X-Ray - Specimen,Unilateral,6627,XR Pelvis
 Sacral Spine,X-Ray - Specimen,Unspecified,6627,XR Pelvis
-Sacral Spine,X-Rav - Standard,Left,6627,XR Pelvis
-Sacral Spine,X-Rav - Standard,Right,6627,XR Pelvis
-Sacral Spine,X-Rav - Standard,Bilateral,6627,XR Pelvis
-Sacral Spine,X-Rav - Standard,Unilateral,6627,XR Pelvis
-Sacral Spine,X-Rav - Standard,Unspecified,6627,XR Pelvis
+Sacral Spine,X-Ray - Standard,Left,6627,XR Pelvis
+Sacral Spine,X-Ray - Standard,Right,6627,XR Pelvis
+Sacral Spine,X-Ray - Standard,Bilateral,6627,XR Pelvis
+Sacral Spine,X-Ray - Standard,Unilateral,6627,XR Pelvis
+Sacral Spine,X-Ray - Standard,Unspecified,6627,XR Pelvis
 Sacral Spine,X-Ray - Stereoscopic,Left,6627,XR Pelvis
 Sacral Spine,X-Ray - Stereoscopic,Right,6627,XR Pelvis
 Sacral Spine,X-Ray - Stereoscopic,Bilateral,6627,XR Pelvis
@@ -6309,11 +6305,11 @@ Sacrum,Spectroscopy,Right,6522,MR Sacrum
 Sacrum,Spectroscopy,Bilateral,6522,MR Sacrum
 Sacrum,Spectroscopy,Unilateral,6522,MR Sacrum
 Sacrum,Spectroscopy,Unspecified,6522,MR Sacrum
-Sacrum,Radiography,Left,6627,XR Pelvis
-Sacrum,Radiography,Right,6627,XR Pelvis
-Sacrum,Radiography,Bilateral,6627,XR Pelvis
-Sacrum,Radiography,Unilateral,6627,XR Pelvis
-Sacrum,Radiography,Unspecified,6627,XR Pelvis
+Sacrum,Radiography,Left,6750,XR Sacrum and Coccyx
+Sacrum,Radiography,Right,6750,XR Sacrum and Coccyx
+Sacrum,Radiography,Bilateral,6750,XR Sacrum and Coccyx
+Sacrum,Radiography,Unilateral,6750,XR Sacrum and Coccyx
+Sacrum,Radiography,Unspecified,6750,XR Sacrum and Coccyx
 Sacrum,Pelvimetry,Left,6627,XR Pelvis
 Sacrum,Pelvimetry,Right,6627,XR Pelvis
 Sacrum,Pelvimetry,Bilateral,6627,XR Pelvis
@@ -6339,11 +6335,11 @@ Sacrum,X-Ray - Specimen,Right,6627,XR Pelvis
 Sacrum,X-Ray - Specimen,Bilateral,6627,XR Pelvis
 Sacrum,X-Ray - Specimen,Unilateral,6627,XR Pelvis
 Sacrum,X-Ray - Specimen,Unspecified,6627,XR Pelvis
-Sacrum,X-Rav - Standard,Left,6627,XR Pelvis
-Sacrum,X-Rav - Standard,Right,6627,XR Pelvis
-Sacrum,X-Rav - Standard,Bilateral,6627,XR Pelvis
-Sacrum,X-Rav - Standard,Unilateral,6627,XR Pelvis
-Sacrum,X-Rav - Standard,Unspecified,6627,XR Pelvis
+Sacrum,X-Ray - Standard,Left,6627,XR Pelvis
+Sacrum,X-Ray - Standard,Right,6627,XR Pelvis
+Sacrum,X-Ray - Standard,Bilateral,6627,XR Pelvis
+Sacrum,X-Ray - Standard,Unilateral,6627,XR Pelvis
+Sacrum,X-Ray - Standard,Unspecified,6627,XR Pelvis
 Sacrum,X-Ray - Stereoscopic,Left,6627,XR Pelvis
 Sacrum,X-Ray - Stereoscopic,Right,6627,XR Pelvis
 Sacrum,X-Ray - Stereoscopic,Bilateral,6627,XR Pelvis
@@ -6439,11 +6435,11 @@ Shoulder,X-Ray - Specimen,Right,6631,XR Shoulder Right
 Shoulder,X-Ray - Specimen,Bilateral,6747,XR Shoulder Bilateral
 Shoulder,X-Ray - Specimen,Unspecified,6747,XR Shoulder Bilateral
 Shoulder,X-Ray - Specimen,Unilateral,6307,Recommendation for Additional Imaging - Laterality Unspecified
-Shoulder,X-Rav - Standard,Left,6630,XR Shoulder Left
-Shoulder,X-Rav - Standard,Right,6631,XR Shoulder Right
-Shoulder,X-Rav - Standard,Bilateral,6747,XR Shoulder Bilateral
-Shoulder,X-Rav - Standard,Unspecified,6747,XR Shoulder Bilateral
-Shoulder,X-Rav - Standard,Unilateral,6307,Recommendation for Additional Imaging - Laterality Unspecified
+Shoulder,X-Ray - Standard,Left,6630,XR Shoulder Left
+Shoulder,X-Ray - Standard,Right,6631,XR Shoulder Right
+Shoulder,X-Ray - Standard,Bilateral,6747,XR Shoulder Bilateral
+Shoulder,X-Ray - Standard,Unspecified,6747,XR Shoulder Bilateral
+Shoulder,X-Ray - Standard,Unilateral,6307,Recommendation for Additional Imaging - Laterality Unspecified
 Shoulder,X-Ray - Stereoscopic,Left,6630,XR Shoulder Left
 Shoulder,X-Ray - Stereoscopic,Right,6631,XR Shoulder Right
 Shoulder,X-Ray - Stereoscopic,Bilateral,6747,XR Shoulder Bilateral
@@ -6699,11 +6695,11 @@ Leg,X-Ray - Specimen,Right,6633,XR Tibia Fibula Right
 Leg,X-Ray - Specimen,Bilateral,6307,Recommendation for Additional Imaging - Laterality Unspecified
 Leg,X-Ray - Specimen,Unspecified,6307,Recommendation for Additional Imaging - Laterality Unspecified
 Leg,X-Ray - Specimen,Unilateral,6307,Recommendation for Additional Imaging - Laterality Unspecified
-Leg,X-Rav - Standard,Left,6632,XR Tibia Fibula Left
-Leg,X-Rav - Standard,Right,6633,XR Tibia Fibula Right
-Leg,X-Rav - Standard,Bilateral,6307,Recommendation for Additional Imaging - Laterality Unspecified
-Leg,X-Rav - Standard,Unspecified,6307,Recommendation for Additional Imaging - Laterality Unspecified
-Leg,X-Rav - Standard,Unilateral,6307,Recommendation for Additional Imaging - Laterality Unspecified
+Leg,X-Ray - Standard,Left,6632,XR Tibia Fibula Left
+Leg,X-Ray - Standard,Right,6633,XR Tibia Fibula Right
+Leg,X-Ray - Standard,Bilateral,6307,Recommendation for Additional Imaging - Laterality Unspecified
+Leg,X-Ray - Standard,Unspecified,6307,Recommendation for Additional Imaging - Laterality Unspecified
+Leg,X-Ray - Standard,Unilateral,6307,Recommendation for Additional Imaging - Laterality Unspecified
 Leg,X-Ray - Stereoscopic,Left,6632,XR Tibia Fibula Left
 Leg,X-Ray - Stereoscopic,Right,6633,XR Tibia Fibula Right
 Leg,X-Ray - Stereoscopic,Bilateral,6307,Recommendation for Additional Imaging - Laterality Unspecified
@@ -6784,11 +6780,11 @@ Temporomandibular Joint,X-Ray - Specimen,Right,6636,XR Face
 Temporomandibular Joint,X-Ray - Specimen,Bilateral,6636,XR Face
 Temporomandibular Joint,X-Ray - Specimen,Unilateral,6636,XR Face
 Temporomandibular Joint,X-Ray - Specimen,Unspecified,6636,XR Face
-Temporomandibular Joint,X-Rav - Standard,Left,6636,XR Face
-Temporomandibular Joint,X-Rav - Standard,Right,6636,XR Face
-Temporomandibular Joint,X-Rav - Standard,Bilateral,6636,XR Face
-Temporomandibular Joint,X-Rav - Standard,Unilateral,6636,XR Face
-Temporomandibular Joint,X-Rav - Standard,Unspecified,6636,XR Face
+Temporomandibular Joint,X-Ray - Standard,Left,6636,XR Face
+Temporomandibular Joint,X-Ray - Standard,Right,6636,XR Face
+Temporomandibular Joint,X-Ray - Standard,Bilateral,6636,XR Face
+Temporomandibular Joint,X-Ray - Standard,Unilateral,6636,XR Face
+Temporomandibular Joint,X-Ray - Standard,Unspecified,6636,XR Face
 Temporomandibular Joint,X-Ray - Stereoscopic,Left,6636,XR Face
 Temporomandibular Joint,X-Ray - Stereoscopic,Right,6636,XR Face
 Temporomandibular Joint,X-Ray - Stereoscopic,Bilateral,6636,XR Face
@@ -6879,11 +6875,11 @@ Wrist,X-Ray - Specimen,Right,6635,XR Wrist Right
 Wrist,X-Ray - Specimen,Bilateral,6748,XR Wrist Bilateral
 Wrist,X-Ray - Specimen,Unspecified,6748,XR Wrist Bilateral
 Wrist,X-Ray - Specimen,Unilateral,6307,Recommendation for Additional Imaging - Laterality Unspecified
-Wrist,X-Rav - Standard,Left,6634,XR Wrist Left
-Wrist,X-Rav - Standard,Right,6635,XR Wrist Right
-Wrist,X-Rav - Standard,Bilateral,6748,XR Wrist Bilateral
-Wrist,X-Rav - Standard,Unspecified,6748,XR Wrist Bilateral
-Wrist,X-Rav - Standard,Unilateral,6307,Recommendation for Additional Imaging - Laterality Unspecified
+Wrist,X-Ray - Standard,Left,6634,XR Wrist Left
+Wrist,X-Ray - Standard,Right,6635,XR Wrist Right
+Wrist,X-Ray - Standard,Bilateral,6748,XR Wrist Bilateral
+Wrist,X-Ray - Standard,Unspecified,6748,XR Wrist Bilateral
+Wrist,X-Ray - Standard,Unilateral,6307,Recommendation for Additional Imaging - Laterality Unspecified
 Wrist,X-Ray - Stereoscopic,Left,6634,XR Wrist Left
 Wrist,X-Ray - Stereoscopic,Right,6635,XR Wrist Right
 Wrist,X-Ray - Stereoscopic,Bilateral,6748,XR Wrist Bilateral
@@ -10003,6 +9999,40 @@ Vertebral Arteries,Conventional Tomography,Left,6446,CTA Neck
 Vertebral Arteries,Conventional Tomography,Right,6446,CTA Neck
 Vertebral Arteries,Conventional Tomography,Bilateral,6446,CTA Neck
 Vertebral Arteries,Conventional Tomography,Unilateral,6446,CTA Neck
+Neck,PET/CT,Right,6732,NM PET Skull Base to Mid Thighs
+Neck,PET/CT,Bilateral,6732,NM PET Skull Base to Mid Thighs
+Neck,PET/CT,Unilateral,6732,NM PET Skull Base to Mid Thighs
+Neck,PET/CT,Unspecified,6732,NM PET Skull Base to Mid Thighs
+Neck,PET - Perfusion,Left,6732,NM PET Skull Base to Mid Thighs
+Neck,PET - Perfusion,Right,6732,NM PET Skull Base to Mid Thighs
+Neck,PET - Perfusion,Bilateral,6732,NM PET Skull Base to Mid Thighs
+Neck,PET - Perfusion,Unilateral,6732,NM PET Skull Base to Mid Thighs
+Neck,PET - Perfusion,Unspecified,6732,NM PET Skull Base to Mid Thighs
+Spine,Myelography,Left,6360,CT Cervical Thoracic Lumbar Myelography
+Spine,Myelography,Right,6360,CT Cervical Thoracic Lumbar Myelography
+Spine,Myelography,Bilateral,6360,CT Cervical Thoracic Lumbar Myelography
+Spine,Myelography,Unilateral,6360,CT Cervical Thoracic Lumbar Myelography
+Spine,Myelography,Unspecified,6360,CT Cervical Thoracic Lumbar Myelography
+Thoracic Spine,Radiography,Left,6749,Thoracic Spine
+Thoracic Spine,Radiography,Right,6749,Thoracic Spine
+Thoracic Spine,Radiography,Bilateral,6749,Thoracic Spine
+Thoracic Spine,Radiography,Unilateral,6749,Thoracic Spine
+Thoracic Spine,Radiography,Unspecified,6749,Thoracic Spine
+Skull,Radiography,Left,6752,XR Skull
+Skull,Radiography,Right,6752,XR Skull
+Skull,Radiography,Bilateral,6752,XR Skull
+Skull,Radiography,Unilateral,6752,XR Skull
+Skull,Radiography,Unspecified,6752,XR Skull
+Face,US,Left,6579,US Neck
+Face,US,Right,6579,US Neck
+Face,US,Bilateral,6579,US Neck
+Face,US,Unilateral,6579,US Neck
+Face,US,Unspecified,6579,US Neck
+Head & Neck,US,Left,6579,US Neck
+Head & Neck,US,Right,6579,US Neck
+Head & Neck,US,Bilateral,6579,US Neck
+Head & Neck,US,Unilateral,6579,US Neck
+Head & Neck,US,Unspecified,6579,US Neck
 Vertebral Arteries,Conventional Tomography,Unspecified,6446,CTA Neck
 Vertebral Arteries,Calcium Scoring,Left,6446,CTA Neck
 Vertebral Arteries,Calcium Scoring,Right,6446,CTA Neck
@@ -10704,11 +10734,11 @@ Breast,X-Ray - Specimen,Right,6480,MG Breast Diagnostic Right
 Breast,X-Ray - Specimen,Bilateral,6477,MG Breast Diagnostic Bilateral
 Breast,X-Ray - Specimen,Unspecified,6477,MG Breast Diagnostic Bilateral
 Breast,X-Ray - Specimen,Unilateral,6307,Recommendation for Additional Imaging - Laterality Unspecified
-Breast,X-Rav - Standard,Left,6479,MG Breast Diagnostic Left
-Breast,X-Rav - Standard,Right,6480,MG Breast Diagnostic Right
-Breast,X-Rav - Standard,Bilateral,6477,MG Breast Diagnostic Bilateral
-Breast,X-Rav - Standard,Unspecified,6477,MG Breast Diagnostic Bilateral
-Breast,X-Rav - Standard,Unilateral,6307,Recommendation for Additional Imaging - Laterality Unspecified
+Breast,X-Ray - Standard,Left,6479,MG Breast Diagnostic Left
+Breast,X-Ray - Standard,Right,6480,MG Breast Diagnostic Right
+Breast,X-Ray - Standard,Bilateral,6477,MG Breast Diagnostic Bilateral
+Breast,X-Ray - Standard,Unspecified,6477,MG Breast Diagnostic Bilateral
+Breast,X-Ray - Standard,Unilateral,6307,Recommendation for Additional Imaging - Laterality Unspecified
 Breast,X-Ray - Stereoscopic,Left,6479,MG Breast Diagnostic Left
 Breast,X-Ray - Stereoscopic,Right,6480,MG Breast Diagnostic Right
 Breast,X-Ray - Stereoscopic,Bilateral,6477,MG Breast Diagnostic Bilateral
@@ -10804,11 +10834,6 @@ Spine,MRA,Right,6531,MRA Spine
 Spine,MRA,Bilateral,6531,MRA Spine
 Spine,MRA,Unilateral,6531,MRA Spine
 Spine,MRA,Unspecified,6531,MRA Spine
-Spine,Myelography,Left,6360,CT Cervical Thoracic Lumbar Myelography
-Spine,Myelography,Right,6360,CT Cervical Thoracic Lumbar Myelography
-Spine,Myelography,Bilateral,6360,CT Cervical Thoracic Lumbar Myelography
-Spine,Myelography,Unilateral,6360,CT Cervical Thoracic Lumbar Myelography
-Spine,Myelography,Unspecified,6360,CT Cervical Thoracic Lumbar Myelography
 Parathyroid,CT,Left,6667,CT Parathyroid
 Parathyroid,CT,Right,6667,CT Parathyroid
 Parathyroid,CT,Bilateral,6667,CT Parathyroid
@@ -11154,3 +11179,8 @@ Whole Body,PET w/CT,Right,6731,NM PET Scalp to Toes
 Whole Body,PET w/CT,Bilateral,6731,NM PET Scalp to Toes
 Whole Body,PET w/CT,Unilateral,6731,NM PET Scalp to Toes
 Whole Body,PET w/CT,Unspecified,6731,NM PET Scalp to Toes
+Elbow,X-Ray - Standard,Left,6604,XR Elbow Left
+Elbow,X-Ray - Standard,Right,6605,XR Elbow Right
+Elbow,X-Ray - Standard,Unspecified,6307,Recommendation for Additional Imaging - Laterality Unspecified
+Elbow,X-Ray - Standard,Bilateral,6307,Recommendation for Additional Imaging - Laterality Unspecified
+Elbow,X-Ray - Standard,Left,6604,XR Elbow Left

@@ -1,21 +1,7 @@
 import numpy as np
 import pandas as pd
 
-CORE_MODALITIES = [
-    "CT",
-    "CTA",
-    "DEXA",
-    "Fluoroscopy",
-    "MG",
-    "MR",
-    "MRA",
-    "Myelography",
-    "Nuclear Medicine",
-    "PET",
-    "Radiography",
-    "US",
-    "US Duplex",
-]
+from constants import CORE_MODALITIES
 
 
 def load_mappings(filename: str) -> pd.DataFrame:

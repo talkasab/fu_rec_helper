@@ -1,5 +1,21 @@
 BASE_PAGE_TITLE = "CSR Action Guide"
 
+CORE_MODALITIES = [
+    "CT",
+    "CTA",
+    "DEXA",
+    "Fluoroscopy",
+    "MG",
+    "MR",
+    "MRA",
+    "Myelography",
+    "Nuclear Medicine",
+    "PET",
+    "Radiography",
+    "US",
+    "US Duplex",
+]
+
 SPECIAL_HANDLING = "Recommendation for Additional Imaging - Special Handling/Complex"
 ADDITIONAL_IMAGING = "Unmapped Recommendation"
 INTERVENTIONAL_PROCEDURE = "Interventional Procedure Recommendation"
