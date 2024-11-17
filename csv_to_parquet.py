@@ -13,6 +13,7 @@ def load_mappings(filename: str) -> pd.DataFrame:
     # - Drop the RecID column
     df = pd.read_csv(
         filename,
+        sep="|",
         dtype={
             "BodyPart": "str",
             "Modality": "str",
@@ -66,6 +67,7 @@ def load_report_codes(filename) -> pd.DataFrame:
     # Make InsertedRecommendable and ReplaceRecommendable categories
     df = pd.read_csv(
         filename,
+        sep="|",
         dtype={
             "inserted_recommendable": "str",
             "replace_recommendable": "str",
