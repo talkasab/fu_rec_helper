@@ -129,7 +129,11 @@ if selected_recommendable:
     st.query_params["recommendable"] = selected_recommendable
 recommendable = get_recommendable_from_query()
 
-if recommendable:
+DONT_SHOW_HOW_TO = [
+    "Additional Imaging Needed",
+    "Interventional Procedure Recommendation",
+]
+if recommendable and recommendable not in DONT_SHOW_HOW_TO:
     with st.container(border=True):
         show_how_to_recommend(recommendable)
 else:
