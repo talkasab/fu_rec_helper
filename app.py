@@ -74,6 +74,7 @@ training = st.Page("training.py", title="Training Checklist")
 basic_usage = st.Page("basic_usage.py", title="Basic Workflow")
 multiple_recs = st.Page("multiple_recs.py", title="Multiple Recommendations")
 field_guide = st.Page("field_guide.py", title="Dialog Fields")
+mr_pelvis = st.Page("mr_pelvis.py", title="MR Pelvis")
 covered_recs = st.Page("covered_recs.py", title="Covered Recommendations")
 trainee_workflow = st.Page("trainee_workflow.py", title="Trainee Workflow")
 dashboard = st.Page("dashboard.py", title="Recommendation Dashboard")
@@ -103,6 +104,7 @@ app = st.navigation(
             dashboard,
             addending,
             tip_sheet_faq,
+            mr_pelvis,
         ],
         "Videos": [
             vid_basic,

@@ -123,7 +123,6 @@ CTToeLeft,CT Toe Left,msk,CT,leg
 WithContrast,MR Finger Right I+,special,,
 MRBrachialPlexusRight,MR Brachial Plexus Right,neuro,MR,arm
 WithContrast,MR Tibia Fibula Right I+,special,,
-MRPelvis,MR Pelvis,abdominal,MR,pelvis
 Arthrogram,CT Shoulder Arthrogram Right,special,,
 USLiverElastography,US Liver Elastography,abdominal,US,abdomen
 Venogram,MRA Upper Extremity Venogram Right,special,,

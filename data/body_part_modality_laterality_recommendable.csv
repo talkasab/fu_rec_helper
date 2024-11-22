@@ -5855,11 +5855,6 @@ Bone|X-Ray - Standard|Right|6759|XR Skeletal Survey
 Bone|X-Ray - Standard|Bilateral|6759|XR Skeletal Survey
 Bone|X-Ray - Standard|Unilateral|6759|XR Skeletal Survey
 Bone|X-Ray - Standard|Unspecified|6759|XR Skeletal Survey
-Pelvis|Spectroscopy|Left|6486|MR Pelvis GIGU
-Pelvis|Spectroscopy|Right|6486|MR Pelvis GIGU
-Pelvis|Spectroscopy|Bilateral|6486|MR Pelvis GIGU
-Pelvis|Spectroscopy|Unilateral|6486|MR Pelvis GIGU
-Pelvis|Spectroscopy|Unspecified|6486|MR Pelvis GIGU
 Pelvis|MRA|Left|6541|MRA Pelvis
 Pelvis|MRA|Right|6541|MRA Pelvis
 Pelvis|MRA|Bilateral|6541|MRA Pelvis
