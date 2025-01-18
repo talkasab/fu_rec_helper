@@ -33,7 +33,8 @@ st.markdown("### 2. Before signing, launch and use the Follow-up Recommendations
 st.image("images/how_to_2.png")
 col1, col2 = st.columns(2)
 col1.markdown("""
-- **At final sign time**, launch the follow-up recommendations tool
+- **At final sign time**, launch the follow-up recommendations tool (trainees: before prelim
+  signing, or releasing report for attending review)
 - Use either the mouse or dictation commands to move between fields and fill them in
 - Though the tool will allow you to create an incomplete recommendation, please **fill in
   all the fields** 
@@ -70,7 +71,9 @@ col1, col2 = st.columns(2)
 with col1:
     st.subheader(":material/key: Key Points", divider=True)
     st.markdown("""
-  - Use the tool at final sign time
+  - Use the tool as last step of working with the report
+    - Trainees: Prelim signing/releasing for attending review
+    - Attendings: Before final sign
   - Make sure to fill in all the required fields
   - Make sure the end days is greater than the start day (range as broad as possible, usually at least 1 month)
   - Do **not** use the "Flag for Review" button

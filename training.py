@@ -15,7 +15,9 @@ correct.
 pitfalls = """
 ### Pitfalls to Avoid
 
-- Use the tool **only** at final sign time
+- Use the tool **only** as the last step in working with the report
+  - Trainees: Before prelim signing or releasing for attending review
+  - Attendings: Before final sign 
 - All fields must be filled in
 - Time range (different start/end dates) are required (range as broad as possible, usually at least 1 month)
 - Be aware of multiple recommendations
@@ -67,13 +69,8 @@ col1, col2 = st.columns([0.7, 0.3])
 with col1:
     st.markdown("""#### Trainee Workflow
 
-Understand that the tool itself is only for final-signers to use at
-final sign time.
-
-Trainees can assist with making recommendations by using the "Macro:
-Recommendation" auto-text to insert a recommendation into the report
-that contains all the information needed to generate an actionable
-recommendation.
+Understand how trainees will use the tool and how attendings should guide them in
+its use.
                 """)
 
 with col2:

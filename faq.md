@@ -60,7 +60,10 @@ Because the new program is integrated into PowerScribe, you will need to addend 
 
 ### Can I ask my trainee to create the follow up recommendation in the follow up tool?
 
-**No.** While trainees can generate CSR-Acknowledge alerts, they are not given access to use the follow up tool. You may consider asking trainees to use the recommendation macro as described above.
+**Yes.** As of February, 2025, trainees can use the Follow-up Recommendations tool to create 
+recommendations. The recommendations are only sent to Epic when the attending final-signs the
+report, and the attending may correct any issues by re-using the tool themselves before final-
+signing. 
 
 :material/link: [Trainee Workflow](/trainee_workflow)
 
