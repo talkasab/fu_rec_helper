@@ -1,790 +1,790 @@
-﻿code|inserted_id|inserted_recommendable|replace_id|replace_recommendable
-SpecialHandling|6306|Recommendation for Additional Imaging - Special Handling/Complex|NULL|All recommendations
-MRBrainCranialNerves|6688|MR Brain Cranial Nerves|6340|MR Skull Base
-MRBrainCranialNerves|6688|MR Brain Cranial Nerves|6404|MR Sinus
-MRBrainCranialNerves|6688|MR Brain Cranial Nerves|6398|MR Parotid
-MRBrainCranialNerves|6688|MR Brain Cranial Nerves|6396|MR Orbits
-MRBrainCranialNerves|6688|MR Brain Cranial Nerves|6537|MR TMJ
-MRBrainCranialNerves|6688|MR Brain Cranial Nerves|6534|MRA Head
-MRBrainCranialNerves|6688|MR Brain Cranial Nerves|6532|MR Brain
-MRBrainCranialNerves|6688|MR Brain Cranial Nerves|6725|MRA Brain Neck
-MRBrainCranialNerves|6688|MR Brain Cranial Nerves|6533|MR Face
-CTChestILD|6372|CT Chest ILD|6465|CT Thoracic Spine
-CTChestILD|6372|CT Chest ILD|6452|CTA Chest
-CTChestILD|6372|CT Chest ILD|6449|CT Chest PE
-CTChestILD|6372|CT Chest ILD|6645|CT Chest Trachea
-CTChestILD|6372|CT Chest ILD|6411|CT Cardiac
-CTChestILD|6372|CT Chest ILD|6448|CT Chest
-CTChestILD|6372|CT Chest ILD|6681|CTA Chest Venogram
-CTChestILD|6372|CT Chest ILD|6454|CTA Coronary Artery
-Venogram|6682|CTA Lower Extremity Venogram Bilateral|6457|CTA Lower Extremity Bilateral
-XRPelvisHipRight|6626|XR Pelvis Hip Right|6617|XR Hip Right
-WithContrast|6713|MR Pelvis Bone I+|6521|MR Pelvis Bone
-USBreastAxillaRight|6735|US Breast Axilla Right|6572|US Breast Right
-XRPelvisHipLeft|6625|XR Pelvis Hip Left|6616|XR Hip Left
-WithContrast|6706|MR Hand Right I+|6513|MR Hand Right
-WithContrast|6664|CT Knee Left I+|6430|CT Knee Left
-CTToeRightIPlus|6676|CT Toe Right I+|6456|CTA Lower Extremity Right
-CTToeRightIPlus|6676|CT Toe Right I+|6417|CT Femur Right
-CTToeRightIPlus|6676|CT Toe Right I+|6413|CT Ankle Right
-CTToeRightIPlus|6676|CT Toe Right I+|6431|CT Knee Right
-CTToeRightIPlus|6676|CT Toe Right I+|6421|CT Foot Right
-CTToeRightIPlus|6676|CT Toe Right I+|6433|CT Tibia Fibula Right
-Venogram|6379|CTA Abdomen Venogram|6679|CTA Abdomen
-USRenalContrastEnhanced|6329|US Renal Contrast Enhanced|6570|US Right Upper Quadrant
-USRenalContrastEnhanced|6329|US Renal Contrast Enhanced|6753|US Abdomen Vasculature
-USRenalContrastEnhanced|6329|US Renal Contrast Enhanced|6585|US Aorta
-USRenalContrastEnhanced|6329|US Renal Contrast Enhanced|6563|US Renal
-USRenalContrastEnhanced|6329|US Renal Contrast Enhanced|6590|US Renal Artery
-USRenalContrastEnhanced|6329|US Renal Contrast Enhanced|6560|US Abdomen Complete
-Arthrogram|6347|CT Knee Arthrogram Right|6431|CT Knee Right
-MRAbdominalWall|6482|MR Abdominal Wall|6403|MR Renal
-MRAbdominalWall|6482|MR Abdominal Wall|6394|MR Liver
-MRAbdominalWall|6482|MR Abdominal Wall|6724|MRA Abdomen Pelvis Venogram
-MRAbdominalWall|6482|MR Abdominal Wall|6539|MRA Abdomen
-MRAbdominalWall|6482|MR Abdominal Wall|6337|MR Abdomen with MRCP
-MRAbdominalWall|6482|MR Abdominal Wall|6483|MR Enterography
-MRAbdominalWall|6482|MR Abdominal Wall|6545|MR Lumbar Spine
-MRAbdominalWall|6482|MR Abdominal Wall|6367|MRA Abdomen Pelvis
-MRAbdominalWall|6482|MR Abdominal Wall|6361|MR Abdomen Pelvis
-MRAbdominalWall|6482|MR Abdominal Wall|6382|MR Adrenal
-MRAbdominalWall|6482|MR Abdominal Wall|6481|MR Abdomen
-WithContrast|6697|MR Femur Left I+|6504|MR Femur Left
-WithContrast|6703|MR Forearm Left I+|6510|MR Forearm Left
-WithContrast|6663|CT Humerus Right I+|6429|CT Humerus Right
-USAscites|6561|US Ascites|6570|US Right Upper Quadrant
-USAscites|6561|US Ascites|6753|US Abdomen Vasculature
-USAscites|6561|US Ascites|6585|US Aorta
-USAscites|6561|US Ascites|6563|US Renal
-USAscites|6561|US Ascites|6590|US Renal Artery
-USAscites|6561|US Ascites|6560|US Abdomen Complete
-MRLiverEovist|6333|MR Liver Eovist|6403|MR Renal
-MRLiverEovist|6333|MR Liver Eovist|6394|MR Liver
-MRLiverEovist|6333|MR Liver Eovist|6724|MRA Abdomen Pelvis Venogram
-MRLiverEovist|6333|MR Liver Eovist|6539|MRA Abdomen
-MRLiverEovist|6333|MR Liver Eovist|6337|MR Abdomen with MRCP
-MRLiverEovist|6333|MR Liver Eovist|6483|MR Enterography
-MRLiverEovist|6333|MR Liver Eovist|6545|MR Lumbar Spine
-MRLiverEovist|6333|MR Liver Eovist|6367|MRA Abdomen Pelvis
-MRLiverEovist|6333|MR Liver Eovist|6361|MR Abdomen Pelvis
-MRLiverEovist|6333|MR Liver Eovist|6382|MR Adrenal
-MRLiverEovist|6333|MR Liver Eovist|6481|MR Abdomen
-MRChestThymus|6390|MR Chest Thymus|6389|MR Chest Pleura
-MRChestThymus|6390|MR Chest Thymus|6540|MRA Chest
-MRChestThymus|6390|MR Chest Thymus|6546|MR Thoracic Spine
-MRChestThymus|6390|MR Chest Thymus|6391|MR Chest Wall
-MRChestThymus|6390|MR Chest Thymus|6388|MR Chest Mediastinum
-MRChestThymus|6390|MR Chest Thymus|6491|MR Cardiac
-MRChestThymus|6390|MR Chest Thymus|6538|MR Chest
-MRChestThymus|6390|MR Chest Thymus|6339|MR Chest Nodule
-CTToeRight|6438|CT Toe Right|6456|CTA Lower Extremity Right
-CTToeRight|6438|CT Toe Right|6417|CT Femur Right
-CTToeRight|6438|CT Toe Right|6413|CT Ankle Right
-CTToeRight|6438|CT Toe Right|6431|CT Knee Right
-CTToeRight|6438|CT Toe Right|6421|CT Foot Right
-CTToeRight|6438|CT Toe Right|6433|CT Tibia Fibula Right
-WithContrast|6646|CT Elbow Left I+|6414|CT Elbow Left
-Arthrogram|6348|CT Shoulder Arthrogram Left|6435|CT Shoulder Left
-FLDefecography|6469|FL Defecography|6474|FL Upper GI
-FLDefecography|6469|FL Defecography|6466|FL Barium Enema
-WithContrast|6720|MR Tibia Fibula Left I+|6527|MR Tibia Fibula Left
-WithContrast|6671|CT Shoulder Right I+|6436|CT Shoulder Right
-WithContrast|6669|CT Sacrum I+|6434|CT Sacrum
-WithContrast|6722|MR Wrist Left I+|6529|MR Wrist Left
-WithContrast|6643|CT Cervical Spine I+|6464|CT Cervical Spine
-XRClavicleLeft|6601|XR Clavicle Left|6634|XR Wrist Left
-XRClavicleLeft|6601|XR Clavicle Left|6618|XR Hand Left
-XRClavicleLeft|6601|XR Clavicle Left|6604|XR Elbow Left
-XRClavicleLeft|6601|XR Clavicle Left|6606|XR Forearm Left
-XRClavicleLeft|6601|XR Clavicle Left|6630|XR Shoulder Left
-XRClavicleLeft|6601|XR Clavicle Left|6610|XR Finger Left
-XRClavicleLeft|6601|XR Clavicle Left|6620|XR Humerus Left
-XRCalcaneusRight|6615|XR Calcaneus Right|6623|XR Knee Right
-XRCalcaneusRight|6615|XR Calcaneus Right|6609|XR Femur Right
-XRCalcaneusRight|6615|XR Calcaneus Right|6600|XR Ankle Right
-XRCalcaneusRight|6615|XR Calcaneus Right|6633|XR Tibia Fibula Right
-WithContrast|6710|MR Humerus Right I+|6517|MR Humerus Right
-MRBladder|6383|MR Bladder|6521|MR Pelvis Bone
-MRBladder|6383|MR Bladder|6487|MR Penis Scrotum
-MRBladder|6383|MR Bladder|6489|MR Urogram
-MRBladder|6383|MR Bladder|6486|MR Pelvis GIGU
-MRBladder|6383|MR Bladder|6402|MR Rectum
-MRBladder|6383|MR Bladder|6541|MRA Pelvis
-MRBladder|6383|MR Bladder|6485|MR Pelvis Gyn
-MRBladder|6383|MR Bladder|6515|MR Hip Right
-MRBladder|6383|MR Bladder|6488|MR Prostate
-MRBladder|6383|MR Bladder|6522|MR Sacrum
-MRBladder|6383|MR Bladder|6514|MR Hip Left
-Venogram|6366|MRA Upper Extremity Venogram Left|6542|MRA Upper Extremity Left
-WithContrast|6666|CT Lumbar Spine I+|6460|CT Lumbar Spine
-WithContrast|6660|CT Hip Left I+|6426|CT Hip Left
-CTKidneyStone|6375|CT Kidney Stone|6374|CT Cystogram
-CTKidneyStone|6375|CT Kidney Stone|6409|CT Abdomen Pelvis
-CTKidneyStone|6375|CT Kidney Stone|6377|CT Renal
-CTKidneyStone|6375|CT Kidney Stone|6639|CT Abdomen
-CTKidneyStone|6375|CT Kidney Stone|6407|CT Colonography
-CTKidneyStone|6375|CT Kidney Stone|6371|CT Adrenal
-CTKidneyStone|6375|CT Kidney Stone|6408|CT Enterography
-CTKidneyStone|6375|CT Kidney Stone|6451|CTA Abdomen Pelvis
-CTKidneyStone|6375|CT Kidney Stone|6342|CT Pancreas
-CTKidneyStone|6375|CT Kidney Stone|6679|CTA Abdomen
-CTKidneyStone|6375|CT Kidney Stone|6680|CTA Abdomen Pelvis Venogram
-CTKidneyStone|6375|CT Kidney Stone|6376|CT Liver
-CTKidneyStone|6375|CT Kidney Stone|6460|CT Lumbar Spine
-Venogram|6683|CTA Lower Extremity Venogram Left|6455|CTA Lower Extremity Left
-WithContrast|6656|CT Forearm Right I+|6423|CT Forearm Right
-Arthrogram|6356|MR Shoulder Arthrogram Left|6525|MR Shoulder Left
-MRClavicleLeft|6500|MR Clavicle Left|6516|MR Humerus Left
-MRClavicleLeft|6500|MR Clavicle Left|6506|MR Finger Left
-MRClavicleLeft|6500|MR Clavicle Left|6502|MR Elbow Left
-MRClavicleLeft|6500|MR Clavicle Left|6512|MR Hand Left
-MRClavicleLeft|6500|MR Clavicle Left|6525|MR Shoulder Left
-MRClavicleLeft|6500|MR Clavicle Left|6542|MRA Upper Extremity Left
-MRClavicleLeft|6500|MR Clavicle Left|6529|MR Wrist Left
-MRClavicleLeft|6500|MR Clavicle Left|6510|MR Forearm Left
-MRClavicleRight|6501|MR Clavicle Right|6517|MR Humerus Right
-MRClavicleRight|6501|MR Clavicle Right|6511|MR Forearm Right
-MRClavicleRight|6501|MR Clavicle Right|6507|MR Finger Right
-MRClavicleRight|6501|MR Clavicle Right|6530|MR Wrist Right
-MRClavicleRight|6501|MR Clavicle Right|6543|MRA Upper Extremity Right
-MRClavicleRight|6501|MR Clavicle Right|6526|MR Shoulder Right
-MRClavicleRight|6501|MR Clavicle Right|6513|MR Hand Right
-MRClavicleRight|6501|MR Clavicle Right|6503|MR Elbow Right
-WithContrast|6662|CT Humerus Left I+|6428|CT Humerus Left
-MRBrainIAC|6343|MR Brain IAC|6340|MR Skull Base
-MRBrainIAC|6343|MR Brain IAC|6404|MR Sinus
-MRBrainIAC|6343|MR Brain IAC|6398|MR Parotid
-MRBrainIAC|6343|MR Brain IAC|6396|MR Orbits
-MRBrainIAC|6343|MR Brain IAC|6537|MR TMJ
-MRBrainIAC|6343|MR Brain IAC|6534|MRA Head
-MRBrainIAC|6343|MR Brain IAC|6532|MR Brain
-MRBrainIAC|6343|MR Brain IAC|6725|MRA Brain Neck
-MRBrainIAC|6343|MR Brain IAC|6531|MRA Spine
-MRBrainIAC|6343|MR Brain IAC|6533|MR Face
-MRChestDiaphragm|6331|MR Chest Diaphragm|6389|MR Chest Pleura
-MRChestDiaphragm|6331|MR Chest Diaphragm|6540|MRA Chest
-MRChestDiaphragm|6331|MR Chest Diaphragm|6546|MR Thoracic Spine
-MRChestDiaphragm|6331|MR Chest Diaphragm|6391|MR Chest Wall
-MRChestDiaphragm|6331|MR Chest Diaphragm|6388|MR Chest Mediastinum
-MRChestDiaphragm|6331|MR Chest Diaphragm|6491|MR Cardiac
-MRChestDiaphragm|6331|MR Chest Diaphragm|6538|MR Chest
-MRChestDiaphragm|6331|MR Chest Diaphragm|6339|MR Chest Nodule
-XRACJointLeft|6597|XR AC Joint Left|6634|XR Wrist Left
-XRACJointLeft|6597|XR AC Joint Left|6618|XR Hand Left
-XRACJointLeft|6597|XR AC Joint Left|6604|XR Elbow Left
-XRACJointLeft|6597|XR AC Joint Left|6606|XR Forearm Left
-XRACJointLeft|6597|XR AC Joint Left|6630|XR Shoulder Left
-XRACJointLeft|6597|XR AC Joint Left|6610|XR Finger Left
-XRACJointLeft|6597|XR AC Joint Left|6620|XR Humerus Left
-XRCalcaneusLeft|6614|XR Calcaneus Left|6622|XR Knee Left
-XRCalcaneusLeft|6614|XR Calcaneus Left|6608|XR Femur Left
-XRCalcaneusLeft|6614|XR Calcaneus Left|6612|XR Foot Left
-XRCalcaneusLeft|6614|XR Calcaneus Left|6632|XR Tibia Fibula Left
-XRCalcaneusLeft|6614|XR Calcaneus Left|6599|XR Ankle Left
-CTPelvisBoneIPlus|6668|CT Pelvis Bone I+|6434|CT Sacrum
-CTPelvisBoneIPlus|6668|CT Pelvis Bone I+|6426|CT Hip Left
-CTPelvisBoneIPlus|6668|CT Pelvis Bone I+|6427|CT Hip Right
-CTPelvisBoneIPlus|6668|CT Pelvis Bone I+|6462|CT Pelvis
-CTPelvisBoneIPlus|6668|CT Pelvis Bone I+|6447|CTA Pelvis
-CTPelvisBoneIPlus|6668|CT Pelvis Bone I+|6410|CT Urogram
-WithContrast|6641|CT Ankle Right I+|6413|CT Ankle Right
-Venogram|6484|CTA Upper Extremity Venogram Left|6458|CTA Upper Extremity Left
-WithContrast|6707|MR Hip Left I+|6514|MR Hip Left
-XRChestApical|6738|XR Chest Apical|6637|XR Chest
-XRChestApical|6738|XR Chest Apical|6629|XR Ribs Right
-XRChestApical|6738|XR Chest Apical|6746|XR Ribs Bilateral
-XRChestApical|6738|XR Chest Apical|6628|XR Ribs Left
-WithContrast|6405|MR Thoracic Spine I+|6546|MR Thoracic Spine
-MRCervicalThoracicSpine|6362|MR Cervical Thoracic Spine|6544|MR Cervical Spine
-MRCervicalThoracicSpine|6362|MR Cervical Thoracic Spine|6536|MRA Neck
-MRCervicalThoracicSpine|6362|MR Cervical Thoracic Spine|6535|MR Neck
-NMPETDotatate|6558|NM PET Dotatate|6732|NM PET Skull Base to Mid Thighs
-NMPETDotatate|6558|NM PET Dotatate|6731|NM PET Scalp to Toes
-NMPETDotatate|6558|NM PET Dotatate|6369|NM PET PSMA
-CTAChestThoracicOutlet|6453|CTA Chest Thoracic Outlet|6465|CT Thoracic Spine
-CTAChestThoracicOutlet|6453|CTA Chest Thoracic Outlet|6452|CTA Chest
-CTAChestThoracicOutlet|6453|CTA Chest Thoracic Outlet|6449|CT Chest PE
-CTAChestThoracicOutlet|6453|CTA Chest Thoracic Outlet|6645|CT Chest Trachea
-CTAChestThoracicOutlet|6453|CTA Chest Thoracic Outlet|6411|CT Cardiac
-CTAChestThoracicOutlet|6453|CTA Chest Thoracic Outlet|6448|CT Chest
-CTAChestThoracicOutlet|6453|CTA Chest Thoracic Outlet|6681|CTA Chest Venogram
-CTAChestThoracicOutlet|6453|CTA Chest Thoracic Outlet|6454|CTA Coronary Artery
-MRClavicleLeftIPlus|6692|MR Clavicle Left I+|6516|MR Humerus Left
-MRClavicleLeftIPlus|6692|MR Clavicle Left I+|6506|MR Finger Left
-MRClavicleLeftIPlus|6692|MR Clavicle Left I+|6502|MR Elbow Left
-MRClavicleLeftIPlus|6692|MR Clavicle Left I+|6512|MR Hand Left
-MRClavicleLeftIPlus|6692|MR Clavicle Left I+|6525|MR Shoulder Left
-MRClavicleLeftIPlus|6692|MR Clavicle Left I+|6542|MRA Upper Extremity Left
-MRClavicleLeftIPlus|6692|MR Clavicle Left I+|6529|MR Wrist Left
-MRClavicleLeftIPlus|6692|MR Clavicle Left I+|6510|MR Forearm Left
-WithContrast|6694|MR Elbow Left I+|6502|MR Elbow Left
-WithContrast|6665|CT Knee Right I+|6431|CT Knee Right
-Venogram|6381|CTA Neck Venogram|6446|CTA Neck
-WithContrast|6655|CT Forearm Left I+|6422|CT Forearm Left
-WithContrast|6384|MR Brain I+|6532|MR Brain
-MRAChestAbdomenVenogram|6727|MRA Chest Abdomen Venogram|6389|MR Chest Pleura
-MRAChestAbdomenVenogram|6727|MRA Chest Abdomen Venogram|6540|MRA Chest
-MRAChestAbdomenVenogram|6727|MRA Chest Abdomen Venogram|6546|MR Thoracic Spine
-MRAChestAbdomenVenogram|6727|MRA Chest Abdomen Venogram|6391|MR Chest Wall
-MRAChestAbdomenVenogram|6727|MRA Chest Abdomen Venogram|6388|MR Chest Mediastinum
-MRAChestAbdomenVenogram|6727|MRA Chest Abdomen Venogram|6491|MR Cardiac
-MRAChestAbdomenVenogram|6727|MRA Chest Abdomen Venogram|6538|MR Chest
-MRAChestAbdomenVenogram|6727|MRA Chest Abdomen Venogram|6339|MR Chest Nodule
-WithContrast|6686|MR Ankle Left I+|6494|MR Ankle Left
-MRLiverElastography|6332|MR Liver Elastography|6403|MR Renal
-MRLiverElastography|6332|MR Liver Elastography|6394|MR Liver
-MRLiverElastography|6332|MR Liver Elastography|6724|MRA Abdomen Pelvis Venogram
-MRLiverElastography|6332|MR Liver Elastography|6539|MRA Abdomen
-MRLiverElastography|6332|MR Liver Elastography|6337|MR Abdomen with MRCP
-MRLiverElastography|6332|MR Liver Elastography|6483|MR Enterography
-MRLiverElastography|6332|MR Liver Elastography|6545|MR Lumbar Spine
-MRLiverElastography|6332|MR Liver Elastography|6367|MRA Abdomen Pelvis
-MRLiverElastography|6332|MR Liver Elastography|6361|MR Abdomen Pelvis
-MRLiverElastography|6332|MR Liver Elastography|6382|MR Adrenal
-MRLiverElastography|6332|MR Liver Elastography|6481|MR Abdomen
-MRAxillaLeft|6496|MR Axilla Left|6516|MR Humerus Left
-MRAxillaLeft|6496|MR Axilla Left|6506|MR Finger Left
-MRAxillaLeft|6496|MR Axilla Left|6502|MR Elbow Left
-MRAxillaLeft|6496|MR Axilla Left|6512|MR Hand Left
-MRAxillaLeft|6496|MR Axilla Left|6525|MR Shoulder Left
-MRAxillaLeft|6496|MR Axilla Left|6542|MRA Upper Extremity Left
-MRAxillaLeft|6496|MR Axilla Left|6529|MR Wrist Left
-MRAxillaLeft|6496|MR Axilla Left|6510|MR Forearm Left
-WithContrast|6649|CT Femur Left I+|6416|CT Femur Left
-WithContrast|6658|CT Hand Right I+|6425|CT Hand Right
-MRBrainTrigeminal|6386|MR Brain Trigeminal|6340|MR Skull Base
-MRBrainTrigeminal|6386|MR Brain Trigeminal|6404|MR Sinus
-MRBrainTrigeminal|6386|MR Brain Trigeminal|6398|MR Parotid
-MRBrainTrigeminal|6386|MR Brain Trigeminal|6396|MR Orbits
-MRBrainTrigeminal|6386|MR Brain Trigeminal|6537|MR TMJ
-MRBrainTrigeminal|6386|MR Brain Trigeminal|6534|MRA Head
-MRBrainTrigeminal|6386|MR Brain Trigeminal|6532|MR Brain
-MRBrainTrigeminal|6386|MR Brain Trigeminal|6725|MRA Brain Neck
-MRBrainTrigeminal|6386|MR Brain Trigeminal|6531|MRA Spine
-MRBrainTrigeminal|6386|MR Brain Trigeminal|6533|MR Face
-CTChestAbdomen|6345|CT Chest Abdomen|6465|CT Thoracic Spine
-CTChestAbdomen|6345|CT Chest Abdomen|6452|CTA Chest
-CTChestAbdomen|6345|CT Chest Abdomen|6449|CT Chest PE
-CTChestAbdomen|6345|CT Chest Abdomen|6645|CT Chest Trachea
-CTChestAbdomen|6345|CT Chest Abdomen|6411|CT Cardiac
-CTChestAbdomen|6345|CT Chest Abdomen|6448|CT Chest
-CTChestAbdomen|6345|CT Chest Abdomen|6681|CTA Chest Venogram
-CTChestAbdomen|6345|CT Chest Abdomen|6454|CTA Coronary Artery
-XRACJointBilateral|6737|XR AC Joint Bilateral|6742|XR Hand Bilateral
-XRACJointBilateral|6737|XR AC Joint Bilateral|6747|XR Shoulder Bilateral
-XRACJointBilateral|6737|XR AC Joint Bilateral|6748|XR Wrist Bilateral
-Arthrogram|6359|MR Wrist Arthrogram Right|6530|MR Wrist Right
-WithContrast|6657|CT Hand Left I+|6424|CT Hand Left
-MRThoracicLumbarSpineIPlus|6719|MR Thoracic Lumbar Spine I+|6389|MR Chest Pleura
-MRThoracicLumbarSpineIPlus|6719|MR Thoracic Lumbar Spine I+|6540|MRA Chest
-MRThoracicLumbarSpineIPlus|6719|MR Thoracic Lumbar Spine I+|6546|MR Thoracic Spine
-MRThoracicLumbarSpineIPlus|6719|MR Thoracic Lumbar Spine I+|6391|MR Chest Wall
-MRThoracicLumbarSpineIPlus|6719|MR Thoracic Lumbar Spine I+|6388|MR Chest Mediastinum
-MRThoracicLumbarSpineIPlus|6719|MR Thoracic Lumbar Spine I+|6491|MR Cardiac
-MRThoracicLumbarSpineIPlus|6719|MR Thoracic Lumbar Spine I+|6538|MR Chest
-MRThoracicLumbarSpineIPlus|6719|MR Thoracic Lumbar Spine I+|6339|MR Chest Nodule
-WithContrast|6644|CT Chest I+|6448|CT Chest
-Venogram|6338|MRA Abdomen Venogram|6539|MRA Abdomen
-XRHipswithPelvisBilateral|6744|XR Hips with Pelvis Bilateral|6743|XR Hip Bilateral
-XRChestNippleMarkers|6740|XR Chest Nipple Markers|6637|XR Chest
-XRChestNippleMarkers|6740|XR Chest Nipple Markers|6629|XR Ribs Right
-XRChestNippleMarkers|6740|XR Chest Nipple Markers|6746|XR Ribs Bilateral
-XRChestNippleMarkers|6740|XR Chest Nipple Markers|6628|XR Ribs Left
-Arthrogram|6353|MR Hip Arthrogram Right|6515|MR Hip Right
-CTChestNodule|6373|CT Chest Nodule|6465|CT Thoracic Spine
-CTChestNodule|6373|CT Chest Nodule|6452|CTA Chest
-CTChestNodule|6373|CT Chest Nodule|6449|CT Chest PE
-CTChestNodule|6373|CT Chest Nodule|6645|CT Chest Trachea
-CTChestNodule|6373|CT Chest Nodule|6411|CT Cardiac
-CTChestNodule|6373|CT Chest Nodule|6448|CT Chest
-CTChestNodule|6373|CT Chest Nodule|6681|CTA Chest Venogram
-CTChestNodule|6373|CT Chest Nodule|6454|CTA Coronary Artery
-WithContrast|6395|MR Lumbar Spine I+|6545|MR Lumbar Spine
-FLLoopogram|6472|FL Loopogram|6474|FL Upper GI
-FLLoopogram|6472|FL Loopogram|6466|FL Barium Enema
-WithContrast|6652|CT Finger Right I+|6419|CT Finger Right
-WithContrast|6654|CT Foot Right I+|6421|CT Foot Right
-Arthrogram|6351|MR Elbow Arthrogram Right|6503|MR Elbow Right
-WithContrast|6698|MR Femur Right I+|6505|MR Femur Right
-CTPelvisBone|6463|CT Pelvis Bone|6434|CT Sacrum
-CTPelvisBone|6463|CT Pelvis Bone|6426|CT Hip Left
-CTPelvisBone|6463|CT Pelvis Bone|6427|CT Hip Right
-CTPelvisBone|6463|CT Pelvis Bone|6462|CT Pelvis
-CTPelvisBone|6463|CT Pelvis Bone|6447|CTA Pelvis
-CTPelvisBone|6463|CT Pelvis Bone|6410|CT Urogram
-USBreastAxillaLeft|6734|US Breast Axilla Left|6571|US Breast Left
-WithContrast|6674|CT Tibia Fibula Right I+|6433|CT Tibia Fibula Right
-WithContrast|6677|CT Wrist Left I+|6439|CT Wrist Left
-WithContrast|6699|MR Finger Left I+|6506|MR Finger Left
-WithContrast|6651|CT Finger Left I+|6418|CT Finger Left
-USSonohysterogram|6565|US Sonohysterogram|6569|US Scrotum
-USSonohysterogram|6565|US Sonohysterogram|6562|US Bladder
-USSonohysterogram|6565|US Sonohysterogram|6566|US Pelvis
-USSonohysterogram|6565|US Sonohysterogram|6567|US Penis
-USSonohysterogram|6565|US Sonohysterogram|6568|US Prostate
-Venogram|6684|CTA Lower Extremity Venogram Right|6456|CTA Lower Extremity Right
-USBreastAxillaBilateral|6733|US Breast Axilla Bilateral|6571|US Breast Left
-USBreastAxillaBilateral|6733|US Breast Axilla Bilateral|6572|US Breast Right
-USBreastAxillaBilateral|6733|US Breast Axilla Bilateral|6307|Recommendation for Additional Imaging - Laterality Unspecified
-MRScapulaRightIPlus|6716|MR Scapula Right I+|6517|MR Humerus Right
-MRScapulaRightIPlus|6716|MR Scapula Right I+|6511|MR Forearm Right
-MRScapulaRightIPlus|6716|MR Scapula Right I+|6507|MR Finger Right
-MRScapulaRightIPlus|6716|MR Scapula Right I+|6530|MR Wrist Right
-MRScapulaRightIPlus|6716|MR Scapula Right I+|6543|MRA Upper Extremity Right
-MRScapulaRightIPlus|6716|MR Scapula Right I+|6526|MR Shoulder Right
-MRScapulaRightIPlus|6716|MR Scapula Right I+|6513|MR Hand Right
-MRScapulaRightIPlus|6716|MR Scapula Right I+|6503|MR Elbow Right
-USLiverContrastEnhanced|6330|US Liver Contrast Enhanced|6570|US Right Upper Quadrant
-USLiverContrastEnhanced|6330|US Liver Contrast Enhanced|6753|US Abdomen Vasculature
-USLiverContrastEnhanced|6330|US Liver Contrast Enhanced|6585|US Aorta
-USLiverContrastEnhanced|6330|US Liver Contrast Enhanced|6563|US Renal
-USLiverContrastEnhanced|6330|US Liver Contrast Enhanced|6590|US Renal Artery
-USLiverContrastEnhanced|6330|US Liver Contrast Enhanced|6560|US Abdomen Complete
-NMWBCScan|6552|NM WBC Scan|6548|NM Bone Scan
-WithContrast|6659|CT Head I+|6443|CT Head
-CTAbdomenPelvisHypervascularTumor|6335|CT Abdomen Pelvis Hypervascular Tumor|6374|CT Cystogram
-CTAbdomenPelvisHypervascularTumor|6335|CT Abdomen Pelvis Hypervascular Tumor|6409|CT Abdomen Pelvis
-CTAbdomenPelvisHypervascularTumor|6335|CT Abdomen Pelvis Hypervascular Tumor|6377|CT Renal
-CTAbdomenPelvisHypervascularTumor|6335|CT Abdomen Pelvis Hypervascular Tumor|6639|CT Abdomen
-CTAbdomenPelvisHypervascularTumor|6335|CT Abdomen Pelvis Hypervascular Tumor|6407|CT Colonography
-CTAbdomenPelvisHypervascularTumor|6335|CT Abdomen Pelvis Hypervascular Tumor|6371|CT Adrenal
-CTAbdomenPelvisHypervascularTumor|6335|CT Abdomen Pelvis Hypervascular Tumor|6408|CT Enterography
-CTAbdomenPelvisHypervascularTumor|6335|CT Abdomen Pelvis Hypervascular Tumor|6451|CTA Abdomen Pelvis
-CTAbdomenPelvisHypervascularTumor|6335|CT Abdomen Pelvis Hypervascular Tumor|6342|CT Pancreas
-CTAbdomenPelvisHypervascularTumor|6335|CT Abdomen Pelvis Hypervascular Tumor|6679|CTA Abdomen
-CTAbdomenPelvisHypervascularTumor|6335|CT Abdomen Pelvis Hypervascular Tumor|6680|CTA Abdomen Pelvis Venogram
-CTAbdomenPelvisHypervascularTumor|6335|CT Abdomen Pelvis Hypervascular Tumor|6376|CT Liver
-CTAbdomenPelvisHypervascularTumor|6335|CT Abdomen Pelvis Hypervascular Tumor|6460|CT Lumbar Spine
-MRThoracicLumbarSpine|6364|MR Thoracic Lumbar Spine|6389|MR Chest Pleura
-MRThoracicLumbarSpine|6364|MR Thoracic Lumbar Spine|6540|MRA Chest
-MRThoracicLumbarSpine|6364|MR Thoracic Lumbar Spine|6546|MR Thoracic Spine
-MRThoracicLumbarSpine|6364|MR Thoracic Lumbar Spine|6391|MR Chest Wall
-MRThoracicLumbarSpine|6364|MR Thoracic Lumbar Spine|6388|MR Chest Mediastinum
-MRThoracicLumbarSpine|6364|MR Thoracic Lumbar Spine|6491|MR Cardiac
-MRThoracicLumbarSpine|6364|MR Thoracic Lumbar Spine|6538|MR Chest
-MRThoracicLumbarSpine|6364|MR Thoracic Lumbar Spine|6339|MR Chest Nodule
-MRAThoracicOutlet|6730|MRA Thoracic Outlet|6517|MR Humerus Right
-MRAThoracicOutlet|6730|MRA Thoracic Outlet|6516|MR Humerus Left
-MRAThoracicOutlet|6730|MRA Thoracic Outlet|6507|MR Finger Right
-MRAThoracicOutlet|6730|MRA Thoracic Outlet|6530|MR Wrist Right
-MRAThoracicOutlet|6730|MRA Thoracic Outlet|6512|MR Hand Left
-MRAThoracicOutlet|6730|MRA Thoracic Outlet|6543|MRA Upper Extremity Right
-MRAThoracicOutlet|6730|MRA Thoracic Outlet|6542|MRA Upper Extremity Left
-MRAThoracicOutlet|6730|MRA Thoracic Outlet|6526|MR Shoulder Right
-MRAThoracicOutlet|6730|MRA Thoracic Outlet|6529|MR Wrist Left
-MRAThoracicOutlet|6730|MRA Thoracic Outlet|6510|MR Forearm Left
-MRAThoracicOutlet|6730|MRA Thoracic Outlet|6511|MR Forearm Right
-MRAThoracicOutlet|6730|MRA Thoracic Outlet|6503|MR Elbow Right
-MRAThoracicOutlet|6730|MRA Thoracic Outlet|6506|MR Finger Left
-MRAThoracicOutlet|6730|MRA Thoracic Outlet|6502|MR Elbow Left
-MRAThoracicOutlet|6730|MRA Thoracic Outlet|6525|MR Shoulder Left
-MRAThoracicOutlet|6730|MRA Thoracic Outlet|6513|MR Hand Right
-XRChestLordotic|6739|XR Chest Lordotic|6637|XR Chest
-XRChestLordotic|6739|XR Chest Lordotic|6629|XR Ribs Right
-XRChestLordotic|6739|XR Chest Lordotic|6746|XR Ribs Bilateral
-XRChestLordotic|6739|XR Chest Lordotic|6628|XR Ribs Left
-FLFistulogramSinogram|6470|FL Fistulogram Sinogram|6474|FL Upper GI
-FLFistulogramSinogram|6470|FL Fistulogram Sinogram|6466|FL Barium Enema
-WithContrast|6670|CT Shoulder Left I+|6435|CT Shoulder Left
-WithContrast|6695|MR Elbow Right I+|6503|MR Elbow Right
-MRAThoracicDuct|6729|MRA Thoracic Duct|6389|MR Chest Pleura
-MRAThoracicDuct|6729|MRA Thoracic Duct|6540|MRA Chest
-MRAThoracicDuct|6729|MRA Thoracic Duct|6546|MR Thoracic Spine
-MRAThoracicDuct|6729|MRA Thoracic Duct|6391|MR Chest Wall
-MRAThoracicDuct|6729|MRA Thoracic Duct|6388|MR Chest Mediastinum
-MRAThoracicDuct|6729|MRA Thoracic Duct|6491|MR Cardiac
-MRAThoracicDuct|6729|MRA Thoracic Duct|6538|MR Chest
-MRAThoracicDuct|6729|MRA Thoracic Duct|6339|MR Chest Nodule
-WithContrast|6711|MR Knee Left I+|6518|MR Knee Left
-XRACJointRight|6598|XR AC Joint Right|6613|XR Foot Right
-XRACJointRight|6598|XR AC Joint Right|6607|XR Forearm Right
-XRACJointRight|6598|XR AC Joint Right|6611|XR Finger Right
-XRACJointRight|6598|XR AC Joint Right|6631|XR Shoulder Right
-XRACJointRight|6598|XR AC Joint Right|6605|XR Elbow Right
-XRACJointRight|6598|XR AC Joint Right|6635|XR Wrist Right
-XRACJointRight|6598|XR AC Joint Right|6621|XR Humerus Right
-XRACJointRight|6598|XR AC Joint Right|6619|XR Hand Right
-WithContrast|6702|MR Foot Right I+|6509|MR Foot Right
-WithContrast|6704|MR Forearm Right I+|6511|MR Forearm Right
-Arthrogram|6358|MR Wrist Arthrogram Left|6529|MR Wrist Left
-Venogram|6380|CTA Head Venogram|6444|CTA Head
-WithContrast|6705|MR Hand Left I+|6512|MR Hand Left
-Arthrogram|6350|MR Elbow Arthrogram Left|6502|MR Elbow Left
-MRFaceCranialNerves|6696|MR Face Cranial Nerves|6340|MR Skull Base
-MRFaceCranialNerves|6696|MR Face Cranial Nerves|6404|MR Sinus
-MRFaceCranialNerves|6696|MR Face Cranial Nerves|6398|MR Parotid
-MRFaceCranialNerves|6696|MR Face Cranial Nerves|6396|MR Orbits
-MRFaceCranialNerves|6696|MR Face Cranial Nerves|6537|MR TMJ
-MRFaceCranialNerves|6696|MR Face Cranial Nerves|6534|MRA Head
-MRFaceCranialNerves|6696|MR Face Cranial Nerves|6532|MR Brain
-MRFaceCranialNerves|6696|MR Face Cranial Nerves|6725|MRA Brain Neck
-MRFaceCranialNerves|6696|MR Face Cranial Nerves|6531|MRA Spine
-MRFaceCranialNerves|6696|MR Face Cranial Nerves|6533|MR Face
-NMPETFES|6368|NM PET FES|6732|NM PET Skull Base to Mid Thighs
-NMPETFES|6368|NM PET FES|6731|NM PET Scalp to Toes
-NMPETFES|6368|NM PET FES|6369|NM PET PSMA
-MRBrachialPlexusLeft|6498|MR Brachial Plexus Left|6516|MR Humerus Left
-MRBrachialPlexusLeft|6498|MR Brachial Plexus Left|6506|MR Finger Left
-MRBrachialPlexusLeft|6498|MR Brachial Plexus Left|6502|MR Elbow Left
-MRBrachialPlexusLeft|6498|MR Brachial Plexus Left|6512|MR Hand Left
-MRBrachialPlexusLeft|6498|MR Brachial Plexus Left|6525|MR Shoulder Left
-MRBrachialPlexusLeft|6498|MR Brachial Plexus Left|6542|MRA Upper Extremity Left
-MRBrachialPlexusLeft|6498|MR Brachial Plexus Left|6529|MR Wrist Left
-MRBrachialPlexusLeft|6498|MR Brachial Plexus Left|6510|MR Forearm Left
-WithContrast|6640|CT Ankle Left I+|6412|CT Ankle Left
-CTToeLeft|6437|CT Toe Left|6432|CT Tibia Fibula Left
-CTToeLeft|6437|CT Toe Left|6412|CT Ankle Left
-CTToeLeft|6437|CT Toe Left|6420|CT Foot Left
-CTToeLeft|6437|CT Toe Left|6430|CT Knee Left
-CTToeLeft|6437|CT Toe Left|6416|CT Femur Left
-CTToeLeft|6437|CT Toe Left|6455|CTA Lower Extremity Left
-WithContrast|6700|MR Finger Right I+|6507|MR Finger Right
-MRBrachialPlexusRight|6499|MR Brachial Plexus Right|6517|MR Humerus Right
-MRBrachialPlexusRight|6499|MR Brachial Plexus Right|6511|MR Forearm Right
-MRBrachialPlexusRight|6499|MR Brachial Plexus Right|6507|MR Finger Right
-MRBrachialPlexusRight|6499|MR Brachial Plexus Right|6530|MR Wrist Right
-MRBrachialPlexusRight|6499|MR Brachial Plexus Right|6543|MRA Upper Extremity Right
-MRBrachialPlexusRight|6499|MR Brachial Plexus Right|6526|MR Shoulder Right
-MRBrachialPlexusRight|6499|MR Brachial Plexus Right|6513|MR Hand Right
-MRBrachialPlexusRight|6499|MR Brachial Plexus Right|6503|MR Elbow Right
-WithContrast|6721|MR Tibia Fibula Right I+|6528|MR Tibia Fibula Right
-MRPelvis|6334|MR Pelvis|6521|MR Pelvis Bone
-MRPelvis|6334|MR Pelvis|6487|MR Penis Scrotum
-MRPelvis|6334|MR Pelvis|6489|MR Urogram
-MRPelvis|6334|MR Pelvis|6486|MR Pelvis GIGU
-MRPelvis|6334|MR Pelvis|6402|MR Rectum
-MRPelvis|6334|MR Pelvis|6541|MRA Pelvis
-MRPelvis|6334|MR Pelvis|6485|MR Pelvis Gyn
-MRPelvis|6334|MR Pelvis|6515|MR Hip Right
-MRPelvis|6334|MR Pelvis|6488|MR Prostate
-MRPelvis|6334|MR Pelvis|6522|MR Sacrum
-MRPelvis|6334|MR Pelvis|6514|MR Hip Left
-Arthrogram|6349|CT Shoulder Arthrogram Right|6436|CT Shoulder Right
-USLiverElastography|6564|US Liver Elastography|6570|US Right Upper Quadrant
-USLiverElastography|6564|US Liver Elastography|6753|US Abdomen Vasculature
-USLiverElastography|6564|US Liver Elastography|6585|US Aorta
-USLiverElastography|6564|US Liver Elastography|6563|US Renal
-USLiverElastography|6564|US Liver Elastography|6590|US Renal Artery
-USLiverElastography|6564|US Liver Elastography|6560|US Abdomen Complete
-Venogram|6365|MRA Upper Extremity Venogram Right|6543|MRA Upper Extremity Right
-WithContrast|6392|MR Cervical Spine I+|6544|MR Cervical Spine
-WithContrast|6701|MR Foot Left I+|6508|MR Foot Left
-MRPelvisAppendix|6399|MR Pelvis Appendix|6521|MR Pelvis Bone
-MRPelvisAppendix|6399|MR Pelvis Appendix|6487|MR Penis Scrotum
-MRPelvisAppendix|6399|MR Pelvis Appendix|6489|MR Urogram
-MRPelvisAppendix|6399|MR Pelvis Appendix|6486|MR Pelvis GIGU
-MRPelvisAppendix|6399|MR Pelvis Appendix|6402|MR Rectum
-MRPelvisAppendix|6399|MR Pelvis Appendix|6541|MRA Pelvis
-MRPelvisAppendix|6399|MR Pelvis Appendix|6485|MR Pelvis Gyn
-MRPelvisAppendix|6399|MR Pelvis Appendix|6515|MR Hip Right
-MRPelvisAppendix|6399|MR Pelvis Appendix|6488|MR Prostate
-MRPelvisAppendix|6399|MR Pelvis Appendix|6522|MR Sacrum
-MRPelvisAppendix|6399|MR Pelvis Appendix|6514|MR Hip Left
-WithContrast|6648|CT Face I+|6441|CT Face
-WithContrast|6718|MR Shoulder Right I+|6526|MR Shoulder Right
-WithContrast|6678|CT Wrist Right I+|6440|CT Wrist Right
-WithContrast|6672|CT Thoracic Spine I+|6465|CT Thoracic Spine
-MRSacralPlexus|6520|MR Sacral Plexus|6340|MR Skull Base
-MRSacralPlexus|6520|MR Sacral Plexus|6404|MR Sinus
-MRSacralPlexus|6520|MR Sacral Plexus|6398|MR Parotid
-MRSacralPlexus|6520|MR Sacral Plexus|6396|MR Orbits
-MRSacralPlexus|6520|MR Sacral Plexus|6537|MR TMJ
-MRSacralPlexus|6520|MR Sacral Plexus|6534|MRA Head
-MRSacralPlexus|6520|MR Sacral Plexus|6532|MR Brain
-MRSacralPlexus|6520|MR Sacral Plexus|6725|MRA Brain Neck
-MRSacralPlexus|6520|MR Sacral Plexus|6531|MRA Spine
-MRSacralPlexus|6520|MR Sacral Plexus|6533|MR Face
-MRAxillaRight|6497|MR Axilla Right|6517|MR Humerus Right
-MRAxillaRight|6497|MR Axilla Right|6511|MR Forearm Right
-MRAxillaRight|6497|MR Axilla Right|6507|MR Finger Right
-MRAxillaRight|6497|MR Axilla Right|6530|MR Wrist Right
-MRAxillaRight|6497|MR Axilla Right|6543|MRA Upper Extremity Right
-MRAxillaRight|6497|MR Axilla Right|6526|MR Shoulder Right
-MRAxillaRight|6497|MR Axilla Right|6513|MR Hand Right
-MRAxillaRight|6497|MR Axilla Right|6503|MR Elbow Right
-WithContrast|6687|MR Ankle Right I+|6495|MR Ankle Right
-WithContrast|6712|MR Knee Right I+|6519|MR Knee Right
-Arthrogram|6355|MR Knee Arthrogram Right|6519|MR Knee Right
-WithContrast|6714|MR Sacrum I+|6522|MR Sacrum
-NMLungVentilationPerfusion|6554|NM Lung Ventilation Perfusion|6547|NC PET Cardiac
-MRCervicalThoracicSpineIPlus|6691|MR Cervical Thoracic Spine I+|6544|MR Cervical Spine
-MRCervicalThoracicSpineIPlus|6691|MR Cervical Thoracic Spine I+|6536|MRA Neck
-MRCervicalThoracicSpineIPlus|6691|MR Cervical Thoracic Spine I+|6535|MR Neck
-CTAChestAbdomenPelvis|6344|CTA Chest Abdomen Pelvis|6465|CT Thoracic Spine
-CTAChestAbdomenPelvis|6344|CTA Chest Abdomen Pelvis|6452|CTA Chest
-CTAChestAbdomenPelvis|6344|CTA Chest Abdomen Pelvis|6449|CT Chest PE
-CTAChestAbdomenPelvis|6344|CTA Chest Abdomen Pelvis|6645|CT Chest Trachea
-CTAChestAbdomenPelvis|6344|CTA Chest Abdomen Pelvis|6411|CT Cardiac
-CTAChestAbdomenPelvis|6344|CTA Chest Abdomen Pelvis|6448|CT Chest
-CTAChestAbdomenPelvis|6344|CTA Chest Abdomen Pelvis|6681|CTA Chest Venogram
-CTAChestAbdomenPelvis|6344|CTA Chest Abdomen Pelvis|6454|CTA Coronary Artery
-Arthrogram|6352|MR Hip Arthrogram Left|6514|MR Hip Left
-USAbdomenLimited|6370|US Abdomen Limited|6570|US Right Upper Quadrant
-USAbdomenLimited|6370|US Abdomen Limited|6753|US Abdomen Vasculature
-USAbdomenLimited|6370|US Abdomen Limited|6585|US Aorta
-USAbdomenLimited|6370|US Abdomen Limited|6563|US Renal
-USAbdomenLimited|6370|US Abdomen Limited|6590|US Renal Artery
-USAbdomenLimited|6370|US Abdomen Limited|6560|US Abdomen Complete
-CTCardiacMass|6642|CT Cardiac Mass|6465|CT Thoracic Spine
-CTCardiacMass|6642|CT Cardiac Mass|6452|CTA Chest
-CTCardiacMass|6642|CT Cardiac Mass|6449|CT Chest PE
-CTCardiacMass|6642|CT Cardiac Mass|6645|CT Chest Trachea
-CTCardiacMass|6642|CT Cardiac Mass|6411|CT Cardiac
-CTCardiacMass|6642|CT Cardiac Mass|6448|CT Chest
-CTCardiacMass|6642|CT Cardiac Mass|6681|CTA Chest Venogram
-CTCardiacMass|6642|CT Cardiac Mass|6454|CTA Coronary Artery
-XRClavicleRight|6602|XR Clavicle Right|6613|XR Foot Right
-XRClavicleRight|6602|XR Clavicle Right|6607|XR Forearm Right
-XRClavicleRight|6602|XR Clavicle Right|6611|XR Finger Right
-XRClavicleRight|6602|XR Clavicle Right|6631|XR Shoulder Right
-XRClavicleRight|6602|XR Clavicle Right|6605|XR Elbow Right
-XRClavicleRight|6602|XR Clavicle Right|6635|XR Wrist Right
-XRClavicleRight|6602|XR Clavicle Right|6621|XR Humerus Right
-XRClavicleRight|6602|XR Clavicle Right|6619|XR Hand Right
-MRBrainPituitary|6385|MR Brain Pituitary|6340|MR Skull Base
-MRBrainPituitary|6385|MR Brain Pituitary|6404|MR Sinus
-MRBrainPituitary|6385|MR Brain Pituitary|6398|MR Parotid
-MRBrainPituitary|6385|MR Brain Pituitary|6396|MR Orbits
-MRBrainPituitary|6385|MR Brain Pituitary|6537|MR TMJ
-MRBrainPituitary|6385|MR Brain Pituitary|6534|MRA Head
-MRBrainPituitary|6385|MR Brain Pituitary|6532|MR Brain
-MRBrainPituitary|6385|MR Brain Pituitary|6725|MRA Brain Neck
-MRBrainPituitary|6385|MR Brain Pituitary|6531|MRA Spine
-MRBrainPituitary|6385|MR Brain Pituitary|6533|MR Face
-WithContrast|6717|MR Shoulder Left I+|6525|MR Shoulder Left
-USAxillaNonBreastLeft|6573|US Axilla Non Breast Left|6588|US Upper Extremity Artery Left
-USAxillaNonBreastLeft|6573|US Axilla Non Breast Left|6594|US Upper Extremity Venous Left
-USAxillaNonBreastLeft|6573|US Axilla Non Breast Left|6577|US Shoulder Left
-NMPETCTProstateAxumin|6559|NM PET CT Prostate Axumin|6732|NM PET Skull Base to Mid Thighs
-NMPETCTProstateAxumin|6559|NM PET CT Prostate Axumin|6731|NM PET Scalp to Toes
-NMPETCTProstateAxumin|6559|NM PET CT Prostate Axumin|6369|NM PET PSMA
-WithContrast|6387|MR Cervical Thoracic Lumbar Spine I+|6363|MR Cervical Thoracic Lumbar Spine
-WithContrast|6653|CT Foot Left I+|6420|CT Foot Left
-WithContrast|6650|CT Femur Right I+|6417|CT Femur Right
-FLSmallBowelFollowThrough|6473|FL Small Bowel Follow Through|6474|FL Upper GI
-FLSmallBowelFollowThrough|6473|FL Small Bowel Follow Through|6466|FL Barium Enema
-MRPlacenta|6401|MR Placenta|6521|MR Pelvis Bone
-MRPlacenta|6401|MR Placenta|6487|MR Penis Scrotum
-MRPlacenta|6401|MR Placenta|6489|MR Urogram
-MRPlacenta|6401|MR Placenta|6486|MR Pelvis GIGU
-MRPlacenta|6401|MR Placenta|6402|MR Rectum
-MRPlacenta|6401|MR Placenta|6541|MRA Pelvis
-MRPlacenta|6401|MR Placenta|6485|MR Pelvis Gyn
-MRPlacenta|6401|MR Placenta|6515|MR Hip Right
-MRPlacenta|6401|MR Placenta|6488|MR Prostate
-MRPlacenta|6401|MR Placenta|6522|MR Sacrum
-MRPlacenta|6401|MR Placenta|6514|MR Hip Left
-Arthrogram|6346|CT Knee Arthrogram Left|6430|CT Knee Left
-WithContrast|6708|MR Hip Right I+|6515|MR Hip Right
-MRPelvisPerianalFistula|6400|MR Pelvis Perianal Fistula|6521|MR Pelvis Bone
-MRPelvisPerianalFistula|6400|MR Pelvis Perianal Fistula|6487|MR Penis Scrotum
-MRPelvisPerianalFistula|6400|MR Pelvis Perianal Fistula|6489|MR Urogram
-MRPelvisPerianalFistula|6400|MR Pelvis Perianal Fistula|6486|MR Pelvis GIGU
-MRPelvisPerianalFistula|6400|MR Pelvis Perianal Fistula|6402|MR Rectum
-MRPelvisPerianalFistula|6400|MR Pelvis Perianal Fistula|6541|MRA Pelvis
-MRPelvisPerianalFistula|6400|MR Pelvis Perianal Fistula|6485|MR Pelvis Gyn
-MRPelvisPerianalFistula|6400|MR Pelvis Perianal Fistula|6515|MR Hip Right
-MRPelvisPerianalFistula|6400|MR Pelvis Perianal Fistula|6488|MR Prostate
-MRPelvisPerianalFistula|6400|MR Pelvis Perianal Fistula|6522|MR Sacrum
-MRPelvisPerianalFistula|6400|MR Pelvis Perianal Fistula|6514|MR Hip Left
-MRClavicleRightIPlus|6693|MR Clavicle Right I+|6517|MR Humerus Right
-MRClavicleRightIPlus|6693|MR Clavicle Right I+|6511|MR Forearm Right
-MRClavicleRightIPlus|6693|MR Clavicle Right I+|6507|MR Finger Right
-MRClavicleRightIPlus|6693|MR Clavicle Right I+|6530|MR Wrist Right
-MRClavicleRightIPlus|6693|MR Clavicle Right I+|6543|MRA Upper Extremity Right
-MRClavicleRightIPlus|6693|MR Clavicle Right I+|6526|MR Shoulder Right
-MRClavicleRightIPlus|6693|MR Clavicle Right I+|6513|MR Hand Right
-MRClavicleRightIPlus|6693|MR Clavicle Right I+|6503|MR Elbow Right
-MRScapulaLeftIPlus|6715|MR Scapula Left I+|6516|MR Humerus Left
-MRScapulaLeftIPlus|6715|MR Scapula Left I+|6506|MR Finger Left
-MRScapulaLeftIPlus|6715|MR Scapula Left I+|6502|MR Elbow Left
-MRScapulaLeftIPlus|6715|MR Scapula Left I+|6512|MR Hand Left
-MRScapulaLeftIPlus|6715|MR Scapula Left I+|6525|MR Shoulder Left
-MRScapulaLeftIPlus|6715|MR Scapula Left I+|6542|MRA Upper Extremity Left
-MRScapulaLeftIPlus|6715|MR Scapula Left I+|6529|MR Wrist Left
-MRScapulaLeftIPlus|6715|MR Scapula Left I+|6510|MR Forearm Left
-MRDefecography|6393|MR Defecography|6521|MR Pelvis Bone
-MRDefecography|6393|MR Defecography|6487|MR Penis Scrotum
-MRDefecography|6393|MR Defecography|6489|MR Urogram
-MRDefecography|6393|MR Defecography|6486|MR Pelvis GIGU
-MRDefecography|6393|MR Defecography|6402|MR Rectum
-MRDefecography|6393|MR Defecography|6541|MRA Pelvis
-MRDefecography|6393|MR Defecography|6485|MR Pelvis Gyn
-MRDefecography|6393|MR Defecography|6515|MR Hip Right
-MRDefecography|6393|MR Defecography|6488|MR Prostate
-MRDefecography|6393|MR Defecography|6522|MR Sacrum
-MRDefecography|6393|MR Defecography|6514|MR Hip Left
-WithContrast|6647|CT Elbow Right I+|6415|CT Elbow Right
-Arthrogram|6357|MR Shoulder Arthrogram Right|6526|MR Shoulder Right
-WithContrast|6661|CT Hip Right I+|6427|CT Hip Right
-CTToeLeftIPlus|6675|CT Toe Left I+|6432|CT Tibia Fibula Left
-CTToeLeftIPlus|6675|CT Toe Left I+|6412|CT Ankle Left
-CTToeLeftIPlus|6675|CT Toe Left I+|6420|CT Foot Left
-CTToeLeftIPlus|6675|CT Toe Left I+|6430|CT Knee Left
-CTToeLeftIPlus|6675|CT Toe Left I+|6416|CT Femur Left
-CTToeLeftIPlus|6675|CT Toe Left I+|6455|CTA Lower Extremity Left
-WithContrast|6673|CT Tibia Fibula Left I+|6432|CT Tibia Fibula Left
-MRLiverIronQuantification|6336|MR Liver Iron Quantification|6403|MR Renal
-MRLiverIronQuantification|6336|MR Liver Iron Quantification|6394|MR Liver
-MRLiverIronQuantification|6336|MR Liver Iron Quantification|6724|MRA Abdomen Pelvis Venogram
-MRLiverIronQuantification|6336|MR Liver Iron Quantification|6539|MRA Abdomen
-MRLiverIronQuantification|6336|MR Liver Iron Quantification|6337|MR Abdomen with MRCP
-MRLiverIronQuantification|6336|MR Liver Iron Quantification|6483|MR Enterography
-MRLiverIronQuantification|6336|MR Liver Iron Quantification|6545|MR Lumbar Spine
-MRLiverIronQuantification|6336|MR Liver Iron Quantification|6367|MRA Abdomen Pelvis
-MRLiverIronQuantification|6336|MR Liver Iron Quantification|6361|MR Abdomen Pelvis
-MRLiverIronQuantification|6336|MR Liver Iron Quantification|6382|MR Adrenal
-MRLiverIronQuantification|6336|MR Liver Iron Quantification|6481|MR Abdomen
-USAxillaNonBreastRight|6574|US Axilla Non Breast Right|6578|US Shoulder Right
-USAxillaNonBreastRight|6574|US Axilla Non Breast Right|6595|US Upper Extremity Venous Right
-USAxillaNonBreastRight|6574|US Axilla Non Breast Right|6589|US Upper Extremity Artery Right
-USParotid|6580|US Parotid|6581|US Brain
-Arthrogram|6354|MR Knee Arthrogram Left|6518|MR Knee Left
-MRScapulaLeft|6523|MR Scapula Left|6516|MR Humerus Left
-MRScapulaLeft|6523|MR Scapula Left|6506|MR Finger Left
-MRScapulaLeft|6523|MR Scapula Left|6502|MR Elbow Left
-MRScapulaLeft|6523|MR Scapula Left|6512|MR Hand Left
-MRScapulaLeft|6523|MR Scapula Left|6525|MR Shoulder Left
-MRScapulaLeft|6523|MR Scapula Left|6542|MRA Upper Extremity Left
-MRScapulaLeft|6523|MR Scapula Left|6529|MR Wrist Left
-MRScapulaLeft|6523|MR Scapula Left|6510|MR Forearm Left
-WithContrast|6709|MR Humerus Left I+|6516|MR Humerus Left
-MRAChestAbdomen|6726|MRA Chest Abdomen|6389|MR Chest Pleura
-MRAChestAbdomen|6726|MRA Chest Abdomen|6540|MRA Chest
-MRAChestAbdomen|6726|MRA Chest Abdomen|6546|MR Thoracic Spine
-MRAChestAbdomen|6726|MRA Chest Abdomen|6391|MR Chest Wall
-MRAChestAbdomen|6726|MRA Chest Abdomen|6388|MR Chest Mediastinum
-MRAChestAbdomen|6726|MRA Chest Abdomen|6491|MR Cardiac
-MRAChestAbdomen|6726|MRA Chest Abdomen|6538|MR Chest
-MRAChestAbdomen|6726|MRA Chest Abdomen|6339|MR Chest Nodule
-Venogram|6406|MRA Head Venogram|6534|MRA Head
-CTChestScreeningFollowup|6450|CT Chest Screening Follow-up|6465|CT Thoracic Spine
-CTChestScreeningFollowup|6450|CT Chest Screening Follow-up|6452|CTA Chest
-CTChestScreeningFollowup|6450|CT Chest Screening Follow-up|6449|CT Chest PE
-CTChestScreeningFollowup|6450|CT Chest Screening Follow-up|6645|CT Chest Trachea
-CTChestScreeningFollowup|6450|CT Chest Screening Follow-up|6411|CT Cardiac
-CTChestScreeningFollowup|6450|CT Chest Screening Follow-up|6448|CT Chest
-CTChestScreeningFollowup|6450|CT Chest Screening Follow-up|6681|CTA Chest Venogram
-CTChestScreeningFollowup|6450|CT Chest Screening Follow-up|6454|CTA Coronary Artery
-WithContrast|6723|MR Wrist Right I+|6530|MR Wrist Right
-MRBrainSpectroscopy|6341|MR Brain Spectroscopy|6340|MR Skull Base
-MRBrainSpectroscopy|6341|MR Brain Spectroscopy|6404|MR Sinus
-MRBrainSpectroscopy|6341|MR Brain Spectroscopy|6398|MR Parotid
-MRBrainSpectroscopy|6341|MR Brain Spectroscopy|6396|MR Orbits
-MRBrainSpectroscopy|6341|MR Brain Spectroscopy|6537|MR TMJ
-MRBrainSpectroscopy|6341|MR Brain Spectroscopy|6534|MRA Head
-MRBrainSpectroscopy|6341|MR Brain Spectroscopy|6532|MR Brain
-MRBrainSpectroscopy|6341|MR Brain Spectroscopy|6725|MRA Brain Neck
-MRBrainSpectroscopy|6341|MR Brain Spectroscopy|6531|MRA Spine
-MRBrainSpectroscopy|6341|MR Brain Spectroscopy|6533|MR Face
-Venogram|6685|CTA Upper Extremity Venogram Right|6459|CTA Upper Extremity Right
-MRScapulaRight|6524|MR Scapula Right|6517|MR Humerus Right
-MRScapulaRight|6524|MR Scapula Right|6511|MR Forearm Right
-MRScapulaRight|6524|MR Scapula Right|6507|MR Finger Right
-MRScapulaRight|6524|MR Scapula Right|6530|MR Wrist Right
-MRScapulaRight|6524|MR Scapula Right|6543|MRA Upper Extremity Right
-MRScapulaRight|6524|MR Scapula Right|6526|MR Shoulder Right
-MRScapulaRight|6524|MR Scapula Right|6513|MR Hand Right
-MRScapulaRight|6524|MR Scapula Right|6503|MR Elbow Right
-MRPelvisBladderStaging|6328|MR Pelvis Bladder Staging|6521|MR Pelvis Bone
-MRPelvisBladderStaging|6328|MR Pelvis Bladder Staging|6487|MR Penis Scrotum
-MRPelvisBladderStaging|6328|MR Pelvis Bladder Staging|6489|MR Urogram
-MRPelvisBladderStaging|6328|MR Pelvis Bladder Staging|6486|MR Pelvis GIGU
-MRPelvisBladderStaging|6328|MR Pelvis Bladder Staging|6402|MR Rectum
-MRPelvisBladderStaging|6328|MR Pelvis Bladder Staging|6541|MRA Pelvis
-MRPelvisBladderStaging|6328|MR Pelvis Bladder Staging|6485|MR Pelvis Gyn
-MRPelvisBladderStaging|6328|MR Pelvis Bladder Staging|6515|MR Hip Right
-MRPelvisBladderStaging|6328|MR Pelvis Bladder Staging|6488|MR Prostate
-MRPelvisBladderStaging|6328|MR Pelvis Bladder Staging|6522|MR Sacrum
-MRPelvisBladderStaging|6328|MR Pelvis Bladder Staging|6514|MR Hip Left
-MRAbdomenwithMRCP|6337|MR Abdomen with MRCP|6403|MR Renal
-MRAbdomenwithMRCP|6337|MR Abdomen with MRCP|6394|MR Liver
-MRAbdomenwithMRCP|6337|MR Abdomen with MRCP|6724|MRA Abdomen Pelvis Venogram
-MRAbdomenwithMRCP|6337|MR Abdomen with MRCP|6539|MRA Abdomen
-MRAbdomenwithMRCP|6337|MR Abdomen with MRCP|6483|MR Enterography
-MRAbdomenwithMRCP|6337|MR Abdomen with MRCP|6545|MR Lumbar Spine
-MRAbdomenwithMRCP|6337|MR Abdomen with MRCP|6367|MRA Abdomen Pelvis
-MRAbdomenwithMRCP|6337|MR Abdomen with MRCP|6361|MR Abdomen Pelvis
-MRAbdomenwithMRCP|6337|MR Abdomen with MRCP|6382|MR Adrenal
-MRAbdomenwithMRCP|6337|MR Abdomen with MRCP|6481|MR Abdomen
-MRChestNodule|6339|MR Chest Nodule|6389|MR Chest Pleura
-MRChestNodule|6339|MR Chest Nodule|6540|MRA Chest
-MRChestNodule|6339|MR Chest Nodule|6546|MR Thoracic Spine
-MRChestNodule|6339|MR Chest Nodule|6391|MR Chest Wall
-MRChestNodule|6339|MR Chest Nodule|6388|MR Chest Mediastinum
-MRChestNodule|6339|MR Chest Nodule|6491|MR Cardiac
-MRChestNodule|6339|MR Chest Nodule|6538|MR Chest
-MRAbdomenPelvis|6361|MR Abdomen Pelvis|6403|MR Renal
-MRAbdomenPelvis|6361|MR Abdomen Pelvis|6394|MR Liver
-MRAbdomenPelvis|6361|MR Abdomen Pelvis|6724|MRA Abdomen Pelvis Venogram
-MRAbdomenPelvis|6361|MR Abdomen Pelvis|6539|MRA Abdomen
-MRAbdomenPelvis|6361|MR Abdomen Pelvis|6337|MR Abdomen with MRCP
-MRAbdomenPelvis|6361|MR Abdomen Pelvis|6483|MR Enterography
-MRAbdomenPelvis|6361|MR Abdomen Pelvis|6545|MR Lumbar Spine
-MRAbdomenPelvis|6361|MR Abdomen Pelvis|6367|MRA Abdomen Pelvis
-MRAbdomenPelvis|6361|MR Abdomen Pelvis|6382|MR Adrenal
-MRAbdomenPelvis|6361|MR Abdomen Pelvis|6481|MR Abdomen
-MRAAbdomenPelvis|6367|MRA Abdomen Pelvis|6403|MR Renal
-MRAAbdomenPelvis|6367|MRA Abdomen Pelvis|6394|MR Liver
-MRAAbdomenPelvis|6367|MRA Abdomen Pelvis|6724|MRA Abdomen Pelvis Venogram
-MRAAbdomenPelvis|6367|MRA Abdomen Pelvis|6539|MRA Abdomen
-MRAAbdomenPelvis|6367|MRA Abdomen Pelvis|6337|MR Abdomen with MRCP
-MRAAbdomenPelvis|6367|MRA Abdomen Pelvis|6483|MR Enterography
-MRAAbdomenPelvis|6367|MRA Abdomen Pelvis|6545|MR Lumbar Spine
-MRAAbdomenPelvis|6367|MRA Abdomen Pelvis|6361|MR Abdomen Pelvis
-MRAAbdomenPelvis|6367|MRA Abdomen Pelvis|6382|MR Adrenal
-MRAAbdomenPelvis|6367|MRA Abdomen Pelvis|6481|MR Abdomen
-MRChestMediastinum|6388|MR Chest Mediastinum|6389|MR Chest Pleura
-MRChestMediastinum|6388|MR Chest Mediastinum|6540|MRA Chest
-MRChestMediastinum|6388|MR Chest Mediastinum|6546|MR Thoracic Spine
-MRChestMediastinum|6388|MR Chest Mediastinum|6391|MR Chest Wall
-MRChestMediastinum|6388|MR Chest Mediastinum|6491|MR Cardiac
-MRChestMediastinum|6388|MR Chest Mediastinum|6538|MR Chest
-MRChestMediastinum|6388|MR Chest Mediastinum|6339|MR Chest Nodule
-MRChestPleura|6389|MR Chest Pleura|6540|MRA Chest
-MRChestPleura|6389|MR Chest Pleura|6546|MR Thoracic Spine
-MRChestPleura|6389|MR Chest Pleura|6391|MR Chest Wall
-MRChestPleura|6389|MR Chest Pleura|6388|MR Chest Mediastinum
-MRChestPleura|6389|MR Chest Pleura|6491|MR Cardiac
-MRChestPleura|6389|MR Chest Pleura|6538|MR Chest
-MRChestPleura|6389|MR Chest Pleura|6339|MR Chest Nodule
-CTColonography|6407|CT Colonography|6374|CT Cystogram
-CTColonography|6407|CT Colonography|6409|CT Abdomen Pelvis
-CTColonography|6407|CT Colonography|6377|CT Renal
-CTColonography|6407|CT Colonography|6639|CT Abdomen
-CTColonography|6407|CT Colonography|6371|CT Adrenal
-CTColonography|6407|CT Colonography|6408|CT Enterography
-CTColonography|6407|CT Colonography|6451|CTA Abdomen Pelvis
-CTColonography|6407|CT Colonography|6342|CT Pancreas
-CTColonography|6407|CT Colonography|6679|CTA Abdomen
-CTColonography|6407|CT Colonography|6680|CTA Abdomen Pelvis Venogram
-CTColonography|6407|CT Colonography|6376|CT Liver
-CTColonography|6407|CT Colonography|6460|CT Lumbar Spine
-CTEnterography|6408|CT Enterography|6374|CT Cystogram
-CTEnterography|6408|CT Enterography|6409|CT Abdomen Pelvis
-CTEnterography|6408|CT Enterography|6377|CT Renal
-CTEnterography|6408|CT Enterography|6639|CT Abdomen
-CTEnterography|6408|CT Enterography|6407|CT Colonography
-CTEnterography|6408|CT Enterography|6371|CT Adrenal
-CTEnterography|6408|CT Enterography|6342|CT Pancreas
-CTEnterography|6408|CT Enterography|6451|CTA Abdomen Pelvis
-CTEnterography|6408|CT Enterography|6679|CTA Abdomen
-CTEnterography|6408|CT Enterography|6680|CTA Abdomen Pelvis Venogram
-CTEnterography|6408|CT Enterography|6376|CT Liver
-CTEnterography|6408|CT Enterography|6460|CT Lumbar Spine
-CTAPelvis|6447|CTA Pelvis|6434|CT Sacrum
-CTAPelvis|6447|CTA Pelvis|6426|CT Hip Left
-CTAPelvis|6447|CTA Pelvis|6427|CT Hip Right
-CTAPelvis|6447|CTA Pelvis|6462|CT Pelvis
-CTAPelvis|6447|CTA Pelvis|6410|CT Urogram
-MRAPelvis|6541|MRA Pelvis|6521|MR Pelvis Bone
-MRAPelvis|6541|MRA Pelvis|6487|MR Penis Scrotum
-MRAPelvis|6541|MRA Pelvis|6489|MR Urogram
-MRAPelvis|6541|MRA Pelvis|6486|MR Pelvis GIGU
-MRAPelvis|6541|MRA Pelvis|6402|MR Rectum
-MRAPelvis|6541|MRA Pelvis|6485|MR Pelvis Gyn
-MRAPelvis|6541|MRA Pelvis|6515|MR Hip Right
-MRAPelvis|6541|MRA Pelvis|6488|MR Prostate
-MRAPelvis|6541|MRA Pelvis|6522|MR Sacrum
-MRAPelvis|6541|MRA Pelvis|6514|MR Hip Left
-CTChestScreeningAnnual|6765|CT Chest Screening Annual|6448|CT Chest
+﻿code,inserted_id,inserted_recommendable,replace_id,replace_recommendable
+SpecialHandling,6306,Recommendation for Additional Imaging - Special Handling/Complex,NULL,All recommendations
+MRBrainCranialNerves,6688,MR Brain Cranial Nerves,6340,MR Skull Base
+MRBrainCranialNerves,6688,MR Brain Cranial Nerves,6404,MR Sinus
+MRBrainCranialNerves,6688,MR Brain Cranial Nerves,6398,MR Parotid
+MRBrainCranialNerves,6688,MR Brain Cranial Nerves,6396,MR Orbits
+MRBrainCranialNerves,6688,MR Brain Cranial Nerves,6537,MR TMJ
+MRBrainCranialNerves,6688,MR Brain Cranial Nerves,6534,MRA Head
+MRBrainCranialNerves,6688,MR Brain Cranial Nerves,6532,MR Brain
+MRBrainCranialNerves,6688,MR Brain Cranial Nerves,6725,MRA Brain Neck
+MRBrainCranialNerves,6688,MR Brain Cranial Nerves,6533,MR Face
+CTChestILD,6372,CT Chest ILD,6465,CT Thoracic Spine
+CTChestILD,6372,CT Chest ILD,6452,CTA Chest
+CTChestILD,6372,CT Chest ILD,6449,CT Chest PE
+CTChestILD,6372,CT Chest ILD,6645,CT Chest Trachea
+CTChestILD,6372,CT Chest ILD,6411,CT Cardiac
+CTChestILD,6372,CT Chest ILD,6448,CT Chest
+CTChestILD,6372,CT Chest ILD,6681,CTA Chest Venogram
+CTChestILD,6372,CT Chest ILD,6454,CTA Coronary Artery
+Venogram,6682,CTA Lower Extremity Venogram Bilateral,6457,CTA Lower Extremity Bilateral
+XRPelvisHipRight,6626,XR Pelvis Hip Right,6617,XR Hip Right
+WithContrast,6713,MR Pelvis Bone I+,6521,MR Pelvis Bone
+USBreastAxillaRight,6735,US Breast Axilla Right,6572,US Breast Right
+XRPelvisHipLeft,6625,XR Pelvis Hip Left,6616,XR Hip Left
+WithContrast,6706,MR Hand Right I+,6513,MR Hand Right
+WithContrast,6664,CT Knee Left I+,6430,CT Knee Left
+CTToeRightIPlus,6676,CT Toe Right I+,6456,CTA Lower Extremity Right
+CTToeRightIPlus,6676,CT Toe Right I+,6417,CT Femur Right
+CTToeRightIPlus,6676,CT Toe Right I+,6413,CT Ankle Right
+CTToeRightIPlus,6676,CT Toe Right I+,6431,CT Knee Right
+CTToeRightIPlus,6676,CT Toe Right I+,6421,CT Foot Right
+CTToeRightIPlus,6676,CT Toe Right I+,6433,CT Tibia Fibula Right
+Venogram,6379,CTA Abdomen Venogram,6679,CTA Abdomen
+USRenalContrastEnhanced,6329,US Renal Contrast Enhanced,6570,US Right Upper Quadrant
+USRenalContrastEnhanced,6329,US Renal Contrast Enhanced,6753,US Abdomen Vasculature
+USRenalContrastEnhanced,6329,US Renal Contrast Enhanced,6585,US Aorta
+USRenalContrastEnhanced,6329,US Renal Contrast Enhanced,6563,US Renal
+USRenalContrastEnhanced,6329,US Renal Contrast Enhanced,6590,US Renal Artery
+USRenalContrastEnhanced,6329,US Renal Contrast Enhanced,6560,US Abdomen Complete
+Arthrogram,6347,CT Knee Arthrogram Right,6431,CT Knee Right
+MRAbdominalWall,6482,MR Abdominal Wall,6403,MR Renal
+MRAbdominalWall,6482,MR Abdominal Wall,6394,MR Liver
+MRAbdominalWall,6482,MR Abdominal Wall,6724,MRA Abdomen Pelvis Venogram
+MRAbdominalWall,6482,MR Abdominal Wall,6539,MRA Abdomen
+MRAbdominalWall,6482,MR Abdominal Wall,6337,MR Abdomen with MRCP
+MRAbdominalWall,6482,MR Abdominal Wall,6483,MR Enterography
+MRAbdominalWall,6482,MR Abdominal Wall,6545,MR Lumbar Spine
+MRAbdominalWall,6482,MR Abdominal Wall,6367,MRA Abdomen Pelvis
+MRAbdominalWall,6482,MR Abdominal Wall,6361,MR Abdomen Pelvis
+MRAbdominalWall,6482,MR Abdominal Wall,6382,MR Adrenal
+MRAbdominalWall,6482,MR Abdominal Wall,6481,MR Abdomen
+WithContrast,6697,MR Femur Left I+,6504,MR Femur Left
+WithContrast,6703,MR Forearm Left I+,6510,MR Forearm Left
+WithContrast,6663,CT Humerus Right I+,6429,CT Humerus Right
+USAscites,6561,US Ascites,6570,US Right Upper Quadrant
+USAscites,6561,US Ascites,6753,US Abdomen Vasculature
+USAscites,6561,US Ascites,6585,US Aorta
+USAscites,6561,US Ascites,6563,US Renal
+USAscites,6561,US Ascites,6590,US Renal Artery
+USAscites,6561,US Ascites,6560,US Abdomen Complete
+MRLiverEovist,6333,MR Liver Eovist,6403,MR Renal
+MRLiverEovist,6333,MR Liver Eovist,6394,MR Liver
+MRLiverEovist,6333,MR Liver Eovist,6724,MRA Abdomen Pelvis Venogram
+MRLiverEovist,6333,MR Liver Eovist,6539,MRA Abdomen
+MRLiverEovist,6333,MR Liver Eovist,6337,MR Abdomen with MRCP
+MRLiverEovist,6333,MR Liver Eovist,6483,MR Enterography
+MRLiverEovist,6333,MR Liver Eovist,6545,MR Lumbar Spine
+MRLiverEovist,6333,MR Liver Eovist,6367,MRA Abdomen Pelvis
+MRLiverEovist,6333,MR Liver Eovist,6361,MR Abdomen Pelvis
+MRLiverEovist,6333,MR Liver Eovist,6382,MR Adrenal
+MRLiverEovist,6333,MR Liver Eovist,6481,MR Abdomen
+MRChestThymus,6390,MR Chest Thymus,6389,MR Chest Pleura
+MRChestThymus,6390,MR Chest Thymus,6540,MRA Chest
+MRChestThymus,6390,MR Chest Thymus,6546,MR Thoracic Spine
+MRChestThymus,6390,MR Chest Thymus,6391,MR Chest Wall
+MRChestThymus,6390,MR Chest Thymus,6388,MR Chest Mediastinum
+MRChestThymus,6390,MR Chest Thymus,6491,MR Cardiac
+MRChestThymus,6390,MR Chest Thymus,6538,MR Chest
+MRChestThymus,6390,MR Chest Thymus,6339,MR Chest Nodule
+CTToeRight,6438,CT Toe Right,6456,CTA Lower Extremity Right
+CTToeRight,6438,CT Toe Right,6417,CT Femur Right
+CTToeRight,6438,CT Toe Right,6413,CT Ankle Right
+CTToeRight,6438,CT Toe Right,6431,CT Knee Right
+CTToeRight,6438,CT Toe Right,6421,CT Foot Right
+CTToeRight,6438,CT Toe Right,6433,CT Tibia Fibula Right
+WithContrast,6646,CT Elbow Left I+,6414,CT Elbow Left
+Arthrogram,6348,CT Shoulder Arthrogram Left,6435,CT Shoulder Left
+FLDefecography,6469,FL Defecography,6474,FL Upper GI
+FLDefecography,6469,FL Defecography,6466,FL Barium Enema
+WithContrast,6720,MR Tibia Fibula Left I+,6527,MR Tibia Fibula Left
+WithContrast,6671,CT Shoulder Right I+,6436,CT Shoulder Right
+WithContrast,6669,CT Sacrum I+,6434,CT Sacrum
+WithContrast,6722,MR Wrist Left I+,6529,MR Wrist Left
+WithContrast,6643,CT Cervical Spine I+,6464,CT Cervical Spine
+XRClavicleLeft,6601,XR Clavicle Left,6634,XR Wrist Left
+XRClavicleLeft,6601,XR Clavicle Left,6618,XR Hand Left
+XRClavicleLeft,6601,XR Clavicle Left,6604,XR Elbow Left
+XRClavicleLeft,6601,XR Clavicle Left,6606,XR Forearm Left
+XRClavicleLeft,6601,XR Clavicle Left,6630,XR Shoulder Left
+XRClavicleLeft,6601,XR Clavicle Left,6610,XR Finger Left
+XRClavicleLeft,6601,XR Clavicle Left,6620,XR Humerus Left
+XRCalcaneusRight,6615,XR Calcaneus Right,6623,XR Knee Right
+XRCalcaneusRight,6615,XR Calcaneus Right,6609,XR Femur Right
+XRCalcaneusRight,6615,XR Calcaneus Right,6600,XR Ankle Right
+XRCalcaneusRight,6615,XR Calcaneus Right,6633,XR Tibia Fibula Right
+WithContrast,6710,MR Humerus Right I+,6517,MR Humerus Right
+MRBladder,6383,MR Bladder,6521,MR Pelvis Bone
+MRBladder,6383,MR Bladder,6487,MR Penis Scrotum
+MRBladder,6383,MR Bladder,6489,MR Urogram
+MRBladder,6383,MR Bladder,6486,MR Pelvis GIGU
+MRBladder,6383,MR Bladder,6402,MR Rectum
+MRBladder,6383,MR Bladder,6541,MRA Pelvis
+MRBladder,6383,MR Bladder,6485,MR Pelvis Gyn
+MRBladder,6383,MR Bladder,6515,MR Hip Right
+MRBladder,6383,MR Bladder,6488,MR Prostate
+MRBladder,6383,MR Bladder,6522,MR Sacrum
+MRBladder,6383,MR Bladder,6514,MR Hip Left
+Venogram,6366,MRA Upper Extremity Venogram Left,6542,MRA Upper Extremity Left
+WithContrast,6666,CT Lumbar Spine I+,6460,CT Lumbar Spine
+WithContrast,6660,CT Hip Left I+,6426,CT Hip Left
+CTKidneyStone,6375,CT Kidney Stone,6374,CT Cystogram
+CTKidneyStone,6375,CT Kidney Stone,6409,CT Abdomen Pelvis
+CTKidneyStone,6375,CT Kidney Stone,6377,CT Renal
+CTKidneyStone,6375,CT Kidney Stone,6639,CT Abdomen
+CTKidneyStone,6375,CT Kidney Stone,6407,CT Colonography
+CTKidneyStone,6375,CT Kidney Stone,6371,CT Adrenal
+CTKidneyStone,6375,CT Kidney Stone,6408,CT Enterography
+CTKidneyStone,6375,CT Kidney Stone,6451,CTA Abdomen Pelvis
+CTKidneyStone,6375,CT Kidney Stone,6342,CT Pancreas
+CTKidneyStone,6375,CT Kidney Stone,6679,CTA Abdomen
+CTKidneyStone,6375,CT Kidney Stone,6680,CTA Abdomen Pelvis Venogram
+CTKidneyStone,6375,CT Kidney Stone,6376,CT Liver
+CTKidneyStone,6375,CT Kidney Stone,6460,CT Lumbar Spine
+Venogram,6683,CTA Lower Extremity Venogram Left,6455,CTA Lower Extremity Left
+WithContrast,6656,CT Forearm Right I+,6423,CT Forearm Right
+Arthrogram,6356,MR Shoulder Arthrogram Left,6525,MR Shoulder Left
+MRClavicleLeft,6500,MR Clavicle Left,6516,MR Humerus Left
+MRClavicleLeft,6500,MR Clavicle Left,6506,MR Finger Left
+MRClavicleLeft,6500,MR Clavicle Left,6502,MR Elbow Left
+MRClavicleLeft,6500,MR Clavicle Left,6512,MR Hand Left
+MRClavicleLeft,6500,MR Clavicle Left,6525,MR Shoulder Left
+MRClavicleLeft,6500,MR Clavicle Left,6542,MRA Upper Extremity Left
+MRClavicleLeft,6500,MR Clavicle Left,6529,MR Wrist Left
+MRClavicleLeft,6500,MR Clavicle Left,6510,MR Forearm Left
+MRClavicleRight,6501,MR Clavicle Right,6517,MR Humerus Right
+MRClavicleRight,6501,MR Clavicle Right,6511,MR Forearm Right
+MRClavicleRight,6501,MR Clavicle Right,6507,MR Finger Right
+MRClavicleRight,6501,MR Clavicle Right,6530,MR Wrist Right
+MRClavicleRight,6501,MR Clavicle Right,6543,MRA Upper Extremity Right
+MRClavicleRight,6501,MR Clavicle Right,6526,MR Shoulder Right
+MRClavicleRight,6501,MR Clavicle Right,6513,MR Hand Right
+MRClavicleRight,6501,MR Clavicle Right,6503,MR Elbow Right
+WithContrast,6662,CT Humerus Left I+,6428,CT Humerus Left
+MRBrainIAC,6343,MR Brain IAC,6340,MR Skull Base
+MRBrainIAC,6343,MR Brain IAC,6404,MR Sinus
+MRBrainIAC,6343,MR Brain IAC,6398,MR Parotid
+MRBrainIAC,6343,MR Brain IAC,6396,MR Orbits
+MRBrainIAC,6343,MR Brain IAC,6537,MR TMJ
+MRBrainIAC,6343,MR Brain IAC,6534,MRA Head
+MRBrainIAC,6343,MR Brain IAC,6532,MR Brain
+MRBrainIAC,6343,MR Brain IAC,6725,MRA Brain Neck
+MRBrainIAC,6343,MR Brain IAC,6531,MRA Spine
+MRBrainIAC,6343,MR Brain IAC,6533,MR Face
+MRChestDiaphragm,6331,MR Chest Diaphragm,6389,MR Chest Pleura
+MRChestDiaphragm,6331,MR Chest Diaphragm,6540,MRA Chest
+MRChestDiaphragm,6331,MR Chest Diaphragm,6546,MR Thoracic Spine
+MRChestDiaphragm,6331,MR Chest Diaphragm,6391,MR Chest Wall
+MRChestDiaphragm,6331,MR Chest Diaphragm,6388,MR Chest Mediastinum
+MRChestDiaphragm,6331,MR Chest Diaphragm,6491,MR Cardiac
+MRChestDiaphragm,6331,MR Chest Diaphragm,6538,MR Chest
+MRChestDiaphragm,6331,MR Chest Diaphragm,6339,MR Chest Nodule
+XRACJointLeft,6597,XR AC Joint Left,6634,XR Wrist Left
+XRACJointLeft,6597,XR AC Joint Left,6618,XR Hand Left
+XRACJointLeft,6597,XR AC Joint Left,6604,XR Elbow Left
+XRACJointLeft,6597,XR AC Joint Left,6606,XR Forearm Left
+XRACJointLeft,6597,XR AC Joint Left,6630,XR Shoulder Left
+XRACJointLeft,6597,XR AC Joint Left,6610,XR Finger Left
+XRACJointLeft,6597,XR AC Joint Left,6620,XR Humerus Left
+XRCalcaneusLeft,6614,XR Calcaneus Left,6622,XR Knee Left
+XRCalcaneusLeft,6614,XR Calcaneus Left,6608,XR Femur Left
+XRCalcaneusLeft,6614,XR Calcaneus Left,6612,XR Foot Left
+XRCalcaneusLeft,6614,XR Calcaneus Left,6632,XR Tibia Fibula Left
+XRCalcaneusLeft,6614,XR Calcaneus Left,6599,XR Ankle Left
+CTPelvisBoneIPlus,6668,CT Pelvis Bone I+,6434,CT Sacrum
+CTPelvisBoneIPlus,6668,CT Pelvis Bone I+,6426,CT Hip Left
+CTPelvisBoneIPlus,6668,CT Pelvis Bone I+,6427,CT Hip Right
+CTPelvisBoneIPlus,6668,CT Pelvis Bone I+,6462,CT Pelvis
+CTPelvisBoneIPlus,6668,CT Pelvis Bone I+,6447,CTA Pelvis
+CTPelvisBoneIPlus,6668,CT Pelvis Bone I+,6410,CT Urogram
+WithContrast,6641,CT Ankle Right I+,6413,CT Ankle Right
+Venogram,6484,CTA Upper Extremity Venogram Left,6458,CTA Upper Extremity Left
+WithContrast,6707,MR Hip Left I+,6514,MR Hip Left
+XRChestApical,6738,XR Chest Apical,6637,XR Chest
+XRChestApical,6738,XR Chest Apical,6629,XR Ribs Right
+XRChestApical,6738,XR Chest Apical,6746,XR Ribs Bilateral
+XRChestApical,6738,XR Chest Apical,6628,XR Ribs Left
+WithContrast,6405,MR Thoracic Spine I+,6546,MR Thoracic Spine
+MRCervicalThoracicSpine,6362,MR Cervical Thoracic Spine,6544,MR Cervical Spine
+MRCervicalThoracicSpine,6362,MR Cervical Thoracic Spine,6536,MRA Neck
+MRCervicalThoracicSpine,6362,MR Cervical Thoracic Spine,6535,MR Neck
+NMPETDotatate,6558,NM PET Dotatate,6732,NM PET Skull Base to Mid Thighs
+NMPETDotatate,6558,NM PET Dotatate,6731,NM PET Scalp to Toes
+NMPETDotatate,6558,NM PET Dotatate,6369,NM PET PSMA
+CTAChestThoracicOutlet,6453,CTA Chest Thoracic Outlet,6465,CT Thoracic Spine
+CTAChestThoracicOutlet,6453,CTA Chest Thoracic Outlet,6452,CTA Chest
+CTAChestThoracicOutlet,6453,CTA Chest Thoracic Outlet,6449,CT Chest PE
+CTAChestThoracicOutlet,6453,CTA Chest Thoracic Outlet,6645,CT Chest Trachea
+CTAChestThoracicOutlet,6453,CTA Chest Thoracic Outlet,6411,CT Cardiac
+CTAChestThoracicOutlet,6453,CTA Chest Thoracic Outlet,6448,CT Chest
+CTAChestThoracicOutlet,6453,CTA Chest Thoracic Outlet,6681,CTA Chest Venogram
+CTAChestThoracicOutlet,6453,CTA Chest Thoracic Outlet,6454,CTA Coronary Artery
+MRClavicleLeftIPlus,6692,MR Clavicle Left I+,6516,MR Humerus Left
+MRClavicleLeftIPlus,6692,MR Clavicle Left I+,6506,MR Finger Left
+MRClavicleLeftIPlus,6692,MR Clavicle Left I+,6502,MR Elbow Left
+MRClavicleLeftIPlus,6692,MR Clavicle Left I+,6512,MR Hand Left
+MRClavicleLeftIPlus,6692,MR Clavicle Left I+,6525,MR Shoulder Left
+MRClavicleLeftIPlus,6692,MR Clavicle Left I+,6542,MRA Upper Extremity Left
+MRClavicleLeftIPlus,6692,MR Clavicle Left I+,6529,MR Wrist Left
+MRClavicleLeftIPlus,6692,MR Clavicle Left I+,6510,MR Forearm Left
+WithContrast,6694,MR Elbow Left I+,6502,MR Elbow Left
+WithContrast,6665,CT Knee Right I+,6431,CT Knee Right
+Venogram,6381,CTA Neck Venogram,6446,CTA Neck
+WithContrast,6655,CT Forearm Left I+,6422,CT Forearm Left
+WithContrast,6384,MR Brain I+,6532,MR Brain
+MRAChestAbdomenVenogram,6727,MRA Chest Abdomen Venogram,6389,MR Chest Pleura
+MRAChestAbdomenVenogram,6727,MRA Chest Abdomen Venogram,6540,MRA Chest
+MRAChestAbdomenVenogram,6727,MRA Chest Abdomen Venogram,6546,MR Thoracic Spine
+MRAChestAbdomenVenogram,6727,MRA Chest Abdomen Venogram,6391,MR Chest Wall
+MRAChestAbdomenVenogram,6727,MRA Chest Abdomen Venogram,6388,MR Chest Mediastinum
+MRAChestAbdomenVenogram,6727,MRA Chest Abdomen Venogram,6491,MR Cardiac
+MRAChestAbdomenVenogram,6727,MRA Chest Abdomen Venogram,6538,MR Chest
+MRAChestAbdomenVenogram,6727,MRA Chest Abdomen Venogram,6339,MR Chest Nodule
+WithContrast,6686,MR Ankle Left I+,6494,MR Ankle Left
+MRLiverElastography,6332,MR Liver Elastography,6403,MR Renal
+MRLiverElastography,6332,MR Liver Elastography,6394,MR Liver
+MRLiverElastography,6332,MR Liver Elastography,6724,MRA Abdomen Pelvis Venogram
+MRLiverElastography,6332,MR Liver Elastography,6539,MRA Abdomen
+MRLiverElastography,6332,MR Liver Elastography,6337,MR Abdomen with MRCP
+MRLiverElastography,6332,MR Liver Elastography,6483,MR Enterography
+MRLiverElastography,6332,MR Liver Elastography,6545,MR Lumbar Spine
+MRLiverElastography,6332,MR Liver Elastography,6367,MRA Abdomen Pelvis
+MRLiverElastography,6332,MR Liver Elastography,6361,MR Abdomen Pelvis
+MRLiverElastography,6332,MR Liver Elastography,6382,MR Adrenal
+MRLiverElastography,6332,MR Liver Elastography,6481,MR Abdomen
+MRAxillaLeft,6496,MR Axilla Left,6516,MR Humerus Left
+MRAxillaLeft,6496,MR Axilla Left,6506,MR Finger Left
+MRAxillaLeft,6496,MR Axilla Left,6502,MR Elbow Left
+MRAxillaLeft,6496,MR Axilla Left,6512,MR Hand Left
+MRAxillaLeft,6496,MR Axilla Left,6525,MR Shoulder Left
+MRAxillaLeft,6496,MR Axilla Left,6542,MRA Upper Extremity Left
+MRAxillaLeft,6496,MR Axilla Left,6529,MR Wrist Left
+MRAxillaLeft,6496,MR Axilla Left,6510,MR Forearm Left
+WithContrast,6649,CT Femur Left I+,6416,CT Femur Left
+WithContrast,6658,CT Hand Right I+,6425,CT Hand Right
+MRBrainTrigeminal,6386,MR Brain Trigeminal,6340,MR Skull Base
+MRBrainTrigeminal,6386,MR Brain Trigeminal,6404,MR Sinus
+MRBrainTrigeminal,6386,MR Brain Trigeminal,6398,MR Parotid
+MRBrainTrigeminal,6386,MR Brain Trigeminal,6396,MR Orbits
+MRBrainTrigeminal,6386,MR Brain Trigeminal,6537,MR TMJ
+MRBrainTrigeminal,6386,MR Brain Trigeminal,6534,MRA Head
+MRBrainTrigeminal,6386,MR Brain Trigeminal,6532,MR Brain
+MRBrainTrigeminal,6386,MR Brain Trigeminal,6725,MRA Brain Neck
+MRBrainTrigeminal,6386,MR Brain Trigeminal,6531,MRA Spine
+MRBrainTrigeminal,6386,MR Brain Trigeminal,6533,MR Face
+CTChestAbdomen,6345,CT Chest Abdomen,6465,CT Thoracic Spine
+CTChestAbdomen,6345,CT Chest Abdomen,6452,CTA Chest
+CTChestAbdomen,6345,CT Chest Abdomen,6449,CT Chest PE
+CTChestAbdomen,6345,CT Chest Abdomen,6645,CT Chest Trachea
+CTChestAbdomen,6345,CT Chest Abdomen,6411,CT Cardiac
+CTChestAbdomen,6345,CT Chest Abdomen,6448,CT Chest
+CTChestAbdomen,6345,CT Chest Abdomen,6681,CTA Chest Venogram
+CTChestAbdomen,6345,CT Chest Abdomen,6454,CTA Coronary Artery
+XRACJointBilateral,6737,XR AC Joint Bilateral,6742,XR Hand Bilateral
+XRACJointBilateral,6737,XR AC Joint Bilateral,6747,XR Shoulder Bilateral
+XRACJointBilateral,6737,XR AC Joint Bilateral,6748,XR Wrist Bilateral
+Arthrogram,6359,MR Wrist Arthrogram Right,6530,MR Wrist Right
+WithContrast,6657,CT Hand Left I+,6424,CT Hand Left
+MRThoracicLumbarSpineIPlus,6719,MR Thoracic Lumbar Spine I+,6389,MR Chest Pleura
+MRThoracicLumbarSpineIPlus,6719,MR Thoracic Lumbar Spine I+,6540,MRA Chest
+MRThoracicLumbarSpineIPlus,6719,MR Thoracic Lumbar Spine I+,6546,MR Thoracic Spine
+MRThoracicLumbarSpineIPlus,6719,MR Thoracic Lumbar Spine I+,6391,MR Chest Wall
+MRThoracicLumbarSpineIPlus,6719,MR Thoracic Lumbar Spine I+,6388,MR Chest Mediastinum
+MRThoracicLumbarSpineIPlus,6719,MR Thoracic Lumbar Spine I+,6491,MR Cardiac
+MRThoracicLumbarSpineIPlus,6719,MR Thoracic Lumbar Spine I+,6538,MR Chest
+MRThoracicLumbarSpineIPlus,6719,MR Thoracic Lumbar Spine I+,6339,MR Chest Nodule
+WithContrast,6644,CT Chest I+,6448,CT Chest
+Venogram,6338,MRA Abdomen Venogram,6539,MRA Abdomen
+XRHipswithPelvisBilateral,6744,XR Hips with Pelvis Bilateral,6743,XR Hip Bilateral
+XRChestNippleMarkers,6740,XR Chest Nipple Markers,6637,XR Chest
+XRChestNippleMarkers,6740,XR Chest Nipple Markers,6629,XR Ribs Right
+XRChestNippleMarkers,6740,XR Chest Nipple Markers,6746,XR Ribs Bilateral
+XRChestNippleMarkers,6740,XR Chest Nipple Markers,6628,XR Ribs Left
+Arthrogram,6353,MR Hip Arthrogram Right,6515,MR Hip Right
+CTChestNodule,6373,CT Chest Nodule,6465,CT Thoracic Spine
+CTChestNodule,6373,CT Chest Nodule,6452,CTA Chest
+CTChestNodule,6373,CT Chest Nodule,6449,CT Chest PE
+CTChestNodule,6373,CT Chest Nodule,6645,CT Chest Trachea
+CTChestNodule,6373,CT Chest Nodule,6411,CT Cardiac
+CTChestNodule,6373,CT Chest Nodule,6448,CT Chest
+CTChestNodule,6373,CT Chest Nodule,6681,CTA Chest Venogram
+CTChestNodule,6373,CT Chest Nodule,6454,CTA Coronary Artery
+WithContrast,6395,MR Lumbar Spine I+,6545,MR Lumbar Spine
+FLLoopogram,6472,FL Loopogram,6474,FL Upper GI
+FLLoopogram,6472,FL Loopogram,6466,FL Barium Enema
+WithContrast,6652,CT Finger Right I+,6419,CT Finger Right
+WithContrast,6654,CT Foot Right I+,6421,CT Foot Right
+Arthrogram,6351,MR Elbow Arthrogram Right,6503,MR Elbow Right
+WithContrast,6698,MR Femur Right I+,6505,MR Femur Right
+CTPelvisBone,6463,CT Pelvis Bone,6434,CT Sacrum
+CTPelvisBone,6463,CT Pelvis Bone,6426,CT Hip Left
+CTPelvisBone,6463,CT Pelvis Bone,6427,CT Hip Right
+CTPelvisBone,6463,CT Pelvis Bone,6462,CT Pelvis
+CTPelvisBone,6463,CT Pelvis Bone,6447,CTA Pelvis
+CTPelvisBone,6463,CT Pelvis Bone,6410,CT Urogram
+USBreastAxillaLeft,6734,US Breast Axilla Left,6571,US Breast Left
+WithContrast,6674,CT Tibia Fibula Right I+,6433,CT Tibia Fibula Right
+WithContrast,6677,CT Wrist Left I+,6439,CT Wrist Left
+WithContrast,6699,MR Finger Left I+,6506,MR Finger Left
+WithContrast,6651,CT Finger Left I+,6418,CT Finger Left
+USSonohysterogram,6565,US Sonohysterogram,6569,US Scrotum
+USSonohysterogram,6565,US Sonohysterogram,6562,US Bladder
+USSonohysterogram,6565,US Sonohysterogram,6566,US Pelvis
+USSonohysterogram,6565,US Sonohysterogram,6567,US Penis
+USSonohysterogram,6565,US Sonohysterogram,6568,US Prostate
+Venogram,6684,CTA Lower Extremity Venogram Right,6456,CTA Lower Extremity Right
+USBreastAxillaBilateral,6733,US Breast Axilla Bilateral,6571,US Breast Left
+USBreastAxillaBilateral,6733,US Breast Axilla Bilateral,6572,US Breast Right
+USBreastAxillaBilateral,6733,US Breast Axilla Bilateral,6307,Recommendation for Additional Imaging - Laterality Unspecified
+MRScapulaRightIPlus,6716,MR Scapula Right I+,6517,MR Humerus Right
+MRScapulaRightIPlus,6716,MR Scapula Right I+,6511,MR Forearm Right
+MRScapulaRightIPlus,6716,MR Scapula Right I+,6507,MR Finger Right
+MRScapulaRightIPlus,6716,MR Scapula Right I+,6530,MR Wrist Right
+MRScapulaRightIPlus,6716,MR Scapula Right I+,6543,MRA Upper Extremity Right
+MRScapulaRightIPlus,6716,MR Scapula Right I+,6526,MR Shoulder Right
+MRScapulaRightIPlus,6716,MR Scapula Right I+,6513,MR Hand Right
+MRScapulaRightIPlus,6716,MR Scapula Right I+,6503,MR Elbow Right
+USLiverContrastEnhanced,6330,US Liver Contrast Enhanced,6570,US Right Upper Quadrant
+USLiverContrastEnhanced,6330,US Liver Contrast Enhanced,6753,US Abdomen Vasculature
+USLiverContrastEnhanced,6330,US Liver Contrast Enhanced,6585,US Aorta
+USLiverContrastEnhanced,6330,US Liver Contrast Enhanced,6563,US Renal
+USLiverContrastEnhanced,6330,US Liver Contrast Enhanced,6590,US Renal Artery
+USLiverContrastEnhanced,6330,US Liver Contrast Enhanced,6560,US Abdomen Complete
+NMWBCScan,6552,NM WBC Scan,6548,NM Bone Scan
+WithContrast,6659,CT Head I+,6443,CT Head
+CTAbdomenPelvisHypervascularTumor,6335,CT Abdomen Pelvis Hypervascular Tumor,6374,CT Cystogram
+CTAbdomenPelvisHypervascularTumor,6335,CT Abdomen Pelvis Hypervascular Tumor,6409,CT Abdomen Pelvis
+CTAbdomenPelvisHypervascularTumor,6335,CT Abdomen Pelvis Hypervascular Tumor,6377,CT Renal
+CTAbdomenPelvisHypervascularTumor,6335,CT Abdomen Pelvis Hypervascular Tumor,6639,CT Abdomen
+CTAbdomenPelvisHypervascularTumor,6335,CT Abdomen Pelvis Hypervascular Tumor,6407,CT Colonography
+CTAbdomenPelvisHypervascularTumor,6335,CT Abdomen Pelvis Hypervascular Tumor,6371,CT Adrenal
+CTAbdomenPelvisHypervascularTumor,6335,CT Abdomen Pelvis Hypervascular Tumor,6408,CT Enterography
+CTAbdomenPelvisHypervascularTumor,6335,CT Abdomen Pelvis Hypervascular Tumor,6451,CTA Abdomen Pelvis
+CTAbdomenPelvisHypervascularTumor,6335,CT Abdomen Pelvis Hypervascular Tumor,6342,CT Pancreas
+CTAbdomenPelvisHypervascularTumor,6335,CT Abdomen Pelvis Hypervascular Tumor,6679,CTA Abdomen
+CTAbdomenPelvisHypervascularTumor,6335,CT Abdomen Pelvis Hypervascular Tumor,6680,CTA Abdomen Pelvis Venogram
+CTAbdomenPelvisHypervascularTumor,6335,CT Abdomen Pelvis Hypervascular Tumor,6376,CT Liver
+CTAbdomenPelvisHypervascularTumor,6335,CT Abdomen Pelvis Hypervascular Tumor,6460,CT Lumbar Spine
+MRThoracicLumbarSpine,6364,MR Thoracic Lumbar Spine,6389,MR Chest Pleura
+MRThoracicLumbarSpine,6364,MR Thoracic Lumbar Spine,6540,MRA Chest
+MRThoracicLumbarSpine,6364,MR Thoracic Lumbar Spine,6546,MR Thoracic Spine
+MRThoracicLumbarSpine,6364,MR Thoracic Lumbar Spine,6391,MR Chest Wall
+MRThoracicLumbarSpine,6364,MR Thoracic Lumbar Spine,6388,MR Chest Mediastinum
+MRThoracicLumbarSpine,6364,MR Thoracic Lumbar Spine,6491,MR Cardiac
+MRThoracicLumbarSpine,6364,MR Thoracic Lumbar Spine,6538,MR Chest
+MRThoracicLumbarSpine,6364,MR Thoracic Lumbar Spine,6339,MR Chest Nodule
+MRAThoracicOutlet,6730,MRA Thoracic Outlet,6517,MR Humerus Right
+MRAThoracicOutlet,6730,MRA Thoracic Outlet,6516,MR Humerus Left
+MRAThoracicOutlet,6730,MRA Thoracic Outlet,6507,MR Finger Right
+MRAThoracicOutlet,6730,MRA Thoracic Outlet,6530,MR Wrist Right
+MRAThoracicOutlet,6730,MRA Thoracic Outlet,6512,MR Hand Left
+MRAThoracicOutlet,6730,MRA Thoracic Outlet,6543,MRA Upper Extremity Right
+MRAThoracicOutlet,6730,MRA Thoracic Outlet,6542,MRA Upper Extremity Left
+MRAThoracicOutlet,6730,MRA Thoracic Outlet,6526,MR Shoulder Right
+MRAThoracicOutlet,6730,MRA Thoracic Outlet,6529,MR Wrist Left
+MRAThoracicOutlet,6730,MRA Thoracic Outlet,6510,MR Forearm Left
+MRAThoracicOutlet,6730,MRA Thoracic Outlet,6511,MR Forearm Right
+MRAThoracicOutlet,6730,MRA Thoracic Outlet,6503,MR Elbow Right
+MRAThoracicOutlet,6730,MRA Thoracic Outlet,6506,MR Finger Left
+MRAThoracicOutlet,6730,MRA Thoracic Outlet,6502,MR Elbow Left
+MRAThoracicOutlet,6730,MRA Thoracic Outlet,6525,MR Shoulder Left
+MRAThoracicOutlet,6730,MRA Thoracic Outlet,6513,MR Hand Right
+XRChestLordotic,6739,XR Chest Lordotic,6637,XR Chest
+XRChestLordotic,6739,XR Chest Lordotic,6629,XR Ribs Right
+XRChestLordotic,6739,XR Chest Lordotic,6746,XR Ribs Bilateral
+XRChestLordotic,6739,XR Chest Lordotic,6628,XR Ribs Left
+FLFistulogramSinogram,6470,FL Fistulogram Sinogram,6474,FL Upper GI
+FLFistulogramSinogram,6470,FL Fistulogram Sinogram,6466,FL Barium Enema
+WithContrast,6670,CT Shoulder Left I+,6435,CT Shoulder Left
+WithContrast,6695,MR Elbow Right I+,6503,MR Elbow Right
+MRAThoracicDuct,6729,MRA Thoracic Duct,6389,MR Chest Pleura
+MRAThoracicDuct,6729,MRA Thoracic Duct,6540,MRA Chest
+MRAThoracicDuct,6729,MRA Thoracic Duct,6546,MR Thoracic Spine
+MRAThoracicDuct,6729,MRA Thoracic Duct,6391,MR Chest Wall
+MRAThoracicDuct,6729,MRA Thoracic Duct,6388,MR Chest Mediastinum
+MRAThoracicDuct,6729,MRA Thoracic Duct,6491,MR Cardiac
+MRAThoracicDuct,6729,MRA Thoracic Duct,6538,MR Chest
+MRAThoracicDuct,6729,MRA Thoracic Duct,6339,MR Chest Nodule
+WithContrast,6711,MR Knee Left I+,6518,MR Knee Left
+XRACJointRight,6598,XR AC Joint Right,6613,XR Foot Right
+XRACJointRight,6598,XR AC Joint Right,6607,XR Forearm Right
+XRACJointRight,6598,XR AC Joint Right,6611,XR Finger Right
+XRACJointRight,6598,XR AC Joint Right,6631,XR Shoulder Right
+XRACJointRight,6598,XR AC Joint Right,6605,XR Elbow Right
+XRACJointRight,6598,XR AC Joint Right,6635,XR Wrist Right
+XRACJointRight,6598,XR AC Joint Right,6621,XR Humerus Right
+XRACJointRight,6598,XR AC Joint Right,6619,XR Hand Right
+WithContrast,6702,MR Foot Right I+,6509,MR Foot Right
+WithContrast,6704,MR Forearm Right I+,6511,MR Forearm Right
+Arthrogram,6358,MR Wrist Arthrogram Left,6529,MR Wrist Left
+Venogram,6380,CTA Head Venogram,6444,CTA Head
+WithContrast,6705,MR Hand Left I+,6512,MR Hand Left
+Arthrogram,6350,MR Elbow Arthrogram Left,6502,MR Elbow Left
+MRFaceCranialNerves,6696,MR Face Cranial Nerves,6340,MR Skull Base
+MRFaceCranialNerves,6696,MR Face Cranial Nerves,6404,MR Sinus
+MRFaceCranialNerves,6696,MR Face Cranial Nerves,6398,MR Parotid
+MRFaceCranialNerves,6696,MR Face Cranial Nerves,6396,MR Orbits
+MRFaceCranialNerves,6696,MR Face Cranial Nerves,6537,MR TMJ
+MRFaceCranialNerves,6696,MR Face Cranial Nerves,6534,MRA Head
+MRFaceCranialNerves,6696,MR Face Cranial Nerves,6532,MR Brain
+MRFaceCranialNerves,6696,MR Face Cranial Nerves,6725,MRA Brain Neck
+MRFaceCranialNerves,6696,MR Face Cranial Nerves,6531,MRA Spine
+MRFaceCranialNerves,6696,MR Face Cranial Nerves,6533,MR Face
+NMPETFES,6368,NM PET FES,6732,NM PET Skull Base to Mid Thighs
+NMPETFES,6368,NM PET FES,6731,NM PET Scalp to Toes
+NMPETFES,6368,NM PET FES,6369,NM PET PSMA
+MRBrachialPlexusLeft,6498,MR Brachial Plexus Left,6516,MR Humerus Left
+MRBrachialPlexusLeft,6498,MR Brachial Plexus Left,6506,MR Finger Left
+MRBrachialPlexusLeft,6498,MR Brachial Plexus Left,6502,MR Elbow Left
+MRBrachialPlexusLeft,6498,MR Brachial Plexus Left,6512,MR Hand Left
+MRBrachialPlexusLeft,6498,MR Brachial Plexus Left,6525,MR Shoulder Left
+MRBrachialPlexusLeft,6498,MR Brachial Plexus Left,6542,MRA Upper Extremity Left
+MRBrachialPlexusLeft,6498,MR Brachial Plexus Left,6529,MR Wrist Left
+MRBrachialPlexusLeft,6498,MR Brachial Plexus Left,6510,MR Forearm Left
+WithContrast,6640,CT Ankle Left I+,6412,CT Ankle Left
+CTToeLeft,6437,CT Toe Left,6432,CT Tibia Fibula Left
+CTToeLeft,6437,CT Toe Left,6412,CT Ankle Left
+CTToeLeft,6437,CT Toe Left,6420,CT Foot Left
+CTToeLeft,6437,CT Toe Left,6430,CT Knee Left
+CTToeLeft,6437,CT Toe Left,6416,CT Femur Left
+CTToeLeft,6437,CT Toe Left,6455,CTA Lower Extremity Left
+WithContrast,6700,MR Finger Right I+,6507,MR Finger Right
+MRBrachialPlexusRight,6499,MR Brachial Plexus Right,6517,MR Humerus Right
+MRBrachialPlexusRight,6499,MR Brachial Plexus Right,6511,MR Forearm Right
+MRBrachialPlexusRight,6499,MR Brachial Plexus Right,6507,MR Finger Right
+MRBrachialPlexusRight,6499,MR Brachial Plexus Right,6530,MR Wrist Right
+MRBrachialPlexusRight,6499,MR Brachial Plexus Right,6543,MRA Upper Extremity Right
+MRBrachialPlexusRight,6499,MR Brachial Plexus Right,6526,MR Shoulder Right
+MRBrachialPlexusRight,6499,MR Brachial Plexus Right,6513,MR Hand Right
+MRBrachialPlexusRight,6499,MR Brachial Plexus Right,6503,MR Elbow Right
+WithContrast,6721,MR Tibia Fibula Right I+,6528,MR Tibia Fibula Right
+MRPelvis,6334,MR Pelvis,6521,MR Pelvis Bone
+MRPelvis,6334,MR Pelvis,6487,MR Penis Scrotum
+MRPelvis,6334,MR Pelvis,6489,MR Urogram
+MRPelvis,6334,MR Pelvis,6486,MR Pelvis GIGU
+MRPelvis,6334,MR Pelvis,6402,MR Rectum
+MRPelvis,6334,MR Pelvis,6541,MRA Pelvis
+MRPelvis,6334,MR Pelvis,6485,MR Pelvis Gyn
+MRPelvis,6334,MR Pelvis,6515,MR Hip Right
+MRPelvis,6334,MR Pelvis,6488,MR Prostate
+MRPelvis,6334,MR Pelvis,6522,MR Sacrum
+MRPelvis,6334,MR Pelvis,6514,MR Hip Left
+Arthrogram,6349,CT Shoulder Arthrogram Right,6436,CT Shoulder Right
+USLiverElastography,6564,US Liver Elastography,6570,US Right Upper Quadrant
+USLiverElastography,6564,US Liver Elastography,6753,US Abdomen Vasculature
+USLiverElastography,6564,US Liver Elastography,6585,US Aorta
+USLiverElastography,6564,US Liver Elastography,6563,US Renal
+USLiverElastography,6564,US Liver Elastography,6590,US Renal Artery
+USLiverElastography,6564,US Liver Elastography,6560,US Abdomen Complete
+Venogram,6365,MRA Upper Extremity Venogram Right,6543,MRA Upper Extremity Right
+WithContrast,6392,MR Cervical Spine I+,6544,MR Cervical Spine
+WithContrast,6701,MR Foot Left I+,6508,MR Foot Left
+MRPelvisAppendix,6399,MR Pelvis Appendix,6521,MR Pelvis Bone
+MRPelvisAppendix,6399,MR Pelvis Appendix,6487,MR Penis Scrotum
+MRPelvisAppendix,6399,MR Pelvis Appendix,6489,MR Urogram
+MRPelvisAppendix,6399,MR Pelvis Appendix,6486,MR Pelvis GIGU
+MRPelvisAppendix,6399,MR Pelvis Appendix,6402,MR Rectum
+MRPelvisAppendix,6399,MR Pelvis Appendix,6541,MRA Pelvis
+MRPelvisAppendix,6399,MR Pelvis Appendix,6485,MR Pelvis Gyn
+MRPelvisAppendix,6399,MR Pelvis Appendix,6515,MR Hip Right
+MRPelvisAppendix,6399,MR Pelvis Appendix,6488,MR Prostate
+MRPelvisAppendix,6399,MR Pelvis Appendix,6522,MR Sacrum
+MRPelvisAppendix,6399,MR Pelvis Appendix,6514,MR Hip Left
+WithContrast,6648,CT Face I+,6441,CT Face
+WithContrast,6718,MR Shoulder Right I+,6526,MR Shoulder Right
+WithContrast,6678,CT Wrist Right I+,6440,CT Wrist Right
+WithContrast,6672,CT Thoracic Spine I+,6465,CT Thoracic Spine
+MRSacralPlexus,6520,MR Sacral Plexus,6340,MR Skull Base
+MRSacralPlexus,6520,MR Sacral Plexus,6404,MR Sinus
+MRSacralPlexus,6520,MR Sacral Plexus,6398,MR Parotid
+MRSacralPlexus,6520,MR Sacral Plexus,6396,MR Orbits
+MRSacralPlexus,6520,MR Sacral Plexus,6537,MR TMJ
+MRSacralPlexus,6520,MR Sacral Plexus,6534,MRA Head
+MRSacralPlexus,6520,MR Sacral Plexus,6532,MR Brain
+MRSacralPlexus,6520,MR Sacral Plexus,6725,MRA Brain Neck
+MRSacralPlexus,6520,MR Sacral Plexus,6531,MRA Spine
+MRSacralPlexus,6520,MR Sacral Plexus,6533,MR Face
+MRAxillaRight,6497,MR Axilla Right,6517,MR Humerus Right
+MRAxillaRight,6497,MR Axilla Right,6511,MR Forearm Right
+MRAxillaRight,6497,MR Axilla Right,6507,MR Finger Right
+MRAxillaRight,6497,MR Axilla Right,6530,MR Wrist Right
+MRAxillaRight,6497,MR Axilla Right,6543,MRA Upper Extremity Right
+MRAxillaRight,6497,MR Axilla Right,6526,MR Shoulder Right
+MRAxillaRight,6497,MR Axilla Right,6513,MR Hand Right
+MRAxillaRight,6497,MR Axilla Right,6503,MR Elbow Right
+WithContrast,6687,MR Ankle Right I+,6495,MR Ankle Right
+WithContrast,6712,MR Knee Right I+,6519,MR Knee Right
+Arthrogram,6355,MR Knee Arthrogram Right,6519,MR Knee Right
+WithContrast,6714,MR Sacrum I+,6522,MR Sacrum
+NMLungVentilationPerfusion,6554,NM Lung Ventilation Perfusion,6547,NC PET Cardiac
+MRCervicalThoracicSpineIPlus,6691,MR Cervical Thoracic Spine I+,6544,MR Cervical Spine
+MRCervicalThoracicSpineIPlus,6691,MR Cervical Thoracic Spine I+,6536,MRA Neck
+MRCervicalThoracicSpineIPlus,6691,MR Cervical Thoracic Spine I+,6535,MR Neck
+CTAChestAbdomenPelvis,6344,CTA Chest Abdomen Pelvis,6465,CT Thoracic Spine
+CTAChestAbdomenPelvis,6344,CTA Chest Abdomen Pelvis,6452,CTA Chest
+CTAChestAbdomenPelvis,6344,CTA Chest Abdomen Pelvis,6449,CT Chest PE
+CTAChestAbdomenPelvis,6344,CTA Chest Abdomen Pelvis,6645,CT Chest Trachea
+CTAChestAbdomenPelvis,6344,CTA Chest Abdomen Pelvis,6411,CT Cardiac
+CTAChestAbdomenPelvis,6344,CTA Chest Abdomen Pelvis,6448,CT Chest
+CTAChestAbdomenPelvis,6344,CTA Chest Abdomen Pelvis,6681,CTA Chest Venogram
+CTAChestAbdomenPelvis,6344,CTA Chest Abdomen Pelvis,6454,CTA Coronary Artery
+Arthrogram,6352,MR Hip Arthrogram Left,6514,MR Hip Left
+USAbdomenLimited,6370,US Abdomen Limited,6570,US Right Upper Quadrant
+USAbdomenLimited,6370,US Abdomen Limited,6753,US Abdomen Vasculature
+USAbdomenLimited,6370,US Abdomen Limited,6585,US Aorta
+USAbdomenLimited,6370,US Abdomen Limited,6563,US Renal
+USAbdomenLimited,6370,US Abdomen Limited,6590,US Renal Artery
+USAbdomenLimited,6370,US Abdomen Limited,6560,US Abdomen Complete
+CTCardiacMass,6642,CT Cardiac Mass,6465,CT Thoracic Spine
+CTCardiacMass,6642,CT Cardiac Mass,6452,CTA Chest
+CTCardiacMass,6642,CT Cardiac Mass,6449,CT Chest PE
+CTCardiacMass,6642,CT Cardiac Mass,6645,CT Chest Trachea
+CTCardiacMass,6642,CT Cardiac Mass,6411,CT Cardiac
+CTCardiacMass,6642,CT Cardiac Mass,6448,CT Chest
+CTCardiacMass,6642,CT Cardiac Mass,6681,CTA Chest Venogram
+CTCardiacMass,6642,CT Cardiac Mass,6454,CTA Coronary Artery
+XRClavicleRight,6602,XR Clavicle Right,6613,XR Foot Right
+XRClavicleRight,6602,XR Clavicle Right,6607,XR Forearm Right
+XRClavicleRight,6602,XR Clavicle Right,6611,XR Finger Right
+XRClavicleRight,6602,XR Clavicle Right,6631,XR Shoulder Right
+XRClavicleRight,6602,XR Clavicle Right,6605,XR Elbow Right
+XRClavicleRight,6602,XR Clavicle Right,6635,XR Wrist Right
+XRClavicleRight,6602,XR Clavicle Right,6621,XR Humerus Right
+XRClavicleRight,6602,XR Clavicle Right,6619,XR Hand Right
+MRBrainPituitary,6385,MR Brain Pituitary,6340,MR Skull Base
+MRBrainPituitary,6385,MR Brain Pituitary,6404,MR Sinus
+MRBrainPituitary,6385,MR Brain Pituitary,6398,MR Parotid
+MRBrainPituitary,6385,MR Brain Pituitary,6396,MR Orbits
+MRBrainPituitary,6385,MR Brain Pituitary,6537,MR TMJ
+MRBrainPituitary,6385,MR Brain Pituitary,6534,MRA Head
+MRBrainPituitary,6385,MR Brain Pituitary,6532,MR Brain
+MRBrainPituitary,6385,MR Brain Pituitary,6725,MRA Brain Neck
+MRBrainPituitary,6385,MR Brain Pituitary,6531,MRA Spine
+MRBrainPituitary,6385,MR Brain Pituitary,6533,MR Face
+WithContrast,6717,MR Shoulder Left I+,6525,MR Shoulder Left
+USAxillaNonBreastLeft,6573,US Axilla Non Breast Left,6588,US Upper Extremity Artery Left
+USAxillaNonBreastLeft,6573,US Axilla Non Breast Left,6594,US Upper Extremity Venous Left
+USAxillaNonBreastLeft,6573,US Axilla Non Breast Left,6577,US Shoulder Left
+NMPETCTProstateAxumin,6559,NM PET CT Prostate Axumin,6732,NM PET Skull Base to Mid Thighs
+NMPETCTProstateAxumin,6559,NM PET CT Prostate Axumin,6731,NM PET Scalp to Toes
+NMPETCTProstateAxumin,6559,NM PET CT Prostate Axumin,6369,NM PET PSMA
+WithContrast,6387,MR Cervical Thoracic Lumbar Spine I+,6363,MR Cervical Thoracic Lumbar Spine
+WithContrast,6653,CT Foot Left I+,6420,CT Foot Left
+WithContrast,6650,CT Femur Right I+,6417,CT Femur Right
+FLSmallBowelFollowThrough,6473,FL Small Bowel Follow Through,6474,FL Upper GI
+FLSmallBowelFollowThrough,6473,FL Small Bowel Follow Through,6466,FL Barium Enema
+MRPlacenta,6401,MR Placenta,6521,MR Pelvis Bone
+MRPlacenta,6401,MR Placenta,6487,MR Penis Scrotum
+MRPlacenta,6401,MR Placenta,6489,MR Urogram
+MRPlacenta,6401,MR Placenta,6486,MR Pelvis GIGU
+MRPlacenta,6401,MR Placenta,6402,MR Rectum
+MRPlacenta,6401,MR Placenta,6541,MRA Pelvis
+MRPlacenta,6401,MR Placenta,6485,MR Pelvis Gyn
+MRPlacenta,6401,MR Placenta,6515,MR Hip Right
+MRPlacenta,6401,MR Placenta,6488,MR Prostate
+MRPlacenta,6401,MR Placenta,6522,MR Sacrum
+MRPlacenta,6401,MR Placenta,6514,MR Hip Left
+Arthrogram,6346,CT Knee Arthrogram Left,6430,CT Knee Left
+WithContrast,6708,MR Hip Right I+,6515,MR Hip Right
+MRPelvisPerianalFistula,6400,MR Pelvis Perianal Fistula,6521,MR Pelvis Bone
+MRPelvisPerianalFistula,6400,MR Pelvis Perianal Fistula,6487,MR Penis Scrotum
+MRPelvisPerianalFistula,6400,MR Pelvis Perianal Fistula,6489,MR Urogram
+MRPelvisPerianalFistula,6400,MR Pelvis Perianal Fistula,6486,MR Pelvis GIGU
+MRPelvisPerianalFistula,6400,MR Pelvis Perianal Fistula,6402,MR Rectum
+MRPelvisPerianalFistula,6400,MR Pelvis Perianal Fistula,6541,MRA Pelvis
+MRPelvisPerianalFistula,6400,MR Pelvis Perianal Fistula,6485,MR Pelvis Gyn
+MRPelvisPerianalFistula,6400,MR Pelvis Perianal Fistula,6515,MR Hip Right
+MRPelvisPerianalFistula,6400,MR Pelvis Perianal Fistula,6488,MR Prostate
+MRPelvisPerianalFistula,6400,MR Pelvis Perianal Fistula,6522,MR Sacrum
+MRPelvisPerianalFistula,6400,MR Pelvis Perianal Fistula,6514,MR Hip Left
+MRClavicleRightIPlus,6693,MR Clavicle Right I+,6517,MR Humerus Right
+MRClavicleRightIPlus,6693,MR Clavicle Right I+,6511,MR Forearm Right
+MRClavicleRightIPlus,6693,MR Clavicle Right I+,6507,MR Finger Right
+MRClavicleRightIPlus,6693,MR Clavicle Right I+,6530,MR Wrist Right
+MRClavicleRightIPlus,6693,MR Clavicle Right I+,6543,MRA Upper Extremity Right
+MRClavicleRightIPlus,6693,MR Clavicle Right I+,6526,MR Shoulder Right
+MRClavicleRightIPlus,6693,MR Clavicle Right I+,6513,MR Hand Right
+MRClavicleRightIPlus,6693,MR Clavicle Right I+,6503,MR Elbow Right
+MRScapulaLeftIPlus,6715,MR Scapula Left I+,6516,MR Humerus Left
+MRScapulaLeftIPlus,6715,MR Scapula Left I+,6506,MR Finger Left
+MRScapulaLeftIPlus,6715,MR Scapula Left I+,6502,MR Elbow Left
+MRScapulaLeftIPlus,6715,MR Scapula Left I+,6512,MR Hand Left
+MRScapulaLeftIPlus,6715,MR Scapula Left I+,6525,MR Shoulder Left
+MRScapulaLeftIPlus,6715,MR Scapula Left I+,6542,MRA Upper Extremity Left
+MRScapulaLeftIPlus,6715,MR Scapula Left I+,6529,MR Wrist Left
+MRScapulaLeftIPlus,6715,MR Scapula Left I+,6510,MR Forearm Left
+MRDefecography,6393,MR Defecography,6521,MR Pelvis Bone
+MRDefecography,6393,MR Defecography,6487,MR Penis Scrotum
+MRDefecography,6393,MR Defecography,6489,MR Urogram
+MRDefecography,6393,MR Defecography,6486,MR Pelvis GIGU
+MRDefecography,6393,MR Defecography,6402,MR Rectum
+MRDefecography,6393,MR Defecography,6541,MRA Pelvis
+MRDefecography,6393,MR Defecography,6485,MR Pelvis Gyn
+MRDefecography,6393,MR Defecography,6515,MR Hip Right
+MRDefecography,6393,MR Defecography,6488,MR Prostate
+MRDefecography,6393,MR Defecography,6522,MR Sacrum
+MRDefecography,6393,MR Defecography,6514,MR Hip Left
+WithContrast,6647,CT Elbow Right I+,6415,CT Elbow Right
+Arthrogram,6357,MR Shoulder Arthrogram Right,6526,MR Shoulder Right
+WithContrast,6661,CT Hip Right I+,6427,CT Hip Right
+CTToeLeftIPlus,6675,CT Toe Left I+,6432,CT Tibia Fibula Left
+CTToeLeftIPlus,6675,CT Toe Left I+,6412,CT Ankle Left
+CTToeLeftIPlus,6675,CT Toe Left I+,6420,CT Foot Left
+CTToeLeftIPlus,6675,CT Toe Left I+,6430,CT Knee Left
+CTToeLeftIPlus,6675,CT Toe Left I+,6416,CT Femur Left
+CTToeLeftIPlus,6675,CT Toe Left I+,6455,CTA Lower Extremity Left
+WithContrast,6673,CT Tibia Fibula Left I+,6432,CT Tibia Fibula Left
+MRLiverIronQuantification,6336,MR Liver Iron Quantification,6403,MR Renal
+MRLiverIronQuantification,6336,MR Liver Iron Quantification,6394,MR Liver
+MRLiverIronQuantification,6336,MR Liver Iron Quantification,6724,MRA Abdomen Pelvis Venogram
+MRLiverIronQuantification,6336,MR Liver Iron Quantification,6539,MRA Abdomen
+MRLiverIronQuantification,6336,MR Liver Iron Quantification,6337,MR Abdomen with MRCP
+MRLiverIronQuantification,6336,MR Liver Iron Quantification,6483,MR Enterography
+MRLiverIronQuantification,6336,MR Liver Iron Quantification,6545,MR Lumbar Spine
+MRLiverIronQuantification,6336,MR Liver Iron Quantification,6367,MRA Abdomen Pelvis
+MRLiverIronQuantification,6336,MR Liver Iron Quantification,6361,MR Abdomen Pelvis
+MRLiverIronQuantification,6336,MR Liver Iron Quantification,6382,MR Adrenal
+MRLiverIronQuantification,6336,MR Liver Iron Quantification,6481,MR Abdomen
+USAxillaNonBreastRight,6574,US Axilla Non Breast Right,6578,US Shoulder Right
+USAxillaNonBreastRight,6574,US Axilla Non Breast Right,6595,US Upper Extremity Venous Right
+USAxillaNonBreastRight,6574,US Axilla Non Breast Right,6589,US Upper Extremity Artery Right
+USParotid,6580,US Parotid,6581,US Brain
+Arthrogram,6354,MR Knee Arthrogram Left,6518,MR Knee Left
+MRScapulaLeft,6523,MR Scapula Left,6516,MR Humerus Left
+MRScapulaLeft,6523,MR Scapula Left,6506,MR Finger Left
+MRScapulaLeft,6523,MR Scapula Left,6502,MR Elbow Left
+MRScapulaLeft,6523,MR Scapula Left,6512,MR Hand Left
+MRScapulaLeft,6523,MR Scapula Left,6525,MR Shoulder Left
+MRScapulaLeft,6523,MR Scapula Left,6542,MRA Upper Extremity Left
+MRScapulaLeft,6523,MR Scapula Left,6529,MR Wrist Left
+MRScapulaLeft,6523,MR Scapula Left,6510,MR Forearm Left
+WithContrast,6709,MR Humerus Left I+,6516,MR Humerus Left
+MRAChestAbdomen,6726,MRA Chest Abdomen,6389,MR Chest Pleura
+MRAChestAbdomen,6726,MRA Chest Abdomen,6540,MRA Chest
+MRAChestAbdomen,6726,MRA Chest Abdomen,6546,MR Thoracic Spine
+MRAChestAbdomen,6726,MRA Chest Abdomen,6391,MR Chest Wall
+MRAChestAbdomen,6726,MRA Chest Abdomen,6388,MR Chest Mediastinum
+MRAChestAbdomen,6726,MRA Chest Abdomen,6491,MR Cardiac
+MRAChestAbdomen,6726,MRA Chest Abdomen,6538,MR Chest
+MRAChestAbdomen,6726,MRA Chest Abdomen,6339,MR Chest Nodule
+Venogram,6406,MRA Head Venogram,6534,MRA Head
+CTChestScreeningFollowup,6450,CT Chest Screening Follow-up,6465,CT Thoracic Spine
+CTChestScreeningFollowup,6450,CT Chest Screening Follow-up,6452,CTA Chest
+CTChestScreeningFollowup,6450,CT Chest Screening Follow-up,6449,CT Chest PE
+CTChestScreeningFollowup,6450,CT Chest Screening Follow-up,6645,CT Chest Trachea
+CTChestScreeningFollowup,6450,CT Chest Screening Follow-up,6411,CT Cardiac
+CTChestScreeningFollowup,6450,CT Chest Screening Follow-up,6448,CT Chest
+CTChestScreeningFollowup,6450,CT Chest Screening Follow-up,6681,CTA Chest Venogram
+CTChestScreeningFollowup,6450,CT Chest Screening Follow-up,6454,CTA Coronary Artery
+WithContrast,6723,MR Wrist Right I+,6530,MR Wrist Right
+MRBrainSpectroscopy,6341,MR Brain Spectroscopy,6340,MR Skull Base
+MRBrainSpectroscopy,6341,MR Brain Spectroscopy,6404,MR Sinus
+MRBrainSpectroscopy,6341,MR Brain Spectroscopy,6398,MR Parotid
+MRBrainSpectroscopy,6341,MR Brain Spectroscopy,6396,MR Orbits
+MRBrainSpectroscopy,6341,MR Brain Spectroscopy,6537,MR TMJ
+MRBrainSpectroscopy,6341,MR Brain Spectroscopy,6534,MRA Head
+MRBrainSpectroscopy,6341,MR Brain Spectroscopy,6532,MR Brain
+MRBrainSpectroscopy,6341,MR Brain Spectroscopy,6725,MRA Brain Neck
+MRBrainSpectroscopy,6341,MR Brain Spectroscopy,6531,MRA Spine
+MRBrainSpectroscopy,6341,MR Brain Spectroscopy,6533,MR Face
+Venogram,6685,CTA Upper Extremity Venogram Right,6459,CTA Upper Extremity Right
+MRScapulaRight,6524,MR Scapula Right,6517,MR Humerus Right
+MRScapulaRight,6524,MR Scapula Right,6511,MR Forearm Right
+MRScapulaRight,6524,MR Scapula Right,6507,MR Finger Right
+MRScapulaRight,6524,MR Scapula Right,6530,MR Wrist Right
+MRScapulaRight,6524,MR Scapula Right,6543,MRA Upper Extremity Right
+MRScapulaRight,6524,MR Scapula Right,6526,MR Shoulder Right
+MRScapulaRight,6524,MR Scapula Right,6513,MR Hand Right
+MRScapulaRight,6524,MR Scapula Right,6503,MR Elbow Right
+MRPelvisBladderStaging,6328,MR Pelvis Bladder Staging,6521,MR Pelvis Bone
+MRPelvisBladderStaging,6328,MR Pelvis Bladder Staging,6487,MR Penis Scrotum
+MRPelvisBladderStaging,6328,MR Pelvis Bladder Staging,6489,MR Urogram
+MRPelvisBladderStaging,6328,MR Pelvis Bladder Staging,6486,MR Pelvis GIGU
+MRPelvisBladderStaging,6328,MR Pelvis Bladder Staging,6402,MR Rectum
+MRPelvisBladderStaging,6328,MR Pelvis Bladder Staging,6541,MRA Pelvis
+MRPelvisBladderStaging,6328,MR Pelvis Bladder Staging,6485,MR Pelvis Gyn
+MRPelvisBladderStaging,6328,MR Pelvis Bladder Staging,6515,MR Hip Right
+MRPelvisBladderStaging,6328,MR Pelvis Bladder Staging,6488,MR Prostate
+MRPelvisBladderStaging,6328,MR Pelvis Bladder Staging,6522,MR Sacrum
+MRPelvisBladderStaging,6328,MR Pelvis Bladder Staging,6514,MR Hip Left
+MRAbdomenwithMRCP,6337,MR Abdomen with MRCP,6403,MR Renal
+MRAbdomenwithMRCP,6337,MR Abdomen with MRCP,6394,MR Liver
+MRAbdomenwithMRCP,6337,MR Abdomen with MRCP,6724,MRA Abdomen Pelvis Venogram
+MRAbdomenwithMRCP,6337,MR Abdomen with MRCP,6539,MRA Abdomen
+MRAbdomenwithMRCP,6337,MR Abdomen with MRCP,6483,MR Enterography
+MRAbdomenwithMRCP,6337,MR Abdomen with MRCP,6545,MR Lumbar Spine
+MRAbdomenwithMRCP,6337,MR Abdomen with MRCP,6367,MRA Abdomen Pelvis
+MRAbdomenwithMRCP,6337,MR Abdomen with MRCP,6361,MR Abdomen Pelvis
+MRAbdomenwithMRCP,6337,MR Abdomen with MRCP,6382,MR Adrenal
+MRAbdomenwithMRCP,6337,MR Abdomen with MRCP,6481,MR Abdomen
+MRChestNodule,6339,MR Chest Nodule,6389,MR Chest Pleura
+MRChestNodule,6339,MR Chest Nodule,6540,MRA Chest
+MRChestNodule,6339,MR Chest Nodule,6546,MR Thoracic Spine
+MRChestNodule,6339,MR Chest Nodule,6391,MR Chest Wall
+MRChestNodule,6339,MR Chest Nodule,6388,MR Chest Mediastinum
+MRChestNodule,6339,MR Chest Nodule,6491,MR Cardiac
+MRChestNodule,6339,MR Chest Nodule,6538,MR Chest
+MRAbdomenPelvis,6361,MR Abdomen Pelvis,6403,MR Renal
+MRAbdomenPelvis,6361,MR Abdomen Pelvis,6394,MR Liver
+MRAbdomenPelvis,6361,MR Abdomen Pelvis,6724,MRA Abdomen Pelvis Venogram
+MRAbdomenPelvis,6361,MR Abdomen Pelvis,6539,MRA Abdomen
+MRAbdomenPelvis,6361,MR Abdomen Pelvis,6337,MR Abdomen with MRCP
+MRAbdomenPelvis,6361,MR Abdomen Pelvis,6483,MR Enterography
+MRAbdomenPelvis,6361,MR Abdomen Pelvis,6545,MR Lumbar Spine
+MRAbdomenPelvis,6361,MR Abdomen Pelvis,6367,MRA Abdomen Pelvis
+MRAbdomenPelvis,6361,MR Abdomen Pelvis,6382,MR Adrenal
+MRAbdomenPelvis,6361,MR Abdomen Pelvis,6481,MR Abdomen
+MRAAbdomenPelvis,6367,MRA Abdomen Pelvis,6403,MR Renal
+MRAAbdomenPelvis,6367,MRA Abdomen Pelvis,6394,MR Liver
+MRAAbdomenPelvis,6367,MRA Abdomen Pelvis,6724,MRA Abdomen Pelvis Venogram
+MRAAbdomenPelvis,6367,MRA Abdomen Pelvis,6539,MRA Abdomen
+MRAAbdomenPelvis,6367,MRA Abdomen Pelvis,6337,MR Abdomen with MRCP
+MRAAbdomenPelvis,6367,MRA Abdomen Pelvis,6483,MR Enterography
+MRAAbdomenPelvis,6367,MRA Abdomen Pelvis,6545,MR Lumbar Spine
+MRAAbdomenPelvis,6367,MRA Abdomen Pelvis,6361,MR Abdomen Pelvis
+MRAAbdomenPelvis,6367,MRA Abdomen Pelvis,6382,MR Adrenal
+MRAAbdomenPelvis,6367,MRA Abdomen Pelvis,6481,MR Abdomen
+MRChestMediastinum,6388,MR Chest Mediastinum,6389,MR Chest Pleura
+MRChestMediastinum,6388,MR Chest Mediastinum,6540,MRA Chest
+MRChestMediastinum,6388,MR Chest Mediastinum,6546,MR Thoracic Spine
+MRChestMediastinum,6388,MR Chest Mediastinum,6391,MR Chest Wall
+MRChestMediastinum,6388,MR Chest Mediastinum,6491,MR Cardiac
+MRChestMediastinum,6388,MR Chest Mediastinum,6538,MR Chest
+MRChestMediastinum,6388,MR Chest Mediastinum,6339,MR Chest Nodule
+MRChestPleura,6389,MR Chest Pleura,6540,MRA Chest
+MRChestPleura,6389,MR Chest Pleura,6546,MR Thoracic Spine
+MRChestPleura,6389,MR Chest Pleura,6391,MR Chest Wall
+MRChestPleura,6389,MR Chest Pleura,6388,MR Chest Mediastinum
+MRChestPleura,6389,MR Chest Pleura,6491,MR Cardiac
+MRChestPleura,6389,MR Chest Pleura,6538,MR Chest
+MRChestPleura,6389,MR Chest Pleura,6339,MR Chest Nodule
+CTColonography,6407,CT Colonography,6374,CT Cystogram
+CTColonography,6407,CT Colonography,6409,CT Abdomen Pelvis
+CTColonography,6407,CT Colonography,6377,CT Renal
+CTColonography,6407,CT Colonography,6639,CT Abdomen
+CTColonography,6407,CT Colonography,6371,CT Adrenal
+CTColonography,6407,CT Colonography,6408,CT Enterography
+CTColonography,6407,CT Colonography,6451,CTA Abdomen Pelvis
+CTColonography,6407,CT Colonography,6342,CT Pancreas
+CTColonography,6407,CT Colonography,6679,CTA Abdomen
+CTColonography,6407,CT Colonography,6680,CTA Abdomen Pelvis Venogram
+CTColonography,6407,CT Colonography,6376,CT Liver
+CTColonography,6407,CT Colonography,6460,CT Lumbar Spine
+CTEnterography,6408,CT Enterography,6374,CT Cystogram
+CTEnterography,6408,CT Enterography,6409,CT Abdomen Pelvis
+CTEnterography,6408,CT Enterography,6377,CT Renal
+CTEnterography,6408,CT Enterography,6639,CT Abdomen
+CTEnterography,6408,CT Enterography,6407,CT Colonography
+CTEnterography,6408,CT Enterography,6371,CT Adrenal
+CTEnterography,6408,CT Enterography,6342,CT Pancreas
+CTEnterography,6408,CT Enterography,6451,CTA Abdomen Pelvis
+CTEnterography,6408,CT Enterography,6679,CTA Abdomen
+CTEnterography,6408,CT Enterography,6680,CTA Abdomen Pelvis Venogram
+CTEnterography,6408,CT Enterography,6376,CT Liver
+CTEnterography,6408,CT Enterography,6460,CT Lumbar Spine
+CTAPelvis,6447,CTA Pelvis,6434,CT Sacrum
+CTAPelvis,6447,CTA Pelvis,6426,CT Hip Left
+CTAPelvis,6447,CTA Pelvis,6427,CT Hip Right
+CTAPelvis,6447,CTA Pelvis,6462,CT Pelvis
+CTAPelvis,6447,CTA Pelvis,6410,CT Urogram
+MRAPelvis,6541,MRA Pelvis,6521,MR Pelvis Bone
+MRAPelvis,6541,MRA Pelvis,6487,MR Penis Scrotum
+MRAPelvis,6541,MRA Pelvis,6489,MR Urogram
+MRAPelvis,6541,MRA Pelvis,6486,MR Pelvis GIGU
+MRAPelvis,6541,MRA Pelvis,6402,MR Rectum
+MRAPelvis,6541,MRA Pelvis,6485,MR Pelvis Gyn
+MRAPelvis,6541,MRA Pelvis,6515,MR Hip Right
+MRAPelvis,6541,MRA Pelvis,6488,MR Prostate
+MRAPelvis,6541,MRA Pelvis,6522,MR Sacrum
+MRAPelvis,6541,MRA Pelvis,6514,MR Hip Left
+CTChestScreeningAnnual,6765,CT Chest Screening Annual,6448,CT Chest

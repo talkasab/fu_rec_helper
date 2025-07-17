@@ -1,0 +1,1503 @@
+id,name,category,modality,region
+6304,Non-Radiology Recommendation,special,US,
+6304,Non-Radiology Recommendation,special,US - Duplex,
+6304,Non-Radiology Recommendation,special,US • Transcranial,
+6304,Non-Radiology Recommendation,special,US • Transrectal,
+6304,Non-Radiology Recommendation,special,US Duplex,
+6304,Non-Radiology Recommendation,special,Vascular Lab,
+6307,Recommendation for Additional Imaging - Laterality Unspecified,special,Calcium Scoring,
+6307,Recommendation for Additional Imaging - Laterality Unspecified,special,Conventional Tomography,
+6307,Recommendation for Additional Imaging - Laterality Unspecified,special,CT,
+6307,Recommendation for Additional Imaging - Laterality Unspecified,special,CTA,
+6307,Recommendation for Additional Imaging - Laterality Unspecified,special,Ductogram,
+6307,Recommendation for Additional Imaging - Laterality Unspecified,special,Mammography,
+6307,Recommendation for Additional Imaging - Laterality Unspecified,special,MG,
+6307,Recommendation for Additional Imaging - Laterality Unspecified,special,MR,
+6307,Recommendation for Additional Imaging - Laterality Unspecified,special,MRA,
+6307,Recommendation for Additional Imaging - Laterality Unspecified,special,MRI,
+6307,Recommendation for Additional Imaging - Laterality Unspecified,special,MRI - Flow Mapping,
+6307,Recommendation for Additional Imaging - Laterality Unspecified,special,MRI - Functional,
+6307,Recommendation for Additional Imaging - Laterality Unspecified,special,Pelvimetry,
+6307,Recommendation for Additional Imaging - Laterality Unspecified,special,Radiography,
+6307,Recommendation for Additional Imaging - Laterality Unspecified,special,Spectroscopy,
+6307,Recommendation for Additional Imaging - Laterality Unspecified,special,US,
+6307,Recommendation for Additional Imaging - Laterality Unspecified,special,US - Duplex,
+6307,Recommendation for Additional Imaging - Laterality Unspecified,special,US • Transcranial,
+6307,Recommendation for Additional Imaging - Laterality Unspecified,special,US • Transrectal,
+6307,Recommendation for Additional Imaging - Laterality Unspecified,special,US Duplex,
+6307,Recommendation for Additional Imaging - Laterality Unspecified,special,Vascular Lab,
+6307,Recommendation for Additional Imaging - Laterality Unspecified,special,X-Ray - Dental,
+6307,Recommendation for Additional Imaging - Laterality Unspecified,special,X-Ray - Diskography,
+6307,Recommendation for Additional Imaging - Laterality Unspecified,special,X-Ray - Magnification,
+6307,Recommendation for Additional Imaging - Laterality Unspecified,special,X-Ray - Specimen,
+6307,Recommendation for Additional Imaging - Laterality Unspecified,special,X-Ray - Standard,
+6307,Recommendation for Additional Imaging - Laterality Unspecified,special,X-Ray - Stereoscopic,
+6307,Recommendation for Additional Imaging - Laterality Unspecified,special,X-Ray w/Fluoroscopy,
+6337,MR Abdomen with MRCP,abdominal,MR,abdomen
+6337,MR Abdomen with MRCP,abdominal,MRI,abdomen
+6337,MR Abdomen with MRCP,abdominal,MRI - Flow Mapping,abdomen
+6337,MR Abdomen with MRCP,abdominal,MRI - Functional,abdomen
+6337,MR Abdomen with MRCP,abdominal,MRI-MRCP ,abdomen
+6337,MR Abdomen with MRCP,abdominal,Spectroscopy,abdomen
+6339,MR Chest Nodule,thoracic,MR,chest
+6339,MR Chest Nodule,thoracic,MRI,chest
+6339,MR Chest Nodule,thoracic,MRI - Flow Mapping,chest
+6339,MR Chest Nodule,thoracic,MRI - Functional,chest
+6339,MR Chest Nodule,thoracic,Spectroscopy,chest
+6340,MR Skull Base,neuro,MR,head
+6340,MR Skull Base,neuro,MRI,head
+6340,MR Skull Base,neuro,MRI - Flow Mapping,head
+6340,MR Skull Base,neuro,MRI - Functional,head
+6340,MR Skull Base,neuro,Spectroscopy,head
+6342,CT Pancreas,abdominal,Calcium Scoring,abdomen
+6342,CT Pancreas,abdominal,Conventional Tomography,abdomen
+6342,CT Pancreas,abdominal,CT,abdomen
+6343,MR Brain IAC,neuro,MR,head
+6343,MR Brain IAC,neuro,MRI,head
+6343,MR Brain IAC,neuro,MRI - Flow Mapping,head
+6343,MR Brain IAC,neuro,MRI - Functional,head
+6343,MR Brain IAC,neuro,Spectroscopy,head
+6360,CT Cervical Thoracic Lumbar Myelography,spine,Myelography,body
+6361,MR Abdomen Pelvis,abdominal,MR,abdomen
+6361,MR Abdomen Pelvis,abdominal,MRI,abdomen
+6361,MR Abdomen Pelvis,abdominal,MRI - Flow Mapping,abdomen
+6361,MR Abdomen Pelvis,abdominal,MRI - Functional,abdomen
+6361,MR Abdomen Pelvis,abdominal,Spectroscopy,abdomen
+6363,MR Cervical Thoracic Lumbar Spine,spine,MR,body
+6363,MR Cervical Thoracic Lumbar Spine,spine,MRI,body
+6363,MR Cervical Thoracic Lumbar Spine,spine,MRI - Flow Mapping,body
+6363,MR Cervical Thoracic Lumbar Spine,spine,MRI - Functional,body
+6363,MR Cervical Thoracic Lumbar Spine,spine,Spectroscopy,body
+6367,MRA Abdomen Pelvis,cv,MR,abdomen
+6367,MRA Abdomen Pelvis,cv,MRA,abdomen
+6367,MRA Abdomen Pelvis,cv,MRI,abdomen
+6367,MRA Abdomen Pelvis,cv,MRI - Flow Mapping,abdomen
+6367,MRA Abdomen Pelvis,cv,MRI - Functional,abdomen
+6367,MRA Abdomen Pelvis,cv,Spectroscopy,abdomen
+6369,NM PET PSMA,nm,PET,body
+6369,NM PET PSMA,nm,PET - Perfusion,body
+6369,NM PET PSMA,nm,PET w/ CT,body
+6369,NM PET PSMA,nm,PET w/CT,body
+6369,NM PET PSMA,nm,PET/CT,body
+6371,CT Adrenal,abdominal,Calcium Scoring,abdomen
+6371,CT Adrenal,abdominal,Conventional Tomography,abdomen
+6371,CT Adrenal,abdominal,CT,abdomen
+6374,CT Cystogram,abdominal,Calcium Scoring,abdomen
+6374,CT Cystogram,abdominal,Conventional Tomography,abdomen
+6374,CT Cystogram,abdominal,CT,abdomen
+6376,CT Liver,abdominal,Calcium Scoring,abdomen
+6376,CT Liver,abdominal,Conventional Tomography,abdomen
+6376,CT Liver,abdominal,CT,abdomen
+6377,CT Renal,abdominal,Calcium Scoring,abdomen
+6377,CT Renal,abdominal,Conventional Tomography,abdomen
+6377,CT Renal,abdominal,CT,abdomen
+6378,CT Sinus,neuro,Calcium Scoring,head
+6378,CT Sinus,neuro,Conventional Tomography,head
+6378,CT Sinus,neuro,CT,head
+6381,CTA Neck Venogram,neuro,Calcium Scoring,neck
+6381,CTA Neck Venogram,neuro,Conventional Tomography,neck
+6381,CTA Neck Venogram,neuro,CT,neck
+6381,CTA Neck Venogram,neuro,CTA,neck
+6382,MR Adrenal,abdominal,MR,abdomen
+6382,MR Adrenal,abdominal,MRI,abdomen
+6382,MR Adrenal,abdominal,MRI - Flow Mapping,abdomen
+6382,MR Adrenal,abdominal,MRI - Functional,abdomen
+6382,MR Adrenal,abdominal,Spectroscopy,abdomen
+6388,MR Chest Mediastinum,thoracic,MR,chest
+6388,MR Chest Mediastinum,thoracic,MRI,chest
+6388,MR Chest Mediastinum,thoracic,MRI - Flow Mapping,chest
+6388,MR Chest Mediastinum,thoracic,MRI - Functional,chest
+6388,MR Chest Mediastinum,thoracic,Spectroscopy,chest
+6389,MR Chest Pleura,thoracic,MR,chest
+6389,MR Chest Pleura,thoracic,MRI,chest
+6389,MR Chest Pleura,thoracic,MRI - Flow Mapping,chest
+6389,MR Chest Pleura,thoracic,MRI - Functional,chest
+6389,MR Chest Pleura,thoracic,Spectroscopy,chest
+6391,MR Chest Wall,thoracic,MR,chest
+6391,MR Chest Wall,thoracic,MRI,chest
+6391,MR Chest Wall,thoracic,MRI - Flow Mapping,chest
+6391,MR Chest Wall,thoracic,MRI - Functional,chest
+6391,MR Chest Wall,thoracic,Spectroscopy,chest
+6394,MR Liver,abdominal,MR,abdomen
+6394,MR Liver,abdominal,MRI,abdomen
+6394,MR Liver,abdominal,MRI - Flow Mapping,abdomen
+6394,MR Liver,abdominal,MRI - Functional,abdomen
+6394,MR Liver,abdominal,Spectroscopy,abdomen
+6396,MR Orbits,neuro,MR,head
+6396,MR Orbits,neuro,MRI,head
+6396,MR Orbits,neuro,MRI - Flow Mapping,head
+6396,MR Orbits,neuro,MRI - Functional,head
+6396,MR Orbits,neuro,Spectroscopy,head
+6397,MRA Popliteal Entrapment Left,cv,MRA,leg
+6398,MR Parotid,neuro,MR,head
+6398,MR Parotid,neuro,MRI,head
+6398,MR Parotid,neuro,MRI - Flow Mapping,head
+6398,MR Parotid,neuro,MRI - Functional,head
+6398,MR Parotid,neuro,Spectroscopy,head
+6402,MR Rectum,abdominal,MR,pelvis
+6402,MR Rectum,abdominal,MRI,pelvis
+6402,MR Rectum,abdominal,MRI - Flow Mapping,pelvis
+6402,MR Rectum,abdominal,MRI - Functional,pelvis
+6402,MR Rectum,abdominal,Spectroscopy,pelvis
+6403,MR Renal,abdominal,MR,abdomen
+6403,MR Renal,abdominal,MRI,abdomen
+6403,MR Renal,abdominal,MRI - Flow Mapping,abdomen
+6403,MR Renal,abdominal,MRI - Functional,abdomen
+6403,MR Renal,abdominal,Spectroscopy,abdomen
+6404,MR Sinus,neuro,MR,head
+6404,MR Sinus,neuro,MRI,head
+6404,MR Sinus,neuro,MRI - Flow Mapping,head
+6404,MR Sinus,neuro,MRI - Functional,head
+6404,MR Sinus,neuro,Spectroscopy,head
+6407,CT Colonography,abdominal,Calcium Scoring,abdomen
+6407,CT Colonography,abdominal,Conventional Tomography,abdomen
+6407,CT Colonography,abdominal,CT,abdomen
+6408,CT Enterography,abdominal,Calcium Scoring,abdomen
+6408,CT Enterography,abdominal,Conventional Tomography,abdomen
+6408,CT Enterography,abdominal,CT,abdomen
+6409,CT Abdomen Pelvis,abdominal,Calcium Scoring,abdomen
+6409,CT Abdomen Pelvis,abdominal,Conventional Tomography,abdomen
+6409,CT Abdomen Pelvis,abdominal,CT,abdomen
+6409,CT Abdomen Pelvis,abdominal,CTA,abdomen
+6410,CT Urogram,abdominal,Calcium Scoring,pelvis
+6410,CT Urogram,abdominal,Conventional Tomography,pelvis
+6410,CT Urogram,abdominal,CT,pelvis
+6411,CT Cardiac,cv,Calcium Scoring,chest
+6411,CT Cardiac,cv,Conventional Tomography,chest
+6411,CT Cardiac,cv,CT,chest
+6411,CT Cardiac,cv,CTA,chest
+6412,CT Ankle Left,msk,Calcium Scoring,leg
+6412,CT Ankle Left,msk,Conventional Tomography,leg
+6412,CT Ankle Left,msk,CT,leg
+6413,CT Ankle Right,msk,Calcium Scoring,leg
+6413,CT Ankle Right,msk,Conventional Tomography,leg
+6413,CT Ankle Right,msk,CT,leg
+6414,CT Elbow Left,msk,Calcium Scoring,arm
+6414,CT Elbow Left,msk,Conventional Tomography,arm
+6414,CT Elbow Left,msk,CT,arm
+6415,CT Elbow Right,msk,Calcium Scoring,arm
+6415,CT Elbow Right,msk,Conventional Tomography,arm
+6415,CT Elbow Right,msk,CT,arm
+6416,CT Femur Left,msk,Calcium Scoring,leg
+6416,CT Femur Left,msk,Conventional Tomography,leg
+6416,CT Femur Left,msk,CT,leg
+6417,CT Femur Right,msk,Calcium Scoring,leg
+6417,CT Femur Right,msk,Conventional Tomography,leg
+6417,CT Femur Right,msk,CT,leg
+6418,CT Finger Left,msk,Calcium Scoring,arm
+6418,CT Finger Left,msk,Conventional Tomography,arm
+6418,CT Finger Left,msk,CT,arm
+6419,CT Finger Right,msk,Calcium Scoring,arm
+6419,CT Finger Right,msk,Conventional Tomography,arm
+6419,CT Finger Right,msk,CT,arm
+6420,CT Foot Left,msk,Calcium Scoring,leg
+6420,CT Foot Left,msk,Conventional Tomography,leg
+6420,CT Foot Left,msk,CT,leg
+6421,CT Foot Right,msk,Calcium Scoring,leg
+6421,CT Foot Right,msk,Conventional Tomography,leg
+6421,CT Foot Right,msk,CT,leg
+6422,CT Forearm Left,msk,Calcium Scoring,arm
+6422,CT Forearm Left,msk,Conventional Tomography,arm
+6422,CT Forearm Left,msk,CT,arm
+6423,CT Forearm Right,msk,Calcium Scoring,arm
+6423,CT Forearm Right,msk,Conventional Tomography,arm
+6423,CT Forearm Right,msk,CT,arm
+6424,CT Hand Left,msk,Calcium Scoring,arm
+6424,CT Hand Left,msk,Conventional Tomography,arm
+6424,CT Hand Left,msk,CT,arm
+6425,CT Hand Right,msk,Calcium Scoring,arm
+6425,CT Hand Right,msk,Conventional Tomography,arm
+6425,CT Hand Right,msk,CT,arm
+6426,CT Hip Left,msk,Calcium Scoring,pelvis
+6426,CT Hip Left,msk,Conventional Tomography,pelvis
+6426,CT Hip Left,msk,CT,pelvis
+6427,CT Hip Right,msk,Calcium Scoring,pelvis
+6427,CT Hip Right,msk,Conventional Tomography,pelvis
+6427,CT Hip Right,msk,CT,pelvis
+6428,CT Humerus Left,msk,Calcium Scoring,arm
+6428,CT Humerus Left,msk,Conventional Tomography,arm
+6428,CT Humerus Left,msk,CT,arm
+6429,CT Humerus Right,msk,Calcium Scoring,arm
+6429,CT Humerus Right,msk,Conventional Tomography,arm
+6429,CT Humerus Right,msk,CT,arm
+6430,CT Knee Left,msk,Calcium Scoring,leg
+6430,CT Knee Left,msk,Conventional Tomography,leg
+6430,CT Knee Left,msk,CT,leg
+6431,CT Knee Right,msk,Calcium Scoring,leg
+6431,CT Knee Right,msk,Conventional Tomography,leg
+6431,CT Knee Right,msk,CT,leg
+6432,CT Tibia Fibula Left,msk,Calcium Scoring,leg
+6432,CT Tibia Fibula Left,msk,Conventional Tomography,leg
+6432,CT Tibia Fibula Left,msk,CT,leg
+6433,CT Tibia Fibula Right,msk,Calcium Scoring,leg
+6433,CT Tibia Fibula Right,msk,Conventional Tomography,leg
+6433,CT Tibia Fibula Right,msk,CT,leg
+6434,CT Sacrum,spine,Calcium Scoring,pelvis
+6434,CT Sacrum,spine,Conventional Tomography,pelvis
+6434,CT Sacrum,spine,CT,pelvis
+6435,CT Shoulder Left,msk,Calcium Scoring,arm
+6435,CT Shoulder Left,msk,Conventional Tomography,arm
+6435,CT Shoulder Left,msk,CT,arm
+6436,CT Shoulder Right,msk,Calcium Scoring,arm
+6436,CT Shoulder Right,msk,Conventional Tomography,arm
+6436,CT Shoulder Right,msk,CT,arm
+6437,CT Toe Left,msk,Calcium Scoring,leg
+6437,CT Toe Left,msk,Conventional Tomography,leg
+6437,CT Toe Left,msk,CT,leg
+6438,CT Toe Right,msk,Calcium Scoring,leg
+6438,CT Toe Right,msk,Conventional Tomography,leg
+6438,CT Toe Right,msk,CT,leg
+6439,CT Wrist Left,msk,Calcium Scoring,arm
+6439,CT Wrist Left,msk,Conventional Tomography,arm
+6439,CT Wrist Left,msk,CT,arm
+6440,CT Wrist Right,msk,Calcium Scoring,arm
+6440,CT Wrist Right,msk,Conventional Tomography,arm
+6440,CT Wrist Right,msk,CT,arm
+6441,CT Face,neuro,Calcium Scoring,head
+6441,CT Face,neuro,Conventional Tomography,head
+6441,CT Face,neuro,CT,head
+6442,CT TMJ,msk,Calcium Scoring,head
+6442,CT TMJ,msk,Conventional Tomography,head
+6442,CT TMJ,msk,CT,head
+6443,CT Head,neuro,Calcium Scoring,head
+6443,CT Head,neuro,Conventional Tomography,head
+6443,CT Head,neuro,CT,head
+6444,CTA Head,neuro,Calcium Scoring,head
+6444,CTA Head,neuro,Conventional Tomography,head
+6444,CTA Head,neuro,CT,head
+6444,CTA Head,neuro,CTA,head
+6445,CT Temporal Bone,neuro,Calcium Scoring,head
+6445,CT Temporal Bone,neuro,Conventional Tomography,head
+6445,CT Temporal Bone,neuro,CT,head
+6446,CTA Neck,neuro,Calcium Scoring,neck
+6446,CTA Neck,neuro,Conventional Tomography,neck
+6446,CTA Neck,neuro,CT,neck
+6446,CTA Neck,neuro,CTA,neck
+6447,CTA Pelvis,cv,CTA,pelvis
+6448,CT Chest,thoracic,Calcium Scoring,chest
+6448,CT Chest,thoracic,Conventional Tomography,chest
+6448,CT Chest,thoracic,CT,chest
+6449,CT Chest PE,thoracic,Calcium Scoring,chest
+6449,CT Chest PE,thoracic,Conventional Tomography,chest
+6449,CT Chest PE,thoracic,CT,chest
+6449,CT Chest PE,thoracic,CTA,chest
+6451,CTA Abdomen Pelvis,cv,Calcium Scoring,abdomen
+6451,CTA Abdomen Pelvis,cv,Conventional Tomography,abdomen
+6451,CTA Abdomen Pelvis,cv,CT,abdomen
+6451,CTA Abdomen Pelvis,cv,CTA,abdomen
+6452,CTA Chest,cv,Calcium Scoring,chest
+6452,CTA Chest,cv,Conventional Tomography,chest
+6452,CTA Chest,cv,CT,chest
+6452,CTA Chest,cv,CTA,chest
+6454,CTA Coronary Artery,cv,Calcium Scoring,chest
+6454,CTA Coronary Artery,cv,Conventional Tomography,chest
+6454,CTA Coronary Artery,cv,CT,chest
+6454,CTA Coronary Artery,cv,CTA,chest
+6455,CTA Lower Extremity Left,cv,Calcium Scoring,leg
+6455,CTA Lower Extremity Left,cv,Conventional Tomography,leg
+6455,CTA Lower Extremity Left,cv,CT,leg
+6455,CTA Lower Extremity Left,cv,CTA,leg
+6456,CTA Lower Extremity Right,cv,Calcium Scoring,leg
+6456,CTA Lower Extremity Right,cv,Conventional Tomography,leg
+6456,CTA Lower Extremity Right,cv,CT,leg
+6456,CTA Lower Extremity Right,cv,CTA,leg
+6457,CTA Lower Extremity Bilateral,cv,Calcium Scoring,leg
+6457,CTA Lower Extremity Bilateral,cv,Conventional Tomography,leg
+6457,CTA Lower Extremity Bilateral,cv,CT,leg
+6457,CTA Lower Extremity Bilateral,cv,CTA,leg
+6458,CTA Upper Extremity Left,cv,Calcium Scoring,arm
+6458,CTA Upper Extremity Left,cv,Conventional Tomography,arm
+6458,CTA Upper Extremity Left,cv,CT,arm
+6458,CTA Upper Extremity Left,cv,CTA,arm
+6459,CTA Upper Extremity Right,cv,Calcium Scoring,arm
+6459,CTA Upper Extremity Right,cv,Conventional Tomography,arm
+6459,CTA Upper Extremity Right,cv,CT,arm
+6459,CTA Upper Extremity Right,cv,CTA,arm
+6460,CT Lumbar Spine,spine,Calcium Scoring,abdomen
+6460,CT Lumbar Spine,spine,Conventional Tomography,abdomen
+6460,CT Lumbar Spine,spine,CT,abdomen
+6461,CT Neck,neuro,Calcium Scoring,neck
+6461,CT Neck,neuro,Conventional Tomography,neck
+6461,CT Neck,neuro,CT,neck
+6462,CT Pelvis,abdominal,Calcium Scoring,pelvis
+6462,CT Pelvis,abdominal,Conventional Tomography,pelvis
+6462,CT Pelvis,abdominal,CT,pelvis
+6462,CT Pelvis,abdominal,CTA,pelvis
+6464,CT Cervical Spine,spine,Calcium Scoring,neck
+6464,CT Cervical Spine,spine,Conventional Tomography,neck
+6464,CT Cervical Spine,spine,CT,neck
+6465,CT Thoracic Spine,spine,Calcium Scoring,chest
+6465,CT Thoracic Spine,spine,Conventional Tomography,chest
+6465,CT Thoracic Spine,spine,CT,chest
+6466,FL Barium Enema,abdominal,Fluoroscopy,abdomen
+6466,FL Barium Enema,abdominal,Fluoroscopy - Dynamic,abdomen
+6467,FL Barium Swallow,abdominal,Fluoroscopy,chest
+6467,FL Barium Swallow,abdominal,Fluoroscopy - Dynamic,chest
+6468,FL Cystogram,abdominal,Fluoroscopy,pelvis
+6468,FL Cystogram,abdominal,Fluoroscopy - Dynamic,pelvis
+6471,FL HSG,abdominal,Fluoroscopy,pelvis
+6471,FL HSG,abdominal,Fluoroscopy - Dynamic,pelvis
+6474,FL Upper GI,abdominal,Fluoroscopy,abdomen
+6474,FL Upper GI,abdominal,Fluoroscopy - Dynamic,abdomen
+6475,FL Vaginogram,abdominal,Fluoroscopy,pelvis
+6475,FL Vaginogram,abdominal,Fluoroscopy - Dynamic,pelvis
+6476,FL Chest Sniff,thoracic,Fluoroscopy,chest
+6476,FL Chest Sniff,thoracic,Fluoroscopy - Dynamic,chest
+6477,MG Breast Diagnostic Bilateral,breast,Ductogram,breast
+6477,MG Breast Diagnostic Bilateral,breast,Mammography,breast
+6477,MG Breast Diagnostic Bilateral,breast,MG,breast
+6477,MG Breast Diagnostic Bilateral,breast,Pelvimetry,breast
+6477,MG Breast Diagnostic Bilateral,breast,Radiography,breast
+6477,MG Breast Diagnostic Bilateral,breast,X-Ray - Dental,breast
+6477,MG Breast Diagnostic Bilateral,breast,X-Ray - Diskography,breast
+6477,MG Breast Diagnostic Bilateral,breast,X-Ray - Magnification,breast
+6477,MG Breast Diagnostic Bilateral,breast,X-Ray - Specimen,breast
+6477,MG Breast Diagnostic Bilateral,breast,X-Ray - Standard,breast
+6477,MG Breast Diagnostic Bilateral,breast,X-Ray - Stereoscopic,breast
+6477,MG Breast Diagnostic Bilateral,breast,X-Ray w/Fluoroscopy,breast
+6478,CTA Head Neck,neuro,CTA,head
+6479,MG Breast Diagnostic Left,breast,Ductogram,breast
+6479,MG Breast Diagnostic Left,breast,Mammography,breast
+6479,MG Breast Diagnostic Left,breast,MG,breast
+6479,MG Breast Diagnostic Left,breast,Pelvimetry,breast
+6479,MG Breast Diagnostic Left,breast,Radiography,breast
+6479,MG Breast Diagnostic Left,breast,X-Ray - Dental,breast
+6479,MG Breast Diagnostic Left,breast,X-Ray - Diskography,breast
+6479,MG Breast Diagnostic Left,breast,X-Ray - Magnification,breast
+6479,MG Breast Diagnostic Left,breast,X-Ray - Specimen,breast
+6479,MG Breast Diagnostic Left,breast,X-Ray - Standard,breast
+6479,MG Breast Diagnostic Left,breast,X-Ray - Stereoscopic,breast
+6479,MG Breast Diagnostic Left,breast,X-Ray w/Fluoroscopy,breast
+6480,MG Breast Diagnostic Right,breast,Ductogram,breast
+6480,MG Breast Diagnostic Right,breast,Mammography,breast
+6480,MG Breast Diagnostic Right,breast,MG,breast
+6480,MG Breast Diagnostic Right,breast,Pelvimetry,breast
+6480,MG Breast Diagnostic Right,breast,Radiography,breast
+6480,MG Breast Diagnostic Right,breast,X-Ray - Dental,breast
+6480,MG Breast Diagnostic Right,breast,X-Ray - Diskography,breast
+6480,MG Breast Diagnostic Right,breast,X-Ray - Magnification,breast
+6480,MG Breast Diagnostic Right,breast,X-Ray - Specimen,breast
+6480,MG Breast Diagnostic Right,breast,X-Ray - Standard,breast
+6480,MG Breast Diagnostic Right,breast,X-Ray - Stereoscopic,breast
+6480,MG Breast Diagnostic Right,breast,X-Ray w/Fluoroscopy,breast
+6481,MR Abdomen,abdominal,MR,abdomen
+6481,MR Abdomen,abdominal,MRI,abdomen
+6481,MR Abdomen,abdominal,MRI - Flow Mapping,abdomen
+6481,MR Abdomen,abdominal,MRI - Functional,abdomen
+6481,MR Abdomen,abdominal,Spectroscopy,abdomen
+6483,MR Enterography,abdominal,MR,abdomen
+6483,MR Enterography,abdominal,MRI,abdomen
+6483,MR Enterography,abdominal,MRI - Flow Mapping,abdomen
+6483,MR Enterography,abdominal,MRI - Functional,abdomen
+6483,MR Enterography,abdominal,Spectroscopy,abdomen
+6485,MR Pelvis Gyn,abdominal,MR,pelvis
+6485,MR Pelvis Gyn,abdominal,MRA,pelvis
+6485,MR Pelvis Gyn,abdominal,MRI,pelvis
+6485,MR Pelvis Gyn,abdominal,MRI - Flow Mapping,pelvis
+6485,MR Pelvis Gyn,abdominal,MRI - Functional,pelvis
+6485,MR Pelvis Gyn,abdominal,Spectroscopy,pelvis
+6486,MR Pelvis GIGU,abdominal,MR,pelvis
+6486,MR Pelvis GIGU,abdominal,MRI,pelvis
+6486,MR Pelvis GIGU,abdominal,MRI - Flow Mapping,pelvis
+6486,MR Pelvis GIGU,abdominal,MRI - Functional,pelvis
+6486,MR Pelvis GIGU,abdominal,Spectroscopy,pelvis
+6487,MR Penis Scrotum,abdominal,MR,pelvis
+6487,MR Penis Scrotum,abdominal,MRI,pelvis
+6487,MR Penis Scrotum,abdominal,MRI - Flow Mapping,pelvis
+6487,MR Penis Scrotum,abdominal,MRI - Functional,pelvis
+6487,MR Penis Scrotum,abdominal,Spectroscopy,pelvis
+6488,MR Prostate,abdominal,MR,pelvis
+6488,MR Prostate,abdominal,MRI,pelvis
+6488,MR Prostate,abdominal,MRI - Flow Mapping,pelvis
+6488,MR Prostate,abdominal,MRI - Functional,pelvis
+6488,MR Prostate,abdominal,Spectroscopy,pelvis
+6489,MR Urogram,abdominal,MR,pelvis
+6489,MR Urogram,abdominal,MRI,pelvis
+6489,MR Urogram,abdominal,MRI - Flow Mapping,pelvis
+6489,MR Urogram,abdominal,MRI - Functional,pelvis
+6489,MR Urogram,abdominal,Spectroscopy,pelvis
+6490,MR Breast Bilateral,breast,MR,breast
+6490,MR Breast Bilateral,breast,MRI,breast
+6490,MR Breast Bilateral,breast,MRI - Flow Mapping,breast
+6490,MR Breast Bilateral,breast,MRI - Functional,breast
+6490,MR Breast Bilateral,breast,Spectroscopy,breast
+6491,MR Cardiac,cv,MR,chest
+6491,MR Cardiac,cv,MRI,chest
+6491,MR Cardiac,cv,MRI - Flow Mapping,chest
+6491,MR Cardiac,cv,MRI - Functional,chest
+6491,MR Cardiac,cv,Spectroscopy,chest
+6492,MRA Lower Extremity Left,cv,MR,leg
+6492,MRA Lower Extremity Left,cv,MRA,leg
+6492,MRA Lower Extremity Left,cv,MRI,leg
+6492,MRA Lower Extremity Left,cv,MRI - Flow Mapping,leg
+6492,MRA Lower Extremity Left,cv,MRI - Functional,leg
+6492,MRA Lower Extremity Left,cv,Spectroscopy,leg
+6493,MRA Lower Extremity Right,cv,MR,leg
+6493,MRA Lower Extremity Right,cv,MRA,leg
+6493,MRA Lower Extremity Right,cv,MRI,leg
+6493,MRA Lower Extremity Right,cv,MRI - Flow Mapping,leg
+6493,MRA Lower Extremity Right,cv,MRI - Functional,leg
+6493,MRA Lower Extremity Right,cv,Spectroscopy,leg
+6494,MR Ankle Left,msk,MR,leg
+6494,MR Ankle Left,msk,MRI,leg
+6494,MR Ankle Left,msk,MRI - Flow Mapping,leg
+6494,MR Ankle Left,msk,MRI - Functional,leg
+6494,MR Ankle Left,msk,Spectroscopy,leg
+6495,MR Ankle Right,msk,MR,leg
+6495,MR Ankle Right,msk,MRI,leg
+6495,MR Ankle Right,msk,MRI - Flow Mapping,leg
+6495,MR Ankle Right,msk,MRI - Functional,leg
+6495,MR Ankle Right,msk,Spectroscopy,leg
+6496,MR Axilla Left,msk,MR,arm
+6496,MR Axilla Left,msk,MRI,arm
+6496,MR Axilla Left,msk,MRI - Flow Mapping,arm
+6496,MR Axilla Left,msk,MRI - Functional,arm
+6496,MR Axilla Left,msk,Spectroscopy,arm
+6497,MR Axilla Right,msk,MR,arm
+6497,MR Axilla Right,msk,MRI,arm
+6497,MR Axilla Right,msk,MRI - Flow Mapping,arm
+6497,MR Axilla Right,msk,MRI - Functional,arm
+6497,MR Axilla Right,msk,Spectroscopy,arm
+6500,MR Clavicle Left,msk,MR,arm
+6500,MR Clavicle Left,msk,MRI,arm
+6500,MR Clavicle Left,msk,MRI - Flow Mapping,arm
+6500,MR Clavicle Left,msk,MRI - Functional,arm
+6500,MR Clavicle Left,msk,Spectroscopy,arm
+6501,MR Clavicle Right,msk,MR,arm
+6501,MR Clavicle Right,msk,MRI,arm
+6501,MR Clavicle Right,msk,MRI - Flow Mapping,arm
+6501,MR Clavicle Right,msk,MRI - Functional,arm
+6501,MR Clavicle Right,msk,Spectroscopy,arm
+6502,MR Elbow Left,msk,MR,arm
+6502,MR Elbow Left,msk,MRI,arm
+6502,MR Elbow Left,msk,MRI - Flow Mapping,arm
+6502,MR Elbow Left,msk,MRI - Functional,arm
+6502,MR Elbow Left,msk,Spectroscopy,arm
+6503,MR Elbow Right,msk,MR,arm
+6503,MR Elbow Right,msk,MRI,arm
+6503,MR Elbow Right,msk,MRI - Flow Mapping,arm
+6503,MR Elbow Right,msk,MRI - Functional,arm
+6503,MR Elbow Right,msk,Spectroscopy,arm
+6504,MR Femur Left,msk,MR,leg
+6504,MR Femur Left,msk,MRI,leg
+6504,MR Femur Left,msk,MRI - Flow Mapping,leg
+6504,MR Femur Left,msk,MRI - Functional,leg
+6504,MR Femur Left,msk,Spectroscopy,leg
+6505,MR Femur Right,msk,MR,leg
+6505,MR Femur Right,msk,MRI,leg
+6505,MR Femur Right,msk,MRI - Flow Mapping,leg
+6505,MR Femur Right,msk,MRI - Functional,leg
+6505,MR Femur Right,msk,Spectroscopy,leg
+6506,MR Finger Left,msk,MR,arm
+6506,MR Finger Left,msk,MRI,arm
+6506,MR Finger Left,msk,MRI - Flow Mapping,arm
+6506,MR Finger Left,msk,MRI - Functional,arm
+6506,MR Finger Left,msk,Spectroscopy,arm
+6507,MR Finger Right,msk,MR,arm
+6507,MR Finger Right,msk,MRI,arm
+6507,MR Finger Right,msk,MRI - Flow Mapping,arm
+6507,MR Finger Right,msk,MRI - Functional,arm
+6507,MR Finger Right,msk,Spectroscopy,arm
+6508,MR Foot Left,msk,MR,leg
+6508,MR Foot Left,msk,MRI,leg
+6508,MR Foot Left,msk,MRI - Flow Mapping,leg
+6508,MR Foot Left,msk,MRI - Functional,leg
+6508,MR Foot Left,msk,Spectroscopy,leg
+6509,MR Foot Right,msk,MR,leg
+6509,MR Foot Right,msk,MRI,leg
+6509,MR Foot Right,msk,MRI - Flow Mapping,leg
+6509,MR Foot Right,msk,MRI - Functional,leg
+6509,MR Foot Right,msk,Spectroscopy,leg
+6510,MR Forearm Left,msk,MR,arm
+6510,MR Forearm Left,msk,MRI,arm
+6510,MR Forearm Left,msk,MRI - Flow Mapping,arm
+6510,MR Forearm Left,msk,MRI - Functional,arm
+6510,MR Forearm Left,msk,Spectroscopy,arm
+6511,MR Forearm Right,msk,MR,arm
+6511,MR Forearm Right,msk,MRI,arm
+6511,MR Forearm Right,msk,MRI - Flow Mapping,arm
+6511,MR Forearm Right,msk,MRI - Functional,arm
+6511,MR Forearm Right,msk,Spectroscopy,arm
+6512,MR Hand Left,msk,MR,arm
+6512,MR Hand Left,msk,MRI,arm
+6512,MR Hand Left,msk,MRI - Flow Mapping,arm
+6512,MR Hand Left,msk,MRI - Functional,arm
+6512,MR Hand Left,msk,Spectroscopy,arm
+6513,MR Hand Right,msk,MR,arm
+6513,MR Hand Right,msk,MRI,arm
+6513,MR Hand Right,msk,MRI - Flow Mapping,arm
+6513,MR Hand Right,msk,MRI - Functional,arm
+6513,MR Hand Right,msk,Spectroscopy,arm
+6514,MR Hip Left,msk,MR,pelvis
+6514,MR Hip Left,msk,MRI,pelvis
+6514,MR Hip Left,msk,MRI - Flow Mapping,pelvis
+6514,MR Hip Left,msk,MRI - Functional,pelvis
+6514,MR Hip Left,msk,Spectroscopy,pelvis
+6515,MR Hip Right,msk,MR,pelvis
+6515,MR Hip Right,msk,MRI,pelvis
+6515,MR Hip Right,msk,MRI - Flow Mapping,pelvis
+6515,MR Hip Right,msk,MRI - Functional,pelvis
+6515,MR Hip Right,msk,Spectroscopy,pelvis
+6516,MR Humerus Left,msk,MR,arm
+6516,MR Humerus Left,msk,MRI,arm
+6516,MR Humerus Left,msk,MRI - Flow Mapping,arm
+6516,MR Humerus Left,msk,MRI - Functional,arm
+6516,MR Humerus Left,msk,Spectroscopy,arm
+6517,MR Humerus Right,msk,MR,arm
+6517,MR Humerus Right,msk,MRI,arm
+6517,MR Humerus Right,msk,MRI - Flow Mapping,arm
+6517,MR Humerus Right,msk,MRI - Functional,arm
+6517,MR Humerus Right,msk,Spectroscopy,arm
+6518,MR Knee Left,msk,MR,leg
+6518,MR Knee Left,msk,MRI,leg
+6518,MR Knee Left,msk,MRI - Flow Mapping,leg
+6518,MR Knee Left,msk,MRI - Functional,leg
+6518,MR Knee Left,msk,Spectroscopy,leg
+6519,MR Knee Right,msk,MR,leg
+6519,MR Knee Right,msk,MRI,leg
+6519,MR Knee Right,msk,MRI - Flow Mapping,leg
+6519,MR Knee Right,msk,MRI - Functional,leg
+6519,MR Knee Right,msk,Spectroscopy,leg
+6520,MR Sacral Plexus,neuro,MR,head
+6520,MR Sacral Plexus,neuro,MRA,head
+6520,MR Sacral Plexus,neuro,MRI,head
+6520,MR Sacral Plexus,neuro,MRI - Flow Mapping,head
+6520,MR Sacral Plexus,neuro,MRI - Functional,head
+6520,MR Sacral Plexus,neuro,Spectroscopy,head
+6521,MR Pelvis Bone,msk,MR,pelvis
+6521,MR Pelvis Bone,msk,MRI,pelvis
+6521,MR Pelvis Bone,msk,MRI - Flow Mapping,pelvis
+6521,MR Pelvis Bone,msk,MRI - Functional,pelvis
+6521,MR Pelvis Bone,msk,Spectroscopy,pelvis
+6522,MR Sacrum,spine,MR,pelvis
+6522,MR Sacrum,spine,MRI,pelvis
+6522,MR Sacrum,spine,MRI - Flow Mapping,pelvis
+6522,MR Sacrum,spine,MRI - Functional,pelvis
+6522,MR Sacrum,spine,Spectroscopy,pelvis
+6525,MR Shoulder Left,msk,MR,arm
+6525,MR Shoulder Left,msk,MRI,arm
+6525,MR Shoulder Left,msk,MRI - Flow Mapping,arm
+6525,MR Shoulder Left,msk,MRI - Functional,arm
+6525,MR Shoulder Left,msk,Spectroscopy,arm
+6526,MR Shoulder Right,msk,MR,arm
+6526,MR Shoulder Right,msk,MRI,arm
+6526,MR Shoulder Right,msk,MRI - Flow Mapping,arm
+6526,MR Shoulder Right,msk,MRI - Functional,arm
+6526,MR Shoulder Right,msk,Spectroscopy,arm
+6527,MR Tibia Fibula Left,msk,MR,leg
+6527,MR Tibia Fibula Left,msk,MRI,leg
+6527,MR Tibia Fibula Left,msk,MRI - Flow Mapping,leg
+6527,MR Tibia Fibula Left,msk,MRI - Functional,leg
+6527,MR Tibia Fibula Left,msk,Spectroscopy,leg
+6528,MR Tibia Fibula Right,msk,MR,leg
+6528,MR Tibia Fibula Right,msk,MRI,leg
+6528,MR Tibia Fibula Right,msk,MRI - Flow Mapping,leg
+6528,MR Tibia Fibula Right,msk,MRI - Functional,leg
+6528,MR Tibia Fibula Right,msk,Spectroscopy,leg
+6529,MR Wrist Left,msk,MR,arm
+6529,MR Wrist Left,msk,MRI,arm
+6529,MR Wrist Left,msk,MRI - Flow Mapping,arm
+6529,MR Wrist Left,msk,MRI - Functional,arm
+6529,MR Wrist Left,msk,Spectroscopy,arm
+6530,MR Wrist Right,msk,MR,arm
+6530,MR Wrist Right,msk,MRI,arm
+6530,MR Wrist Right,msk,MRI - Flow Mapping,arm
+6530,MR Wrist Right,msk,MRI - Functional,arm
+6530,MR Wrist Right,msk,Spectroscopy,arm
+6531,MRA Spine,neuro,MRA,head
+6532,MR Brain,neuro,MR,head
+6532,MR Brain,neuro,MRI,head
+6532,MR Brain,neuro,MRI - Flow Mapping,head
+6532,MR Brain,neuro,MRI - Functional,head
+6532,MR Brain,neuro,Spectroscopy,head
+6533,MR Face,neuro,MR,head
+6533,MR Face,neuro,MRI,head
+6533,MR Face,neuro,MRI - Flow Mapping,head
+6533,MR Face,neuro,MRI - Functional,head
+6533,MR Face,neuro,Spectroscopy,head
+6534,MRA Head,neuro,MR,head
+6534,MRA Head,neuro,MRA,head
+6534,MRA Head,neuro,MRI,head
+6534,MRA Head,neuro,MRI - Flow Mapping,head
+6534,MRA Head,neuro,MRI - Functional,head
+6534,MRA Head,neuro,Spectroscopy,head
+6535,MR Neck,neuro,MR,neck
+6535,MR Neck,neuro,MRI,neck
+6535,MR Neck,neuro,MRI - Flow Mapping,neck
+6535,MR Neck,neuro,MRI - Functional,neck
+6535,MR Neck,neuro,Spectroscopy,neck
+6536,MRA Neck,neuro,MR,neck
+6536,MRA Neck,neuro,MRA,neck
+6536,MRA Neck,neuro,MRI,neck
+6536,MRA Neck,neuro,MRI - Flow Mapping,neck
+6536,MRA Neck,neuro,MRI - Functional,neck
+6536,MRA Neck,neuro,Spectroscopy,neck
+6537,MR TMJ,msk,MR,head
+6537,MR TMJ,msk,MRI,head
+6537,MR TMJ,msk,MRI - Flow Mapping,head
+6537,MR TMJ,msk,MRI - Functional,head
+6537,MR TMJ,msk,Spectroscopy,head
+6538,MR Chest,thoracic,MR,chest
+6538,MR Chest,thoracic,MRI,chest
+6538,MR Chest,thoracic,MRI - Flow Mapping,chest
+6538,MR Chest,thoracic,MRI - Functional,chest
+6538,MR Chest,thoracic,Spectroscopy,chest
+6539,MRA Abdomen,cv,MR,abdomen
+6539,MRA Abdomen,cv,MRA,abdomen
+6539,MRA Abdomen,cv,MRI,abdomen
+6539,MRA Abdomen,cv,MRI - Flow Mapping,abdomen
+6539,MRA Abdomen,cv,MRI - Functional,abdomen
+6539,MRA Abdomen,cv,Spectroscopy,abdomen
+6540,MRA Chest,cv,MR,chest
+6540,MRA Chest,cv,MRA,chest
+6540,MRA Chest,cv,MRI,chest
+6540,MRA Chest,cv,MRI - Flow Mapping,chest
+6540,MRA Chest,cv,MRI - Functional,chest
+6540,MRA Chest,cv,Spectroscopy,chest
+6541,MRA Pelvis,cv,MRA,pelvis
+6542,MRA Upper Extremity Left,cv,MR,arm
+6542,MRA Upper Extremity Left,cv,MRA,arm
+6542,MRA Upper Extremity Left,cv,MRI,arm
+6542,MRA Upper Extremity Left,cv,MRI - Flow Mapping,arm
+6542,MRA Upper Extremity Left,cv,MRI - Functional,arm
+6542,MRA Upper Extremity Left,cv,Spectroscopy,arm
+6543,MRA Upper Extremity Right,cv,MR,arm
+6543,MRA Upper Extremity Right,cv,MRA,arm
+6543,MRA Upper Extremity Right,cv,MRI,arm
+6543,MRA Upper Extremity Right,cv,MRI - Flow Mapping,arm
+6543,MRA Upper Extremity Right,cv,MRI - Functional,arm
+6543,MRA Upper Extremity Right,cv,Spectroscopy,arm
+6544,MR Cervical Spine,spine,MR,neck
+6544,MR Cervical Spine,spine,MRI,neck
+6544,MR Cervical Spine,spine,MRI - Flow Mapping,neck
+6544,MR Cervical Spine,spine,MRI - Functional,neck
+6544,MR Cervical Spine,spine,Spectroscopy,neck
+6545,MR Lumbar Spine,spine,MR,abdomen
+6545,MR Lumbar Spine,spine,MRI,abdomen
+6545,MR Lumbar Spine,spine,MRI - Flow Mapping,abdomen
+6545,MR Lumbar Spine,spine,MRI - Functional,abdomen
+6545,MR Lumbar Spine,spine,Spectroscopy,abdomen
+6546,MR Thoracic Spine,spine,MR,chest
+6546,MR Thoracic Spine,spine,MRI,chest
+6546,MR Thoracic Spine,spine,MRI - Flow Mapping,chest
+6546,MR Thoracic Spine,spine,MRI - Functional,chest
+6546,MR Thoracic Spine,spine,Spectroscopy,chest
+6547,NC PET Cardiac,nm,PET,chest
+6547,NC PET Cardiac,nm,PET - Perfusion,chest
+6547,NC PET Cardiac,nm,PET w/ CT,chest
+6547,NC PET Cardiac,nm,PET w/CT,chest
+6547,NC PET Cardiac,nm,PET/CT,chest
+6548,NM Bone Scan,nm,Gamma Camera Imaging - Planar,body
+6548,NM Bone Scan,nm,MBI,body
+6548,NM Bone Scan,nm,NUC - Spect,body
+6548,NM Bone Scan,nm,NUC - Venography,body
+6548,NM Bone Scan,nm,Nuclear Medicine,body
+6549,NM Gallbladder HIDA,nm,Gamma Camera Imaging - Planar,abdomen
+6549,NM Gallbladder HIDA,nm,MBI,abdomen
+6549,NM Gallbladder HIDA,nm,NUC - Spect,abdomen
+6549,NM Gallbladder HIDA,nm,NUC - Venography,abdomen
+6549,NM Gallbladder HIDA,nm,Nuclear Medicine,abdomen
+6550,NM Stomach Gastric Emptying,nm,Gamma Camera Imaging - Planar,abdomen
+6550,NM Stomach Gastric Emptying,nm,MBI,abdomen
+6550,NM Stomach Gastric Emptying,nm,NUC - Spect,abdomen
+6550,NM Stomach Gastric Emptying,nm,NUC - Venography,abdomen
+6550,NM Stomach Gastric Emptying,nm,Nuclear Medicine,abdomen
+6551,NM Renal,nm,Gamma Camera Imaging - Planar,abdomen
+6551,NM Renal,nm,MBI,abdomen
+6551,NM Renal,nm,NUC - Spect,abdomen
+6551,NM Renal,nm,NUC - Venography,abdomen
+6551,NM Renal,nm,Nuclear Medicine,abdomen
+6553,NM Liver Spleen Sulfur Colloid,nm,Gamma Camera Imaging - Planar,abdomen
+6553,NM Liver Spleen Sulfur Colloid,nm,MBI,abdomen
+6553,NM Liver Spleen Sulfur Colloid,nm,NUC - Spect,abdomen
+6553,NM Liver Spleen Sulfur Colloid,nm,NUC - Venography,abdomen
+6553,NM Liver Spleen Sulfur Colloid,nm,Nuclear Medicine,abdomen
+6555,NM Parathyroid,nm,Gamma Camera Imaging - Planar,neck
+6555,NM Parathyroid,nm,MBI,neck
+6555,NM Parathyroid,nm,NUC - Spect,neck
+6555,NM Parathyroid,nm,NUC - Venography,neck
+6555,NM Parathyroid,nm,Nuclear Medicine,neck
+6556,NM Spleen RBC Scan,nm,Gamma Camera Imaging - Planar,abdomen
+6556,NM Spleen RBC Scan,nm,MBI,abdomen
+6556,NM Spleen RBC Scan,nm,NUC - Spect,abdomen
+6556,NM Spleen RBC Scan,nm,NUC - Venography,abdomen
+6556,NM Spleen RBC Scan,nm,Nuclear Medicine,abdomen
+6557,NM Thyroid,nm,Gamma Camera Imaging - Planar,neck
+6557,NM Thyroid,nm,MBI,neck
+6557,NM Thyroid,nm,NUC - Spect,neck
+6557,NM Thyroid,nm,NUC - Venography,neck
+6557,NM Thyroid,nm,Nuclear Medicine,neck
+6560,US Abdomen Complete,abdominal,US,abdomen
+6560,US Abdomen Complete,abdominal,US • Transcranial,abdomen
+6560,US Abdomen Complete,abdominal,US • Transrectal,abdomen
+6562,US Bladder,abdominal,US,pelvis
+6562,US Bladder,abdominal,US • Transcranial,pelvis
+6562,US Bladder,abdominal,US • Transrectal,pelvis
+6563,US Renal,abdominal,US,abdomen
+6563,US Renal,abdominal,US • Transcranial,abdomen
+6563,US Renal,abdominal,US • Transrectal,abdomen
+6566,US Pelvis,abdominal,Pelvimetry,pelvis
+6566,US Pelvis,abdominal,Radiography,pelvis
+6566,US Pelvis,abdominal,US,pelvis
+6566,US Pelvis,abdominal,US • Transcranial,pelvis
+6566,US Pelvis,abdominal,US • Transrectal,pelvis
+6566,US Pelvis,abdominal,X-Ray - Dental,pelvis
+6566,US Pelvis,abdominal,X-Ray - Diskography,pelvis
+6566,US Pelvis,abdominal,X-Ray - Magnification,pelvis
+6566,US Pelvis,abdominal,X-Ray - Specimen,pelvis
+6566,US Pelvis,abdominal,X-Ray - Standard,pelvis
+6566,US Pelvis,abdominal,X-Ray - Stereoscopic,pelvis
+6566,US Pelvis,abdominal,X-Ray w/Fluoroscopy,pelvis
+6567,US Penis,abdominal,US,pelvis
+6567,US Penis,abdominal,US • Transcranial,pelvis
+6567,US Penis,abdominal,US • Transrectal,pelvis
+6568,US Prostate,abdominal,US,pelvis
+6568,US Prostate,abdominal,US • Transcranial,pelvis
+6568,US Prostate,abdominal,US • Transrectal,pelvis
+6569,US Scrotum,abdominal,US,pelvis
+6569,US Scrotum,abdominal,US - Duplex,pelvis
+6569,US Scrotum,abdominal,US • Transcranial,pelvis
+6569,US Scrotum,abdominal,US • Transrectal,pelvis
+6569,US Scrotum,abdominal,US Duplex,pelvis
+6569,US Scrotum,abdominal,Vascular Lab,pelvis
+6570,US Right Upper Quadrant,abdominal,US,abdomen
+6570,US Right Upper Quadrant,abdominal,US • Transcranial,abdomen
+6570,US Right Upper Quadrant,abdominal,US • Transrectal,abdomen
+6571,US Breast Left,breast,US,breast
+6571,US Breast Left,breast,US • Transcranial,breast
+6571,US Breast Left,breast,US • Transrectal,breast
+6572,US Breast Right,breast,US,breast
+6572,US Breast Right,breast,US • Transcranial,breast
+6572,US Breast Right,breast,US • Transrectal,breast
+6573,US Axilla Not Breast Left,msk,US,chest
+6573,US Axilla Not Breast Left,msk,US • Transcranial,chest
+6573,US Axilla Not Breast Left,msk,US • Transrectal,chest
+6574,US Axilla Not Breast Right,msk,US,chest
+6574,US Axilla Not Breast Right,msk,US • Transcranial,chest
+6574,US Axilla Not Breast Right,msk,US • Transrectal,chest
+6575,US Inguinal Left,abdominal,US,pelvis
+6575,US Inguinal Left,abdominal,US • Transcranial,pelvis
+6575,US Inguinal Left,abdominal,US • Transrectal,pelvis
+6576,US Inguinal Right,abdominal,US,pelvis
+6576,US Inguinal Right,abdominal,US • Transcranial,pelvis
+6576,US Inguinal Right,abdominal,US • Transrectal,pelvis
+6577,US Shoulder Left,msk,US,arm
+6577,US Shoulder Left,msk,US • Transcranial,arm
+6577,US Shoulder Left,msk,US • Transrectal,arm
+6578,US Shoulder Right,msk,US,arm
+6578,US Shoulder Right,msk,US • Transcranial,arm
+6578,US Shoulder Right,msk,US • Transrectal,arm
+6579,US Neck,abdominal,US,neck
+6579,US Neck,abdominal,US • Transcranial,neck
+6579,US Neck,abdominal,US • Transrectal,neck
+6580,US Parotid,neuro,US,head
+6580,US Parotid,neuro,US • Transcranial,head
+6580,US Parotid,neuro,US • Transrectal,head
+6581,US Brain,neuro,US - Infant,head
+6582,US Carotid,neuro,US,neck
+6582,US Carotid,neuro,US - Duplex,neck
+6582,US Carotid,neuro,US • Transcranial,neck
+6582,US Carotid,neuro,US • Transrectal,neck
+6582,US Carotid,neuro,US Duplex,neck
+6582,US Carotid,neuro,Vascular Lab,neck
+6583,US Chest Wall,thoracic,US,chest
+6583,US Chest Wall,thoracic,US • Transcranial,chest
+6583,US Chest Wall,thoracic,US • Transrectal,chest
+6584,US Thyroid,abdominal,US,neck
+6584,US Thyroid,abdominal,US • Transcranial,neck
+6584,US Thyroid,abdominal,US • Transrectal,neck
+6585,US Aorta,cv,US,abdomen
+6585,US Aorta,cv,US - Duplex,abdomen
+6585,US Aorta,cv,US • Transcranial,abdomen
+6585,US Aorta,cv,US • Transrectal,abdomen
+6585,US Aorta,cv,US Duplex,abdomen
+6585,US Aorta,cv,Vascular Lab,abdomen
+6586,US Lower Extremity Artery Left,cv,US,leg
+6586,US Lower Extremity Artery Left,cv,US - Duplex,leg
+6586,US Lower Extremity Artery Left,cv,US • Transcranial,leg
+6586,US Lower Extremity Artery Left,cv,US • Transrectal,leg
+6586,US Lower Extremity Artery Left,cv,US Duplex,leg
+6586,US Lower Extremity Artery Left,cv,Vascular Lab,leg
+6587,US Lower Extremity Artery Right,cv,US,leg
+6587,US Lower Extremity Artery Right,cv,US - Duplex,leg
+6587,US Lower Extremity Artery Right,cv,US • Transcranial,leg
+6587,US Lower Extremity Artery Right,cv,US • Transrectal,leg
+6587,US Lower Extremity Artery Right,cv,US Duplex,leg
+6587,US Lower Extremity Artery Right,cv,Vascular Lab,leg
+6588,US Upper Extremity Artery Left,cv,US,arm
+6588,US Upper Extremity Artery Left,cv,US - Duplex,arm
+6588,US Upper Extremity Artery Left,cv,US • Transcranial,arm
+6588,US Upper Extremity Artery Left,cv,US • Transrectal,arm
+6588,US Upper Extremity Artery Left,cv,US Duplex,arm
+6588,US Upper Extremity Artery Left,cv,Vascular Lab,arm
+6589,US Upper Extremity Artery Right,cv,US,arm
+6589,US Upper Extremity Artery Right,cv,US - Duplex,arm
+6589,US Upper Extremity Artery Right,cv,US • Transcranial,arm
+6589,US Upper Extremity Artery Right,cv,US • Transrectal,arm
+6589,US Upper Extremity Artery Right,cv,US Duplex,arm
+6589,US Upper Extremity Artery Right,cv,Vascular Lab,arm
+6590,US Renal Artery,cv,US,abdomen
+6590,US Renal Artery,cv,US - Duplex,abdomen
+6590,US Renal Artery,cv,US • Transcranial,abdomen
+6590,US Renal Artery,cv,US • Transrectal,abdomen
+6590,US Renal Artery,cv,US Duplex,abdomen
+6590,US Renal Artery,cv,Vascular Lab,abdomen
+6591,US Lower Extremity Venous Bilateral,cv,US,leg
+6591,US Lower Extremity Venous Bilateral,cv,US - Duplex,leg
+6591,US Lower Extremity Venous Bilateral,cv,US • Transcranial,leg
+6591,US Lower Extremity Venous Bilateral,cv,US • Transrectal,leg
+6591,US Lower Extremity Venous Bilateral,cv,US Duplex,leg
+6591,US Lower Extremity Venous Bilateral,cv,Vascular Lab,leg
+6592,US Lower Extremity Venous Left,cv,US,leg
+6592,US Lower Extremity Venous Left,cv,US - Duplex,leg
+6592,US Lower Extremity Venous Left,cv,US • Transcranial,leg
+6592,US Lower Extremity Venous Left,cv,US • Transrectal,leg
+6592,US Lower Extremity Venous Left,cv,US Duplex,leg
+6592,US Lower Extremity Venous Left,cv,Vascular Lab,leg
+6593,US Lower Extremity Venous Right,cv,US,leg
+6593,US Lower Extremity Venous Right,cv,US - Duplex,leg
+6593,US Lower Extremity Venous Right,cv,US • Transcranial,leg
+6593,US Lower Extremity Venous Right,cv,US • Transrectal,leg
+6593,US Lower Extremity Venous Right,cv,US Duplex,leg
+6593,US Lower Extremity Venous Right,cv,Vascular Lab,leg
+6594,US Upper Extremity Venous Left,cv,US,arm
+6594,US Upper Extremity Venous Left,cv,US - Duplex,arm
+6594,US Upper Extremity Venous Left,cv,US • Transcranial,arm
+6594,US Upper Extremity Venous Left,cv,US • Transrectal,arm
+6594,US Upper Extremity Venous Left,cv,US Duplex,arm
+6594,US Upper Extremity Venous Left,cv,Vascular Lab,arm
+6595,US Upper Extremity Venous Right,cv,US,arm
+6595,US Upper Extremity Venous Right,cv,US - Duplex,arm
+6595,US Upper Extremity Venous Right,cv,US • Transcranial,arm
+6595,US Upper Extremity Venous Right,cv,US • Transrectal,arm
+6595,US Upper Extremity Venous Right,cv,US Duplex,arm
+6595,US Upper Extremity Venous Right,cv,Vascular Lab,arm
+6596,XR Abdomen,abdominal,Pelvimetry,abdomen
+6596,XR Abdomen,abdominal,Radiography,abdomen
+6596,XR Abdomen,abdominal,X-Ray - Dental,abdomen
+6596,XR Abdomen,abdominal,X-Ray - Diskography,abdomen
+6596,XR Abdomen,abdominal,X-Ray - Magnification,abdomen
+6596,XR Abdomen,abdominal,X-Ray - Specimen,abdomen
+6596,XR Abdomen,abdominal,X-Ray - Standard,abdomen
+6596,XR Abdomen,abdominal,X-Ray - Stereoscopic,abdomen
+6596,XR Abdomen,abdominal,X-Ray w/Fluoroscopy,abdomen
+6597,XR AC Joint Left,msk,Pelvimetry,arm
+6597,XR AC Joint Left,msk,Radiography,arm
+6597,XR AC Joint Left,msk,X-Ray - Dental,arm
+6597,XR AC Joint Left,msk,X-Ray - Diskography,arm
+6597,XR AC Joint Left,msk,X-Ray - Magnification,arm
+6597,XR AC Joint Left,msk,X-Ray - Specimen,arm
+6597,XR AC Joint Left,msk,X-Ray - Standard,arm
+6597,XR AC Joint Left,msk,X-Ray - Stereoscopic,arm
+6597,XR AC Joint Left,msk,X-Ray w/Fluoroscopy,arm
+6598,XR AC Joint Right,msk,Pelvimetry,arm
+6598,XR AC Joint Right,msk,Radiography,arm
+6598,XR AC Joint Right,msk,X-Ray - Dental,arm
+6598,XR AC Joint Right,msk,X-Ray - Diskography,arm
+6598,XR AC Joint Right,msk,X-Ray - Magnification,arm
+6598,XR AC Joint Right,msk,X-Ray - Specimen,arm
+6598,XR AC Joint Right,msk,X-Ray - Standard,arm
+6598,XR AC Joint Right,msk,X-Ray - Stereoscopic,arm
+6598,XR AC Joint Right,msk,X-Ray w/Fluoroscopy,arm
+6599,XR Ankle Left,msk,Pelvimetry,leg
+6599,XR Ankle Left,msk,Radiography,leg
+6599,XR Ankle Left,msk,X-Ray - Dental,leg
+6599,XR Ankle Left,msk,X-Ray - Diskography,leg
+6599,XR Ankle Left,msk,X-Ray - Magnification,leg
+6599,XR Ankle Left,msk,X-Ray - Specimen,leg
+6599,XR Ankle Left,msk,X-Ray - Standard,leg
+6599,XR Ankle Left,msk,X-Ray - Stereoscopic,leg
+6599,XR Ankle Left,msk,X-Ray w/Fluoroscopy,leg
+6600,XR Ankle Right,msk,Pelvimetry,leg
+6600,XR Ankle Right,msk,Radiography,leg
+6600,XR Ankle Right,msk,X-Ray - Dental,leg
+6600,XR Ankle Right,msk,X-Ray - Diskography,leg
+6600,XR Ankle Right,msk,X-Ray - Magnification,leg
+6600,XR Ankle Right,msk,X-Ray - Specimen,leg
+6600,XR Ankle Right,msk,X-Ray - Standard,leg
+6600,XR Ankle Right,msk,X-Ray - Stereoscopic,leg
+6600,XR Ankle Right,msk,X-Ray w/Fluoroscopy,leg
+6601,XR Clavicle Left,msk,Pelvimetry,arm
+6601,XR Clavicle Left,msk,Radiography,arm
+6601,XR Clavicle Left,msk,X-Ray - Dental,arm
+6601,XR Clavicle Left,msk,X-Ray - Diskography,arm
+6601,XR Clavicle Left,msk,X-Ray - Magnification,arm
+6601,XR Clavicle Left,msk,X-Ray - Specimen,arm
+6601,XR Clavicle Left,msk,X-Ray - Standard,arm
+6601,XR Clavicle Left,msk,X-Ray - Stereoscopic,arm
+6601,XR Clavicle Left,msk,X-Ray w/Fluoroscopy,arm
+6602,XR Clavicle Right,msk,Pelvimetry,arm
+6602,XR Clavicle Right,msk,Radiography,arm
+6602,XR Clavicle Right,msk,X-Ray - Dental,arm
+6602,XR Clavicle Right,msk,X-Ray - Diskography,arm
+6602,XR Clavicle Right,msk,X-Ray - Magnification,arm
+6602,XR Clavicle Right,msk,X-Ray - Specimen,arm
+6602,XR Clavicle Right,msk,X-Ray - Standard,arm
+6602,XR Clavicle Right,msk,X-Ray - Stereoscopic,arm
+6602,XR Clavicle Right,msk,X-Ray w/Fluoroscopy,arm
+6603,XR Cervical Spine,msk,Pelvimetry,neck
+6603,XR Cervical Spine,msk,Radiography,neck
+6603,XR Cervical Spine,msk,X-Ray - Dental,neck
+6603,XR Cervical Spine,msk,X-Ray - Diskography,neck
+6603,XR Cervical Spine,msk,X-Ray - Magnification,neck
+6603,XR Cervical Spine,msk,X-Ray - Specimen,neck
+6603,XR Cervical Spine,msk,X-Ray - Standard,neck
+6603,XR Cervical Spine,msk,X-Ray - Stereoscopic,neck
+6603,XR Cervical Spine,msk,X-Ray w/Fluoroscopy,neck
+6604,XR Elbow Left,msk,Pelvimetry,arm
+6604,XR Elbow Left,msk,Radiography,arm
+6604,XR Elbow Left,msk,X-Ray - Dental,arm
+6604,XR Elbow Left,msk,X-Ray - Diskography,arm
+6604,XR Elbow Left,msk,X-Ray - Magnification,arm
+6604,XR Elbow Left,msk,X-Ray - Specimen,arm
+6604,XR Elbow Left,msk,X-Ray - Standard,arm
+6604,XR Elbow Left,msk,X-Ray - Stereoscopic,arm
+6604,XR Elbow Left,msk,X-Ray w/Fluoroscopy,arm
+6605,XR Elbow Right,msk,Pelvimetry,arm
+6605,XR Elbow Right,msk,Radiography,arm
+6605,XR Elbow Right,msk,X-Ray - Dental,arm
+6605,XR Elbow Right,msk,X-Ray - Diskography,arm
+6605,XR Elbow Right,msk,X-Ray - Magnification,arm
+6605,XR Elbow Right,msk,X-Ray - Specimen,arm
+6605,XR Elbow Right,msk,X-Ray - Standard,arm
+6605,XR Elbow Right,msk,X-Ray - Stereoscopic,arm
+6605,XR Elbow Right,msk,X-Ray w/Fluoroscopy,arm
+6606,XR Forearm Left,msk,Pelvimetry,arm
+6606,XR Forearm Left,msk,Radiography,arm
+6606,XR Forearm Left,msk,X-Ray - Dental,arm
+6606,XR Forearm Left,msk,X-Ray - Diskography,arm
+6606,XR Forearm Left,msk,X-Ray - Magnification,arm
+6606,XR Forearm Left,msk,X-Ray - Specimen,arm
+6606,XR Forearm Left,msk,X-Ray - Standard,arm
+6606,XR Forearm Left,msk,X-Ray - Stereoscopic,arm
+6606,XR Forearm Left,msk,X-Ray w/Fluoroscopy,arm
+6607,XR Forearm Right,msk,Pelvimetry,arm
+6607,XR Forearm Right,msk,Radiography,arm
+6607,XR Forearm Right,msk,X-Ray - Dental,arm
+6607,XR Forearm Right,msk,X-Ray - Diskography,arm
+6607,XR Forearm Right,msk,X-Ray - Magnification,arm
+6607,XR Forearm Right,msk,X-Ray - Specimen,arm
+6607,XR Forearm Right,msk,X-Ray - Standard,arm
+6607,XR Forearm Right,msk,X-Ray - Stereoscopic,arm
+6607,XR Forearm Right,msk,X-Ray w/Fluoroscopy,arm
+6608,XR Femur Left,msk,Pelvimetry,leg
+6608,XR Femur Left,msk,Radiography,leg
+6608,XR Femur Left,msk,X-Ray - Dental,leg
+6608,XR Femur Left,msk,X-Ray - Diskography,leg
+6608,XR Femur Left,msk,X-Ray - Magnification,leg
+6608,XR Femur Left,msk,X-Ray - Specimen,leg
+6608,XR Femur Left,msk,X-Ray - Standard,leg
+6608,XR Femur Left,msk,X-Ray - Stereoscopic,leg
+6608,XR Femur Left,msk,X-Ray w/Fluoroscopy,leg
+6609,XR Femur Right,msk,Pelvimetry,leg
+6609,XR Femur Right,msk,Radiography,leg
+6609,XR Femur Right,msk,X-Ray - Dental,leg
+6609,XR Femur Right,msk,X-Ray - Diskography,leg
+6609,XR Femur Right,msk,X-Ray - Magnification,leg
+6609,XR Femur Right,msk,X-Ray - Specimen,leg
+6609,XR Femur Right,msk,X-Ray - Standard,leg
+6609,XR Femur Right,msk,X-Ray - Stereoscopic,leg
+6609,XR Femur Right,msk,X-Ray w/Fluoroscopy,leg
+6610,XR Finger Left,msk,Pelvimetry,arm
+6610,XR Finger Left,msk,Radiography,arm
+6610,XR Finger Left,msk,X-Ray - Dental,arm
+6610,XR Finger Left,msk,X-Ray - Diskography,arm
+6610,XR Finger Left,msk,X-Ray - Magnification,arm
+6610,XR Finger Left,msk,X-Ray - Specimen,arm
+6610,XR Finger Left,msk,X-Ray - Standard,arm
+6610,XR Finger Left,msk,X-Ray - Stereoscopic,arm
+6610,XR Finger Left,msk,X-Ray w/Fluoroscopy,arm
+6611,XR Finger Right,msk,Pelvimetry,arm
+6611,XR Finger Right,msk,Radiography,arm
+6611,XR Finger Right,msk,X-Ray - Dental,arm
+6611,XR Finger Right,msk,X-Ray - Diskography,arm
+6611,XR Finger Right,msk,X-Ray - Magnification,arm
+6611,XR Finger Right,msk,X-Ray - Specimen,arm
+6611,XR Finger Right,msk,X-Ray - Standard,arm
+6611,XR Finger Right,msk,X-Ray - Stereoscopic,arm
+6611,XR Finger Right,msk,X-Ray w/Fluoroscopy,arm
+6612,XR Foot Left,msk,Pelvimetry,leg
+6612,XR Foot Left,msk,Radiography,leg
+6612,XR Foot Left,msk,X-Ray - Dental,leg
+6612,XR Foot Left,msk,X-Ray - Diskography,leg
+6612,XR Foot Left,msk,X-Ray - Magnification,leg
+6612,XR Foot Left,msk,X-Ray - Specimen,leg
+6612,XR Foot Left,msk,X-Ray - Standard,leg
+6612,XR Foot Left,msk,X-Ray - Stereoscopic,leg
+6612,XR Foot Left,msk,X-Ray w/Fluoroscopy,leg
+6613,XR Foot Right,msk,Pelvimetry,arm
+6613,XR Foot Right,msk,Radiography,arm
+6613,XR Foot Right,msk,X-Ray - Dental,arm
+6613,XR Foot Right,msk,X-Ray - Diskography,arm
+6613,XR Foot Right,msk,X-Ray - Magnification,arm
+6613,XR Foot Right,msk,X-Ray - Specimen,arm
+6613,XR Foot Right,msk,X-Ray - Standard,arm
+6613,XR Foot Right,msk,X-Ray - Stereoscopic,arm
+6613,XR Foot Right,msk,X-Ray w/Fluoroscopy,arm
+6614,XR Calcaneus Left,msk,Pelvimetry,leg
+6614,XR Calcaneus Left,msk,Radiography,leg
+6614,XR Calcaneus Left,msk,X-Ray - Dental,leg
+6614,XR Calcaneus Left,msk,X-Ray - Diskography,leg
+6614,XR Calcaneus Left,msk,X-Ray - Magnification,leg
+6614,XR Calcaneus Left,msk,X-Ray - Specimen,leg
+6614,XR Calcaneus Left,msk,X-Ray - Standard,leg
+6614,XR Calcaneus Left,msk,X-Ray - Stereoscopic,leg
+6614,XR Calcaneus Left,msk,X-Ray w/Fluoroscopy,leg
+6615,XR Calcaneus Right,msk,Pelvimetry,leg
+6615,XR Calcaneus Right,msk,Radiography,leg
+6615,XR Calcaneus Right,msk,X-Ray - Dental,leg
+6615,XR Calcaneus Right,msk,X-Ray - Diskography,leg
+6615,XR Calcaneus Right,msk,X-Ray - Magnification,leg
+6615,XR Calcaneus Right,msk,X-Ray - Specimen,leg
+6615,XR Calcaneus Right,msk,X-Ray - Standard,leg
+6615,XR Calcaneus Right,msk,X-Ray - Stereoscopic,leg
+6615,XR Calcaneus Right,msk,X-Ray w/Fluoroscopy,leg
+6616,XR Hip Left,msk,Pelvimetry,pelvis
+6616,XR Hip Left,msk,Radiography,pelvis
+6616,XR Hip Left,msk,X-Ray - Dental,pelvis
+6616,XR Hip Left,msk,X-Ray - Diskography,pelvis
+6616,XR Hip Left,msk,X-Ray - Magnification,pelvis
+6616,XR Hip Left,msk,X-Ray - Specimen,pelvis
+6616,XR Hip Left,msk,X-Ray - Standard,pelvis
+6616,XR Hip Left,msk,X-Ray - Stereoscopic,pelvis
+6616,XR Hip Left,msk,X-Ray w/Fluoroscopy,pelvis
+6617,XR Hip Right,msk,Pelvimetry,pelvis
+6617,XR Hip Right,msk,Radiography,pelvis
+6617,XR Hip Right,msk,X-Ray - Dental,pelvis
+6617,XR Hip Right,msk,X-Ray - Diskography,pelvis
+6617,XR Hip Right,msk,X-Ray - Magnification,pelvis
+6617,XR Hip Right,msk,X-Ray - Specimen,pelvis
+6617,XR Hip Right,msk,X-Ray - Standard,pelvis
+6617,XR Hip Right,msk,X-Ray - Stereoscopic,pelvis
+6617,XR Hip Right,msk,X-Ray w/Fluoroscopy,pelvis
+6618,XR Hand Left,msk,Pelvimetry,arm
+6618,XR Hand Left,msk,Radiography,arm
+6618,XR Hand Left,msk,X-Ray - Dental,arm
+6618,XR Hand Left,msk,X-Ray - Diskography,arm
+6618,XR Hand Left,msk,X-Ray - Magnification,arm
+6618,XR Hand Left,msk,X-Ray - Specimen,arm
+6618,XR Hand Left,msk,X-Ray - Standard,arm
+6618,XR Hand Left,msk,X-Ray - Stereoscopic,arm
+6618,XR Hand Left,msk,X-Ray w/Fluoroscopy,arm
+6619,XR Hand Right,msk,Pelvimetry,arm
+6619,XR Hand Right,msk,Radiography,arm
+6619,XR Hand Right,msk,X-Ray - Dental,arm
+6619,XR Hand Right,msk,X-Ray - Diskography,arm
+6619,XR Hand Right,msk,X-Ray - Magnification,arm
+6619,XR Hand Right,msk,X-Ray - Specimen,arm
+6619,XR Hand Right,msk,X-Ray - Standard,arm
+6619,XR Hand Right,msk,X-Ray - Stereoscopic,arm
+6619,XR Hand Right,msk,X-Ray w/Fluoroscopy,arm
+6620,XR Humerus Left,msk,Pelvimetry,arm
+6620,XR Humerus Left,msk,Radiography,arm
+6620,XR Humerus Left,msk,X-Ray - Dental,arm
+6620,XR Humerus Left,msk,X-Ray - Diskography,arm
+6620,XR Humerus Left,msk,X-Ray - Magnification,arm
+6620,XR Humerus Left,msk,X-Ray - Specimen,arm
+6620,XR Humerus Left,msk,X-Ray - Standard,arm
+6620,XR Humerus Left,msk,X-Ray - Stereoscopic,arm
+6620,XR Humerus Left,msk,X-Ray w/Fluoroscopy,arm
+6621,XR Humerus Right,msk,Pelvimetry,arm
+6621,XR Humerus Right,msk,Radiography,arm
+6621,XR Humerus Right,msk,X-Ray - Dental,arm
+6621,XR Humerus Right,msk,X-Ray - Diskography,arm
+6621,XR Humerus Right,msk,X-Ray - Magnification,arm
+6621,XR Humerus Right,msk,X-Ray - Specimen,arm
+6621,XR Humerus Right,msk,X-Ray - Standard,arm
+6621,XR Humerus Right,msk,X-Ray - Stereoscopic,arm
+6621,XR Humerus Right,msk,X-Ray w/Fluoroscopy,arm
+6622,XR Knee Left,msk,Pelvimetry,leg
+6622,XR Knee Left,msk,Radiography,leg
+6622,XR Knee Left,msk,X-Ray - Dental,leg
+6622,XR Knee Left,msk,X-Ray - Diskography,leg
+6622,XR Knee Left,msk,X-Ray - Magnification,leg
+6622,XR Knee Left,msk,X-Ray - Specimen,leg
+6622,XR Knee Left,msk,X-Ray - Standard,leg
+6622,XR Knee Left,msk,X-Ray - Stereoscopic,leg
+6622,XR Knee Left,msk,X-Ray w/Fluoroscopy,leg
+6623,XR Knee Right,msk,Pelvimetry,leg
+6623,XR Knee Right,msk,Radiography,leg
+6623,XR Knee Right,msk,X-Ray - Dental,leg
+6623,XR Knee Right,msk,X-Ray - Diskography,leg
+6623,XR Knee Right,msk,X-Ray - Magnification,leg
+6623,XR Knee Right,msk,X-Ray - Specimen,leg
+6623,XR Knee Right,msk,X-Ray - Standard,leg
+6623,XR Knee Right,msk,X-Ray - Stereoscopic,leg
+6623,XR Knee Right,msk,X-Ray w/Fluoroscopy,leg
+6624,XR Lumbar Spine,msk,Pelvimetry,abdomen
+6624,XR Lumbar Spine,msk,Radiography,abdomen
+6624,XR Lumbar Spine,msk,X-Ray - Dental,abdomen
+6624,XR Lumbar Spine,msk,X-Ray - Diskography,abdomen
+6624,XR Lumbar Spine,msk,X-Ray - Magnification,abdomen
+6624,XR Lumbar Spine,msk,X-Ray - Specimen,abdomen
+6624,XR Lumbar Spine,msk,X-Ray - Standard,abdomen
+6624,XR Lumbar Spine,msk,X-Ray - Stereoscopic,abdomen
+6624,XR Lumbar Spine,msk,X-Ray w/Fluoroscopy,abdomen
+6627,XR Pelvis,msk,Pelvimetry,pelvis
+6627,XR Pelvis,msk,Radiography,pelvis
+6627,XR Pelvis,msk,X-Ray - Dental,pelvis
+6627,XR Pelvis,msk,X-Ray - Diskography,pelvis
+6627,XR Pelvis,msk,X-Ray - Magnification,pelvis
+6627,XR Pelvis,msk,X-Ray - Specimen,pelvis
+6627,XR Pelvis,msk,X-Ray - Standard,pelvis
+6627,XR Pelvis,msk,X-Ray - Stereoscopic,pelvis
+6627,XR Pelvis,msk,X-Ray w/Fluoroscopy,pelvis
+6628,XR Ribs Left,msk,Pelvimetry,chest
+6628,XR Ribs Left,msk,Radiography,chest
+6628,XR Ribs Left,msk,X-Ray - Dental,chest
+6628,XR Ribs Left,msk,X-Ray - Diskography,chest
+6628,XR Ribs Left,msk,X-Ray - Magnification,chest
+6628,XR Ribs Left,msk,X-Ray - Specimen,chest
+6628,XR Ribs Left,msk,X-Ray - Standard,chest
+6628,XR Ribs Left,msk,X-Ray - Stereoscopic,chest
+6628,XR Ribs Left,msk,X-Ray w/Fluoroscopy,chest
+6629,XR Ribs Right,msk,Pelvimetry,chest
+6629,XR Ribs Right,msk,Radiography,chest
+6629,XR Ribs Right,msk,X-Ray - Dental,chest
+6629,XR Ribs Right,msk,X-Ray - Diskography,chest
+6629,XR Ribs Right,msk,X-Ray - Magnification,chest
+6629,XR Ribs Right,msk,X-Ray - Specimen,chest
+6629,XR Ribs Right,msk,X-Ray - Standard,chest
+6629,XR Ribs Right,msk,X-Ray - Stereoscopic,chest
+6629,XR Ribs Right,msk,X-Ray w/Fluoroscopy,chest
+6630,XR Shoulder Left,msk,Pelvimetry,arm
+6630,XR Shoulder Left,msk,Radiography,arm
+6630,XR Shoulder Left,msk,X-Ray - Dental,arm
+6630,XR Shoulder Left,msk,X-Ray - Diskography,arm
+6630,XR Shoulder Left,msk,X-Ray - Magnification,arm
+6630,XR Shoulder Left,msk,X-Ray - Specimen,arm
+6630,XR Shoulder Left,msk,X-Ray - Standard,arm
+6630,XR Shoulder Left,msk,X-Ray - Stereoscopic,arm
+6630,XR Shoulder Left,msk,X-Ray w/Fluoroscopy,arm
+6631,XR Shoulder Right,msk,Pelvimetry,arm
+6631,XR Shoulder Right,msk,Radiography,arm
+6631,XR Shoulder Right,msk,X-Ray - Dental,arm
+6631,XR Shoulder Right,msk,X-Ray - Diskography,arm
+6631,XR Shoulder Right,msk,X-Ray - Magnification,arm
+6631,XR Shoulder Right,msk,X-Ray - Specimen,arm
+6631,XR Shoulder Right,msk,X-Ray - Standard,arm
+6631,XR Shoulder Right,msk,X-Ray - Stereoscopic,arm
+6631,XR Shoulder Right,msk,X-Ray w/Fluoroscopy,arm
+6632,XR Tibia Fibula Left,msk,Pelvimetry,leg
+6632,XR Tibia Fibula Left,msk,Radiography,leg
+6632,XR Tibia Fibula Left,msk,X-Ray - Dental,leg
+6632,XR Tibia Fibula Left,msk,X-Ray - Diskography,leg
+6632,XR Tibia Fibula Left,msk,X-Ray - Magnification,leg
+6632,XR Tibia Fibula Left,msk,X-Ray - Specimen,leg
+6632,XR Tibia Fibula Left,msk,X-Ray - Standard,leg
+6632,XR Tibia Fibula Left,msk,X-Ray - Stereoscopic,leg
+6632,XR Tibia Fibula Left,msk,X-Ray w/Fluoroscopy,leg
+6633,XR Tibia Fibula Right,msk,Pelvimetry,leg
+6633,XR Tibia Fibula Right,msk,Radiography,leg
+6633,XR Tibia Fibula Right,msk,X-Ray - Dental,leg
+6633,XR Tibia Fibula Right,msk,X-Ray - Diskography,leg
+6633,XR Tibia Fibula Right,msk,X-Ray - Magnification,leg
+6633,XR Tibia Fibula Right,msk,X-Ray - Specimen,leg
+6633,XR Tibia Fibula Right,msk,X-Ray - Standard,leg
+6633,XR Tibia Fibula Right,msk,X-Ray - Stereoscopic,leg
+6633,XR Tibia Fibula Right,msk,X-Ray w/Fluoroscopy,leg
+6634,XR Wrist Left,msk,Pelvimetry,arm
+6634,XR Wrist Left,msk,Radiography,arm
+6634,XR Wrist Left,msk,X-Ray - Dental,arm
+6634,XR Wrist Left,msk,X-Ray - Diskography,arm
+6634,XR Wrist Left,msk,X-Ray - Magnification,arm
+6634,XR Wrist Left,msk,X-Ray - Specimen,arm
+6634,XR Wrist Left,msk,X-Ray - Standard,arm
+6634,XR Wrist Left,msk,X-Ray - Stereoscopic,arm
+6634,XR Wrist Left,msk,X-Ray w/Fluoroscopy,arm
+6635,XR Wrist Right,msk,Pelvimetry,arm
+6635,XR Wrist Right,msk,Radiography,arm
+6635,XR Wrist Right,msk,X-Ray - Dental,arm
+6635,XR Wrist Right,msk,X-Ray - Diskography,arm
+6635,XR Wrist Right,msk,X-Ray - Magnification,arm
+6635,XR Wrist Right,msk,X-Ray - Specimen,arm
+6635,XR Wrist Right,msk,X-Ray - Standard,arm
+6635,XR Wrist Right,msk,X-Ray - Stereoscopic,arm
+6635,XR Wrist Right,msk,X-Ray w/Fluoroscopy,arm
+6636,XR Face,msk,Pelvimetry,head
+6636,XR Face,msk,Radiography,head
+6636,XR Face,msk,X-Ray - Dental,head
+6636,XR Face,msk,X-Ray - Diskography,head
+6636,XR Face,msk,X-Ray - Magnification,head
+6636,XR Face,msk,X-Ray - Specimen,head
+6636,XR Face,msk,X-Ray - Standard,head
+6636,XR Face,msk,X-Ray - Stereoscopic,head
+6636,XR Face,msk,X-Ray w/Fluoroscopy,head
+6637,XR Chest,thoracic,Pelvimetry,chest
+6637,XR Chest,thoracic,Radiography,chest
+6637,XR Chest,thoracic,X-Ray - Dental,chest
+6637,XR Chest,thoracic,X-Ray - Diskography,chest
+6637,XR Chest,thoracic,X-Ray - Magnification,chest
+6637,XR Chest,thoracic,X-Ray - Specimen,chest
+6637,XR Chest,thoracic,X-Ray - Standard,chest
+6637,XR Chest,thoracic,X-Ray - Stereoscopic,chest
+6637,XR Chest,thoracic,X-Ray w/Fluoroscopy,chest
+6638,XR Neck,msk,Pelvimetry,neck
+6638,XR Neck,msk,Radiography,neck
+6638,XR Neck,msk,X-Ray - Absorptiometry,neck
+6638,XR Neck,msk,X-Ray - Dental,neck
+6638,XR Neck,msk,X-Ray - Diskography,neck
+6638,XR Neck,msk,X-Ray - Magnification,neck
+6638,XR Neck,msk,X-Ray - Specimen,neck
+6638,XR Neck,msk,X-Ray - Standard,neck
+6638,XR Neck,msk,X-Ray - Stereoscopic,neck
+6638,XR Neck,msk,X-Ray w/Fluoroscopy,neck
+6639,CT Abdomen,abdominal,Calcium Scoring,abdomen
+6639,CT Abdomen,abdominal,Conventional Tomography,abdomen
+6639,CT Abdomen,abdominal,CT,abdomen
+6645,CT Chest Trachea,thoracic,Calcium Scoring,chest
+6645,CT Chest Trachea,thoracic,Conventional Tomography,chest
+6645,CT Chest Trachea,thoracic,CT,chest
+6648,CT Face I+,neuro,Calcium Scoring,head
+6648,CT Face I+,neuro,Conventional Tomography,head
+6648,CT Face I+,neuro,CT,head
+6667,CT Parathyroid,neuro,Calcium Scoring,neck
+6667,CT Parathyroid,neuro,Conventional Tomography,neck
+6667,CT Parathyroid,neuro,CT,neck
+6667,CT Parathyroid,neuro,CTA,neck
+6679,CTA Abdomen,cv,Calcium Scoring,abdomen
+6679,CTA Abdomen,cv,Conventional Tomography,abdomen
+6679,CTA Abdomen,cv,CT,abdomen
+6679,CTA Abdomen,cv,CTA,abdomen
+6680,CTA Abdomen Pelvis Venogram,cv,Calcium Scoring,abdomen
+6680,CTA Abdomen Pelvis Venogram,cv,Conventional Tomography,abdomen
+6680,CTA Abdomen Pelvis Venogram,cv,CT,abdomen
+6680,CTA Abdomen Pelvis Venogram,cv,CTA,abdomen
+6681,CTA Chest Venogram,cv,Calcium Scoring,chest
+6681,CTA Chest Venogram,cv,Conventional Tomography,chest
+6681,CTA Chest Venogram,cv,CT,chest
+6681,CTA Chest Venogram,cv,CTA,chest
+6689,MR Breast Left,breast,MR,breast
+6689,MR Breast Left,breast,MRI,breast
+6689,MR Breast Left,breast,MRI - Flow Mapping,breast
+6689,MR Breast Left,breast,MRI - Functional,breast
+6689,MR Breast Left,breast,Spectroscopy,breast
+6690,MR Breast Right,breast,MR,breast
+6690,MR Breast Right,breast,MRI,breast
+6690,MR Breast Right,breast,MRI - Flow Mapping,breast
+6690,MR Breast Right,breast,MRI - Functional,breast
+6690,MR Breast Right,breast,Spectroscopy,breast
+6724,MRA Abdomen Pelvis Venogram,cv,MR,abdomen
+6724,MRA Abdomen Pelvis Venogram,cv,MRA,abdomen
+6724,MRA Abdomen Pelvis Venogram,cv,MRI,abdomen
+6724,MRA Abdomen Pelvis Venogram,cv,MRI - Flow Mapping,abdomen
+6724,MRA Abdomen Pelvis Venogram,cv,MRI - Functional,abdomen
+6724,MRA Abdomen Pelvis Venogram,cv,Spectroscopy,abdomen
+6725,MRA Brain Neck,neuro,MRA,head
+6728,MRA Popliteal Entrapment Right,cv,MRA,leg
+6731,NM PET Scalp to Toes,nm,PET,body
+6731,NM PET Scalp to Toes,nm,PET - Perfusion,body
+6731,NM PET Scalp to Toes,nm,PET w/ CT,body
+6731,NM PET Scalp to Toes,nm,PET w/CT,body
+6731,NM PET Scalp to Toes,nm,PET/CT,body
+6732,NM PET Skull Base to Mid Thighs,nm,PET,body
+6732,NM PET Skull Base to Mid Thighs,nm,PET - Perfusion,body
+6732,NM PET Skull Base to Mid Thighs,nm,PET w/ CT,body
+6732,NM PET Skull Base to Mid Thighs,nm,PET w/CT,body
+6732,NM PET Skull Base to Mid Thighs,nm,PET/CT,body
+6733,US Breast Axilla Bilateral,breast,US,breast
+6733,US Breast Axilla Bilateral,breast,US • Transcranial,breast
+6733,US Breast Axilla Bilateral,breast,US • Transrectal,breast
+6734,US Breast Axilla Left,breast,US,breast
+6734,US Breast Axilla Left,breast,US • Transcranial,breast
+6734,US Breast Axilla Left,breast,US • Transrectal,breast
+6735,US Breast Axilla Right,breast,US,breast
+6735,US Breast Axilla Right,breast,US • Transcranial,breast
+6735,US Breast Axilla Right,breast,US • Transrectal,breast
+6736,US Chest,thoracic,US,chest
+6736,US Chest,thoracic,US • Transcranial,chest
+6736,US Chest,thoracic,US • Transrectal,chest
+6737,XR AC Joint Bilateral,msk,Pelvimetry,arm
+6737,XR AC Joint Bilateral,msk,Radiography,arm
+6737,XR AC Joint Bilateral,msk,X-Ray - Dental,arm
+6737,XR AC Joint Bilateral,msk,X-Ray - Diskography,arm
+6737,XR AC Joint Bilateral,msk,X-Ray - Magnification,arm
+6737,XR AC Joint Bilateral,msk,X-Ray - Specimen,arm
+6737,XR AC Joint Bilateral,msk,X-Ray - Standard,arm
+6737,XR AC Joint Bilateral,msk,X-Ray - Stereoscopic,arm
+6737,XR AC Joint Bilateral,msk,X-Ray w/Fluoroscopy,arm
+6741,XR Foot Bilateral,msk,Pelvimetry,leg
+6741,XR Foot Bilateral,msk,Radiography,leg
+6741,XR Foot Bilateral,msk,X-Ray - Dental,leg
+6741,XR Foot Bilateral,msk,X-Ray - Diskography,leg
+6741,XR Foot Bilateral,msk,X-Ray - Magnification,leg
+6741,XR Foot Bilateral,msk,X-Ray - Specimen,leg
+6741,XR Foot Bilateral,msk,X-Ray - Standard,leg
+6741,XR Foot Bilateral,msk,X-Ray - Stereoscopic,leg
+6741,XR Foot Bilateral,msk,X-Ray w/Fluoroscopy,leg
+6742,XR Hand Bilateral,msk,Pelvimetry,arm
+6742,XR Hand Bilateral,msk,Radiography,arm
+6742,XR Hand Bilateral,msk,X-Ray - Dental,arm
+6742,XR Hand Bilateral,msk,X-Ray - Diskography,arm
+6742,XR Hand Bilateral,msk,X-Ray - Magnification,arm
+6742,XR Hand Bilateral,msk,X-Ray - Specimen,arm
+6742,XR Hand Bilateral,msk,X-Ray - Standard,arm
+6742,XR Hand Bilateral,msk,X-Ray - Stereoscopic,arm
+6742,XR Hand Bilateral,msk,X-Ray w/Fluoroscopy,arm
+6743,XR Hip Bilateral,msk,Pelvimetry,pelvis
+6743,XR Hip Bilateral,msk,Radiography,pelvis
+6743,XR Hip Bilateral,msk,X-Ray - Dental,pelvis
+6743,XR Hip Bilateral,msk,X-Ray - Diskography,pelvis
+6743,XR Hip Bilateral,msk,X-Ray - Magnification,pelvis
+6743,XR Hip Bilateral,msk,X-Ray - Specimen,pelvis
+6743,XR Hip Bilateral,msk,X-Ray - Standard,pelvis
+6743,XR Hip Bilateral,msk,X-Ray - Stereoscopic,pelvis
+6743,XR Hip Bilateral,msk,X-Ray w/Fluoroscopy,pelvis
+6745,XR Knee Bilateral,msk,Pelvimetry,leg
+6745,XR Knee Bilateral,msk,Radiography,leg
+6745,XR Knee Bilateral,msk,X-Ray - Dental,leg
+6745,XR Knee Bilateral,msk,X-Ray - Diskography,leg
+6745,XR Knee Bilateral,msk,X-Ray - Magnification,leg
+6745,XR Knee Bilateral,msk,X-Ray - Specimen,leg
+6745,XR Knee Bilateral,msk,X-Ray - Standard,leg
+6745,XR Knee Bilateral,msk,X-Ray - Stereoscopic,leg
+6745,XR Knee Bilateral,msk,X-Ray w/Fluoroscopy,leg
+6746,XR Ribs Bilateral,msk,Pelvimetry,chest
+6746,XR Ribs Bilateral,msk,Radiography,chest
+6746,XR Ribs Bilateral,msk,X-Ray - Dental,chest
+6746,XR Ribs Bilateral,msk,X-Ray - Diskography,chest
+6746,XR Ribs Bilateral,msk,X-Ray - Magnification,chest
+6746,XR Ribs Bilateral,msk,X-Ray - Specimen,chest
+6746,XR Ribs Bilateral,msk,X-Ray - Standard,chest
+6746,XR Ribs Bilateral,msk,X-Ray - Stereoscopic,chest
+6746,XR Ribs Bilateral,msk,X-Ray w/Fluoroscopy,chest
+6747,XR Shoulder Bilateral,msk,Pelvimetry,arm
+6747,XR Shoulder Bilateral,msk,Radiography,arm
+6747,XR Shoulder Bilateral,msk,X-Ray - Dental,arm
+6747,XR Shoulder Bilateral,msk,X-Ray - Diskography,arm
+6747,XR Shoulder Bilateral,msk,X-Ray - Magnification,arm
+6747,XR Shoulder Bilateral,msk,X-Ray - Specimen,arm
+6747,XR Shoulder Bilateral,msk,X-Ray - Standard,arm
+6747,XR Shoulder Bilateral,msk,X-Ray - Stereoscopic,arm
+6747,XR Shoulder Bilateral,msk,X-Ray w/Fluoroscopy,arm
+6748,XR Wrist Bilateral,msk,Pelvimetry,arm
+6748,XR Wrist Bilateral,msk,Radiography,arm
+6748,XR Wrist Bilateral,msk,X-Ray - Dental,arm
+6748,XR Wrist Bilateral,msk,X-Ray - Diskography,arm
+6748,XR Wrist Bilateral,msk,X-Ray - Magnification,arm
+6748,XR Wrist Bilateral,msk,X-Ray - Specimen,arm
+6748,XR Wrist Bilateral,msk,X-Ray - Standard,arm
+6748,XR Wrist Bilateral,msk,X-Ray - Stereoscopic,arm
+6748,XR Wrist Bilateral,msk,X-Ray w/Fluoroscopy,arm
+6749,XR Thoracic Spine,msk,Radiography,chest
+6749,XR Thoracic Spine,msk,X-Ray - Absorptiometry,chest
+6749,XR Thoracic Spine,msk,X-Ray - Dental,chest
+6749,XR Thoracic Spine,msk,X-Ray - Diskography,chest
+6749,XR Thoracic Spine,msk,X-Ray - Magnification,chest
+6749,XR Thoracic Spine,msk,X-Ray - Specimen,chest
+6749,XR Thoracic Spine,msk,X-Ray - Standard,chest
+6749,XR Thoracic Spine,msk,X-Ray - Stereoscopic,chest
+6749,XR Thoracic Spine,msk,X-Ray w/Fluoroscopy,chest
+6750,XR Sacrum and Coccyx,msk,Radiography,pelvis
+6750,XR Sacrum and Coccyx,msk,X-Ray - Dental,pelvis
+6750,XR Sacrum and Coccyx,msk,X-Ray - Diskography,pelvis
+6750,XR Sacrum and Coccyx,msk,X-Ray - Magnification,pelvis
+6750,XR Sacrum and Coccyx,msk,X-Ray - Specimen,pelvis
+6750,XR Sacrum and Coccyx,msk,X-Ray - Standard,pelvis
+6750,XR Sacrum and Coccyx,msk,X-Ray - Stereoscopic,pelvis
+6750,XR Sacrum and Coccyx,msk,X-Ray w/Fluoroscopy,pelvis
+6751,XR Sacroiliac Joints,msk,Radiography,pelvis
+6751,XR Sacroiliac Joints,msk,X-Ray - Dental,pelvis
+6751,XR Sacroiliac Joints,msk,X-Ray - Diskography,pelvis
+6751,XR Sacroiliac Joints,msk,X-Ray - Magnification,pelvis
+6751,XR Sacroiliac Joints,msk,X-Ray - Specimen,pelvis
+6751,XR Sacroiliac Joints,msk,X-Ray - Standard,pelvis
+6751,XR Sacroiliac Joints,msk,X-Ray - Stereoscopic,pelvis
+6751,XR Sacroiliac Joints,msk,X-Ray w/Fluoroscopy,pelvis
+6752,XR Skull,msk,Radiography,head
+6752,XR Skull,msk,X-Ray - Absorptiometry,head
+6752,XR Skull,msk,X-Ray - Dental,head
+6752,XR Skull,msk,X-Ray - Diskography,head
+6752,XR Skull,msk,X-Ray - Magnification,head
+6752,XR Skull,msk,X-Ray - Specimen,head
+6752,XR Skull,msk,X-Ray - Standard,head
+6752,XR Skull,msk,X-Ray - Stereoscopic,head
+6752,XR Skull,msk,X-Ray w/Fluoroscopy,head
+6753,US Abdomen Vasculature,abdominal,US,abdomen
+6753,US Abdomen Vasculature,abdominal,US - Duplex,abdomen
+6753,US Abdomen Vasculature,abdominal,US • Transcranial,abdomen
+6753,US Abdomen Vasculature,abdominal,US • Transrectal,abdomen
+6753,US Abdomen Vasculature,abdominal,US Duplex,abdomen
+6753,US Abdomen Vasculature,abdominal,Vascular Lab,abdomen
+6757,US Neck Lymph Node Survey,thoracic,US,neck
+6757,US Neck Lymph Node Survey,thoracic,US • Transcranial,neck
+6757,US Neck Lymph Node Survey,thoracic,US • Transrectal,neck
+6758,US Infant Hips,msk,US - Infant,leg
+6759,XR Skeletal Survey,msk,Radiography,body
+6759,XR Skeletal Survey,msk,X-Ray - Diskography,body
+6759,XR Skeletal Survey,msk,X-Ray - Magnification,body
+6759,XR Skeletal Survey,msk,X-Ray - Standard,body
+6759,XR Skeletal Survey,msk,X-Ray - Stereoscopic,body
+6759,XR Skeletal Survey,msk,X-Ray w/Fluoroscopy,body
+6760,US Breast Bilateral,breast,US,breast
+6760,US Breast Bilateral,breast,US • Transcranial,breast
+6760,US Breast Bilateral,breast,US • Transrectal,breast
+6761,US Lower Extremity Non-Venous Right,msk,US,leg
+6761,US Lower Extremity Non-Venous Right,msk,US • Transcranial,leg
+6761,US Lower Extremity Non-Venous Right,msk,US • Transrectal,leg
+6762,US Lower Extremity Non-Venous Left,msk,US,leg
+6762,US Lower Extremity Non-Venous Left,msk,US • Transcranial,leg
+6762,US Lower Extremity Non-Venous Left,msk,US • Transrectal,leg
+6763,US Upper Extremity Non-Venous Right,msk,US,arm
+6763,US Upper Extremity Non-Venous Right,msk,US • Transcranial,arm
+6763,US Upper Extremity Non-Venous Right,msk,US • Transrectal,arm
+6764,US Upper Extremity Non-Venous Left,msk,US,arm
+6764,US Upper Extremity Non-Venous Left,msk,US • Transcranial,arm
+6764,US Upper Extremity Non-Venous Left,msk,US • Transrectal,arm
+6770,US Upper Back,msk,US,chest
+6770,US Upper Back,msk,US • Transcranial,chest
+6770,US Upper Back,msk,US • Transrectal,chest
+6771,US Lower Back,msk,US,abdomen
+6771,US Lower Back,msk,US • Transcranial,abdomen
+6771,US Lower Back,msk,US • Transrectal,abdomen
+6773,CT Chest Esophagus,thoracic,Calcium Scoring,chest
+6773,CT Chest Esophagus,thoracic,Conventional Tomography,chest
+6773,CT Chest Esophagus,thoracic,CT,chest
+6774,CT Pulmonary veins,cv,Calcium Scoring,chest
+6774,CT Pulmonary veins,cv,Conventional Tomography,chest
+6774,CT Pulmonary veins,cv,CT,chest
+6774,CT Pulmonary veins,cv,CTA,chest
+6780,MR Pulmonary vein,cv,MR,chest
+6780,MR Pulmonary vein,cv,MRA,chest
+6780,MR Pulmonary vein,cv,MRI,chest
+6780,MR Pulmonary vein,cv,MRI - Flow Mapping,chest
+6780,MR Pulmonary vein,cv,MRI - Functional,chest
+6780,MR Pulmonary vein,cv,Spectroscopy,chest
+6781,US Infant Spinal Canal,spine,US - Infant,body
+6782,MRI Toe Left,msk,MR,leg
+6782,MRI Toe Left,msk,MRI,leg
+6782,MRI Toe Left,msk,MRI - Flow Mapping,leg
+6782,MRI Toe Left,msk,MRI - Functional,leg
+6782,MRI Toe Left,msk,Pelvimetry,leg
+6783,MRI Toe Right,msk,MR,leg
+6783,MRI Toe Right,msk,MRI,leg
+6783,MRI Toe Right,msk,MRI - Flow Mapping,leg
+6783,MRI Toe Right,msk,MRI - Functional,leg
+6783,MRI Toe Right,msk,Pelvimetry,leg
+6784,XR Toe Right,msk,Radiography,leg
+6784,XR Toe Right,msk,Spectroscopy,leg
+6784,XR Toe Right,msk,X-Ray - Dental,leg
+6784,XR Toe Right,msk,X-Ray - Diskography,leg
+6784,XR Toe Right,msk,X-Ray - Magnification,leg
+6784,XR Toe Right,msk,X-Ray - Specimen,leg
+6784,XR Toe Right,msk,X-Ray - Standard,leg
+6784,XR Toe Right,msk,X-Ray - Stereoscopic,leg
+6784,XR Toe Right,msk,X-Ray w/Fluoroscopy,leg
+6785,XR Toe Left,msk,Radiography,leg
+6785,XR Toe Left,msk,Spectroscopy,leg
+6785,XR Toe Left,msk,X-Ray - Dental,leg
+6785,XR Toe Left,msk,X-Ray - Diskography,leg
+6785,XR Toe Left,msk,X-Ray - Magnification,leg
+6785,XR Toe Left,msk,X-Ray - Specimen,leg
+6785,XR Toe Left,msk,X-Ray - Standard,leg
+6785,XR Toe Left,msk,X-Ray - Stereoscopic,leg
+6785,XR Toe Left,msk,X-Ray w/Fluoroscopy,leg
+6786,XR Sternum,msk,Pelvimetry,chest
+6786,XR Sternum,msk,Radiography,chest
+6786,XR Sternum,msk,X-Ray - Dental,chest
+6786,XR Sternum,msk,X-Ray - Diskography,chest
+6786,XR Sternum,msk,X-Ray - Magnification,chest
+6786,XR Sternum,msk,X-Ray - Specimen,chest
+6786,XR Sternum,msk,X-Ray - Standard,chest
+6786,XR Sternum,msk,X-Ray - Stereoscopic,chest
+6786,XR Sternum,msk,X-Ray w/Fluoroscopy,chest

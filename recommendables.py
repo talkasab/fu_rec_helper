@@ -70,7 +70,7 @@ def show_how_to_recommend(recommendable: str):
 def get_recommendable_from_query():
     query_recommendable = st.query_params.get("recommendable")
     if query_recommendable:
-        st.session_state.update(recommendable=query_recommendable)
+        st.session_state.update(recommendable=query_recommendable) # pyright: ignore[reportCallIssue]
     return query_recommendable
 
 

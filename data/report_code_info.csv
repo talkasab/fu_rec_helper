@@ -148,7 +148,6 @@ CTCardiacMass,CT Cardiac Mass,cv,CT,chest
 XRClavicleRight,XR Clavicle Right,msk,XR,arm
 MRBrainPituitary,MR Brain Pituitary,neuro,MR,head
 WithContrast,MR Shoulder Left I+,special,,
-USAxillaNonBreastLeft,US Axilla Non Breast Left,abdominal,US,arm
 NMPETCTProstateAxumin,NM PET CT Prostate Axumin,nm,PET,body
 WithContrast,MR Cervical Thoracic Lumbar Spine I+,special,,
 WithContrast,CT Foot Left I+,special,,
@@ -167,7 +166,6 @@ WithContrast,CT Hip Right I+,special,,
 CTToeLeftIPlus,CT Toe Left I+,msk,CT,leg
 WithContrast,CT Tibia Fibula Left I+,special,,
 MRLiverIronQuantification,MR Liver Iron Quantification,abdominal,MR,abdomen
-USAxillaNonBreastRight,US Axilla Non Breast Right,abdominal,US,arm
 USParotid,US Parotid,neuro,US,head
 Arthrogram,MR Knee Arthrogram Left,special,,
 MRScapulaLeft,MR Scapula Left,msk,MR,arm

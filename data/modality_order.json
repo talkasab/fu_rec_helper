@@ -68,6 +68,7 @@
   "  MRI - Flow Mapping",
   "  MRI - Functional",
   "  Spectroscopy",
+  "MRI-MRCP",
   "Nuclear Medicine",
   "  Gamma Camera Imaging - Planar",
   "  NUC- Spect",
@@ -99,5 +100,6 @@
   "  US - Transcranial",
   "  US - Transesophageal",
   "  US - Transrectal",
-  "  Vascular Lab"
+  "  Vascular Lab",
+  "US - Infant"
 ]

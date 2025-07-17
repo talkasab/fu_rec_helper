@@ -1,4 +1,4 @@
-"""Take a new TSV mapping file and update our parquet mapping file."""
+"""Take a new CSV mapping file and update our parquet mapping file."""
 
 from pathlib import Path
 from sys import argv
@@ -21,7 +21,8 @@ def load_new_mapping(filename: str) -> pd.DataFrame:
     update_file = Path(filename)
     if not update_file.exists():
         raise FileNotFoundError(f"Update file {update_file} not found.")
-    updated = pd.read_csv(update_file, delimiter="|")
+    updated = pd.read_csv(update_file)
+    print(f"{updated.keys()=}")
     updated["BodyPartNorm"] = (
         updated["BodyPart"].str.lower().str.replace(r"\W", "", regex=True)
     )
@@ -33,7 +34,7 @@ def load_new_mapping(filename: str) -> pd.DataFrame:
     )
     updated.set_index(["BodyPartNorm", "ModalityNorm", "LateralityNorm"], inplace=True)
     updated["CoreModality"] = updated["Modality"].isin(CORE_MODALITIES)
-    updated.drop(columns=["RecommendableID"], inplace=True)
+    updated.drop(columns=["RecID"], inplace=True)
     return updated
 
 

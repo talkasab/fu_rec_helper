@@ -13,7 +13,8 @@ def load_mappings(filename: str) -> pd.DataFrame:
     # - Drop the RecID column
     df = pd.read_csv(
         filename,
-        sep="|",
+        header=1,
+        names=["BodyPart", "Modality", "Laterality", "RecID", "Recommendable"],
         dtype={
             "BodyPart": "str",
             "Modality": "str",
@@ -67,7 +68,6 @@ def load_report_codes(filename) -> pd.DataFrame:
     # Make InsertedRecommendable and ReplaceRecommendable categories
     df = pd.read_csv(
         filename,
-        sep="|",
         dtype={
             "inserted_recommendable": "str",
             "replace_recommendable": "str",
@@ -86,17 +86,31 @@ def load_report_codes(filename) -> pd.DataFrame:
     return df
 
 
-def load_recommendables(filename: str) -> pd.DataFrame:
+def load_recommendables(filename: str, filename2: str | None = None) -> pd.DataFrame:
     # Load the mappings file using pyarrow data types
-    df = pd.read_csv(
-        filename,
-        usecols=["name", "category", "modality", "region"],
-    )
-    df["Name"] = df["name"].astype("category")
-    df["Category"] = df["category"].astype("category")
-    df["Modality"] = df["modality"].astype("category")
-    df["Region"] = df["region"].astype("category")
-    df = df.drop(columns=["name", "category", "modality", "region"])
+    def load_recommendables_from_file(filename: str) -> pd.DataFrame:
+        df = pd.read_csv(
+            filename,
+            header=1,
+            names=["id", "Name", "Category", "Modality", "Region"],
+            usecols=["Name", "Category", "Modality", "Region"],
+            dtype={
+                "Name": "str",
+                "Category": "str",
+                "Modality": "str",
+                "Region": "str",
+            },
+        )
+        df["Name"] = df["Name"].astype("category")
+        df["Category"] = df["Category"].astype("category")
+        df["Modality"] = df["Modality"].astype("category")
+        df["Region"] = df["Region"].astype("category")
+        return df
+
+    df = load_recommendables_from_file(filename)
+    if filename2:
+        df2 = load_recommendables_from_file(filename2)
+        df = pd.concat([df, df2])
     return df
 
 
@@ -111,11 +125,15 @@ def create_report_code_info(
         recommendables, left_on="InsertedRecommendable", right_on="Name"
     )
     report_code_info.drop(columns=["Name"], inplace=True)
+    # When I try to set the Category column to "special", it throws a "Cannot setitem on a Categorical with a new category" error
+    # So I will first convert the Category column to a string, then set it to "special"
+    report_code_info["Category"] = report_code_info["Category"].astype(str)
     # If code is Venogram, WithContrast, or Arthrogram, set Category to "special", and Modality and Region to NaN
     report_code_info.loc[
         report_code_info["code"].isin(["Venogram", "WithContrast", "Arthrogram"]),
         ["Category", "Modality", "Region"],
     ] = ["special", np.nan, np.nan]
+    report_code_info["Category"] = report_code_info["Category"].astype("category")
     return report_code_info
 
 
